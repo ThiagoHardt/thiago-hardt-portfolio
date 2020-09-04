@@ -1,7 +1,9 @@
-# Tthiago H-hardt P-portfolio
-This project aims to create a fully functional esiMilestone project forstatic front-end site using technologies learned throut Code Institute
-.
+# Thiago Hardt Portfolio
+This project aims to create a fully functional static front-end site using technologies learned throughout Code's Institute full stack web developer course.
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjU3MDI1NDQsLTE2NDk2NTY2NTBdfQ
+eyJoaXN0b3J5IjpbLTE2MTEyNDQwOTAsLTE2NDk2NTY2NTBdfQ
 ==
 -->
