@@ -2,7 +2,7 @@
 
 Hello there!
 
-This project aims to create a fully functional static front-end site using technologies learned throughout Code's Institute full stack web developer course.
+This project aims to create a fully functional static front-end site using technologies learned throughout Code Institute full stack web developer course.
 
 # UX
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
@@ -84,6 +84,6 @@ In addition, if it is not obvious, you should also describe how to run your code
 -   I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTM0NzQ1MTYsMTQ0NzI5NTY5NiwtMT
-YxMTI0NDA5MCwtMTY0OTY1NjY1MF19
+eyJoaXN0b3J5IjpbMTAzMzU1NDY0OCwtMTE1MzQ3NDUxNiwxND
+Q3Mjk1Njk2LC0xNjExMjQ0MDkwLC0xNjQ5NjU2NjUwXX0=
 -->
