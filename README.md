@@ -35,11 +35,9 @@ Contact form.
 -   **Download CV Button:** This feature enables the user to directly download a .pdf version of the developer’s CV.
 -   **Contact Form:** Allows the user (potential employer or client) to get in touch with the developer by filling a contact form that will be sent straight to his e-mail.
 
+### Features Left to Implement
 
-
-### [](https://github.com/Code-Institute-Solutions/readme-template#features-left-to-implement)Features Left to Implement
-
--   Another feature idea
+-  Possibly a **Blog** feature where the user can showcase interests and IT relatet content
 
 ## [](https://github.com/Code-Institute-Solutions/readme-template#technologies-used)Technologies Used
 
@@ -95,7 +93,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 -   I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDg4MTQ0NywxODM4MTAyMzU2LDEwMz
+eyJoaXN0b3J5IjpbMTU5MjEyODA4MywxODM4MTAyMzU2LDEwMz
 M1NTQ2NDgsLTExNTM0NzQ1MTYsMTQ0NzI5NTY5NiwtMTYxMTI0
 NDA5MCwtMTY0OTY1NjY1MF19
 -->
