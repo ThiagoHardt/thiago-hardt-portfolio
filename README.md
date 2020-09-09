@@ -45,9 +45,9 @@ Throughout the project, the following technologies were used.
 
 -   [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
     -   The project uses  **HTML5** 
-    - [CSS3](https://jquery.com/)
-    -   The project uses  **JQuery**  to simplify DOM manipulation.
-    - 
+   - [CSS3](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
+    -   The project uses  **CSS3**  to create styles for the page.- [CSS3](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
+    -   The project uses  **CSS3**  to create styles for the page.
 
 ## [](https://github.com/Code-Institute-Solutions/readme-template#testing)Testing
 
@@ -96,7 +96,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 -   I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzIxNzM4MzIsMTgzODEwMjM1NiwxMD
-MzNTU0NjQ4LC0xMTUzNDc0NTE2LDE0NDcyOTU2OTYsLTE2MTEy
-NDQwOTAsLTE2NDk2NTY2NTBdfQ==
+eyJoaXN0b3J5IjpbMTE3NTIyNTk1OCwxODM4MTAyMzU2LDEwMz
+M1NTQ2NDgsLTExNTM0NzQ1MTYsMTQ0NzI5NTY5NiwtMTYxMTI0
+NDA5MCwtMTY0OTY1NjY1MF19
 -->
