@@ -28,7 +28,7 @@ The main projects the developer worked on. Every project contains a short brief 
 ### Contact:
 Contact form.
 
-Features
+## [](https://github.com/Code-Institute-Solutions/readme-template#features)Features
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
@@ -99,7 +99,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 -   I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MDQwOTgwMiwxODM4MTAyMzU2LDEwMz
+eyJoaXN0b3J5IjpbMTE1NDEzOTI4MywxODM4MTAyMzU2LDEwMz
 M1NTQ2NDgsLTExNTM0NzQ1MTYsMTQ0NzI5NTY5NiwtMTYxMTI0
 NDA5MCwtMTY0OTY1NjY1MF19
 -->
