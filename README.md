@@ -32,12 +32,10 @@ Contact form.
 
 ### Existing Features
 
--   **Download CV Button:** This feature enables the user to directly 
--   **Contact form:** Allows the user (potential employer or client) to get in touch with the developer by filling a contact form that will be sent straight to his e-mail.
+-   **Download CV Button:** This feature enables the user to directly download a .pdf version of the developer’s CV.
+-   **Contact Form:** Allows the user (potential employer or client) to get in touch with the developer by filling a contact form that will be sent straight to his e-mail.
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### [](https://github.com/Code-Institute-Solutions/readme-template#features-left-to-implement)Features Left to Implement
 
@@ -97,7 +95,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 -   I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQ1NzUwMTgsMTgzODEwMjM1NiwxMD
-MzNTU0NjQ4LC0xMTUzNDc0NTE2LDE0NDcyOTU2OTYsLTE2MTEy
-NDQwOTAsLTE2NDk2NTY2NTBdfQ==
+eyJoaXN0b3J5IjpbLTcyNDg4MTQ0NywxODM4MTAyMzU2LDEwMz
+M1NTQ2NDgsLTExNTM0NzQ1MTYsMTQ0NzI5NTY5NiwtMTYxMTI0
+NDA5MCwtMTY0OTY1NjY1MF19
 -->
