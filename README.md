@@ -13,10 +13,9 @@ One of the most important aspects of the website is to keep the navigation simpl
 
 ## User Story
 
--   As a (**who**  wants to accomplish something)
--   I want to (**what**  they want to accomplish)
--   So that (**why**  they want to accomplish that thing)
-
+-   As a **software developer**
+-  I want to **showcase my work in the web**
+-   So that employers and clients can find or hire me
 
 ## Features
 
@@ -101,7 +100,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 -   I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjE3NjUxNCwtMTk2MjM2Njg5OCwxOD
-M4MTAyMzU2LDEwMzM1NTQ2NDgsLTExNTM0NzQ1MTYsMTQ0NzI5
-NTY5NiwtMTYxMTI0NDA5MCwtMTY0OTY1NjY1MF19
+eyJoaXN0b3J5IjpbLTE4NTI2MDA2ODEsLTE5NjIzNjY4OTgsMT
+gzODEwMjM1NiwxMDMzNTU0NjQ4LC0xMTUzNDc0NTE2LDE0NDcy
+OTU2OTYsLTE2MTEyNDQwOTAsLTE2NDk2NTY2NTBdfQ==
 -->
