@@ -13,6 +13,9 @@ The main goal of the page is to create a web presence and act as a link between 
 
 One of the most important aspects of the website is to keep the navigation simple and as straight-forward as possible. To achieve that I have opted to use a one-page structure, with the main information being the “hero” image followed by the developer’s name and a quick access button linking to the “about” section and another to a downloadable cv. Utilizing this structure I make that the most critical information will be not more than 3 clicks away from the user.
 
+
+## Features
+
 The page consists of 4 main sections: Home, About, Projects, and Contact.
 
 ### Home:
@@ -28,11 +31,7 @@ The main projects the developer worked on. Every project contains a short brief 
 ### Contact:
 Contact form.
 
-## [](https://github.com/Code-Institute-Solutions/readme-template#features)Features
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
-
-### [](https://github.com/Code-Institute-Solutions/readme-template#existing-features)Existing Features
+### Existing Features
 
 -   Feature 1 - allows users X to achieve Y, by having them fill out Z
 -   ...
@@ -99,7 +98,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 -   I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDEzOTI4MywxODM4MTAyMzU2LDEwMz
+eyJoaXN0b3J5IjpbMTQ2Mzg3MTEwMywxODM4MTAyMzU2LDEwMz
 M1NTQ2NDgsLTExNTM0NzQ1MTYsMTQ0NzI5NTY5NiwtMTYxMTI0
 NDA5MCwtMTY0OTY1NjY1MF19
 -->
