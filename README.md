@@ -9,7 +9,7 @@ This project aims to create a fully functional static front-end site using techn
 This is a website for a beginner full-stack software developer.
 The main goal of the page is to create a web presence and act as a link between the developer and potential employers and or clients.
 
-One of the most important aspects of the website is to keep the navigation simple and as straight-forward as possible. To achieve that I have opted to use a one-page structure, with the main information being the “hero” image followed by the developer’s name and a quick access button linking to the “about” section and another to a downloadable cv. Utilizing this structure I make that the most critical information will be not more than 3 clicks away from the user.
+One of the most important aspects of the website is to keep the navigation simple and as straight-forward as possible. To achieve that I have opted to use a one-page structure, with the main information being the “hero” image followed by the developer’s name and a quick access button linking to the “about” section and another to a downloadable *CV*. Utilizing this structure I make that the most critical information will be not more than 3 clicks away from the user.
 
 ## User Story
 
@@ -53,7 +53,7 @@ Throughout the project, the following technologies were used.
 - [Bootstrap 4.5.x](https://getbootstrap.com/)
      -   The project uses  **Bootstrap 4.5**  for quick responsiveness and pre-made components.
 
-## [](https://github.com/Code-Institute-Solutions/readme-template#testing)Testing
+## Testing
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
@@ -100,8 +100,8 @@ In addition, if it is not obvious, you should also describe how to run your code
 -   I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwNTI3ODY3LC0xODUyNjAwNjgxLC0xOT
-YyMzY2ODk4LDE4MzgxMDIzNTYsMTAzMzU1NDY0OCwtMTE1MzQ3
-NDUxNiwxNDQ3Mjk1Njk2LC0xNjExMjQ0MDkwLC0xNjQ5NjU2Nj
-UwXX0=
+eyJoaXN0b3J5IjpbLTIwNzc3MDkwNTUsLTE4NTI2MDA2ODEsLT
+E5NjIzNjY4OTgsMTgzODEwMjM1NiwxMDMzNTU0NjQ4LC0xMTUz
+NDc0NTE2LDE0NDcyOTU2OTYsLTE2MTEyNDQwOTAsLTE2NDk2NT
+Y2NTBdfQ==
 -->
