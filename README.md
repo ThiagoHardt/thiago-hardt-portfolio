@@ -6,12 +6,16 @@ This project aims to create a fully functional static front-end site using techn
 
 # UX
 
-## User Story
-
 This is a website for a beginner full-stack software developer.
 The main goal of the page is to create a web presence and act as a link between the developer and potential employers and or clients.
 
 One of the most important aspects of the website is to keep the navigation simple and as straight-forward as possible. To achieve that I have opted to use a one-page structure, with the main information being the “hero” image followed by the developer’s name and a quick access button linking to the “about” section and another to a downloadable cv. Utilizing this structure I make that the most critical information will be not more than 3 clicks away from the user.
+
+## User Story
+
+-   As a (**who**  wants to accomplish something)
+-   I want to (**what**  they want to accomplish)
+-   So that (**why**  they want to accomplish that thing)
 
 
 ## Features
@@ -97,7 +101,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 -   I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNTc0NjAxMCwtMTk2MjM2Njg5OCwxOD
+eyJoaXN0b3J5IjpbLTMxMjE3NjUxNCwtMTk2MjM2Njg5OCwxOD
 M4MTAyMzU2LDEwMzM1NTQ2NDgsLTExNTM0NzQ1MTYsMTQ0NzI5
 NTY5NiwtMTYxMTI0NDA5MCwtMTY0OTY1NjY1MF19
 -->
