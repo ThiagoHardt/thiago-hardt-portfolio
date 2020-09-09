@@ -8,16 +8,27 @@ This project aims to create a fully functional static front-end site using techn
 
 ## User Story
 
-This a portfolio website for a beginner 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+This is a website for a beginner full-stack software developer.
+The main goal of the page is to create a web presence and act as a link between the developer and potential employers and or clients.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+One of the most important aspects of the website is to keep the navigation simple and as straight-forward as possible. To achieve that I have opted to use a one-page structure, with the main information being the “hero” image followed by the developer’s name and a quick access button linking to the “about” section and another to a downloadable cv. Utilizing this structure I make that the most critical information will be not more than 3 clicks away from the user.
 
--   As a user type, I want to perform an action, so that I can achieve a goal.
+The page consists of 4 main sections: Home, About, Projects, and Contact.
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+### Home:
+Contains the main information and it’s where you first land.
 
-## [](https://github.com/Code-Institute-Solutions/readme-template#features)Features
+### About:
+Quickly brief about the developer’s background and skills, with an option to download CV for further information.
+
+  
+### Projects:
+The main projects the developer worked on. Every project contains a short brief to describe it and two buttons, One for a live view of the project and one for the source code.
+
+### Contact:
+Contact form.
+
+Features
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
@@ -88,7 +99,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 -   I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODEwMjM1NiwxMDMzNTU0NjQ4LC0xMT
-UzNDc0NTE2LDE0NDcyOTU2OTYsLTE2MTEyNDQwOTAsLTE2NDk2
-NTY2NTBdfQ==
+eyJoaXN0b3J5IjpbLTU3MDQwOTgwMiwxODM4MTAyMzU2LDEwMz
+M1NTQ2NDgsLTExNTM0NzQ1MTYsMTQ0NzI5NTY5NiwtMTYxMTI0
+NDA5MCwtMTY0OTY1NjY1MF19
 -->
