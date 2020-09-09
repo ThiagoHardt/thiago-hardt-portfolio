@@ -24,7 +24,6 @@ Contains the main information and it’s where you first land.
 ### About:
 Quickly brief about the developer’s background and skills, with an option to download CV for further information.
 
-  
 ### Projects:
 The main projects the developer worked on. Every project contains a short brief to describe it and two buttons, One for a live view of the project and one for the source code.
 
@@ -33,8 +32,7 @@ Contact form.
 
 ### Existing Features
 
--   Feature 1 - allows users X to achieve Y, by having them fill out Z
--   ...
+-   Contact form: Alows the user to get in touch with the developer by filling a contact form that will be sent stri
 
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
@@ -98,7 +96,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 -   I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2Mzg3MTEwMywxODM4MTAyMzU2LDEwMz
-M1NTQ2NDgsLTExNTM0NzQ1MTYsMTQ0NzI5NTY5NiwtMTYxMTI0
-NDA5MCwtMTY0OTY1NjY1MF19
+eyJoaXN0b3J5IjpbNzUzMjI1ODAzLDE4MzgxMDIzNTYsMTAzMz
+U1NDY0OCwtMTE1MzQ3NDUxNiwxNDQ3Mjk1Njk2LC0xNjExMjQ0
+MDkwLC0xNjQ5NjU2NjUwXX0=
 -->
