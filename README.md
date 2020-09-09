@@ -21,10 +21,10 @@ One of the most important aspects of the website is to keep the navigation simpl
 
 The page consists of 4 main sections: Home, About, Projects, and Contact.
 
-### Home:
+**Home:**
 Contains the main information and it’s where you first land.
 
-### About:
+### **About:**
 Quickly brief about the developer’s background and skills, with an option to download CV for further information.
 
 ### Projects:
@@ -100,8 +100,8 @@ In addition, if it is not obvious, you should also describe how to run your code
 -   I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzc3MDkwNTUsLTE4NTI2MDA2ODEsLT
-E5NjIzNjY4OTgsMTgzODEwMjM1NiwxMDMzNTU0NjQ4LC0xMTUz
-NDc0NTE2LDE0NDcyOTU2OTYsLTE2MTEyNDQwOTAsLTE2NDk2NT
-Y2NTBdfQ==
+eyJoaXN0b3J5IjpbNDE0NTMwOTQ4LC0yMDc3NzA5MDU1LC0xOD
+UyNjAwNjgxLC0xOTYyMzY2ODk4LDE4MzgxMDIzNTYsMTAzMzU1
+NDY0OCwtMTE1MzQ3NDUxNiwxNDQ3Mjk1Njk2LC0xNjExMjQ0MD
+kwLC0xNjQ5NjU2NjUwXX0=
 -->
