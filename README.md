@@ -15,7 +15,7 @@ One of the most important aspects of the website is to keep the navigation simpl
 
 -   As a **software developer**
 -  I want to **showcase my work in the web**
--   So that employers and clients can find or hire me
+-   So that employers and clients can find or hire the 
 
 ## Features
 
@@ -100,7 +100,8 @@ In addition, if it is not obvious, you should also describe how to run your code
 -   I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTI2MDA2ODEsLTE5NjIzNjY4OTgsMT
-gzODEwMjM1NiwxMDMzNTU0NjQ4LC0xMTUzNDc0NTE2LDE0NDcy
-OTU2OTYsLTE2MTEyNDQwOTAsLTE2NDk2NTY2NTBdfQ==
+eyJoaXN0b3J5IjpbLTE5MTMzOTc3NjAsLTE4NTI2MDA2ODEsLT
+E5NjIzNjY4OTgsMTgzODEwMjM1NiwxMDMzNTU0NjQ4LC0xMTUz
+NDc0NTE2LDE0NDcyOTU2OTYsLTE2MTEyNDQwOTAsLTE2NDk2NT
+Y2NTBdfQ==
 -->
