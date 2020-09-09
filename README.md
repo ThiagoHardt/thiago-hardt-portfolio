@@ -37,11 +37,11 @@ Contact form.
 
 ### Features Left to Implement
 
--  Possibly a **Blog** feature where the user can showcase interests and IT relatet content
+-  Possibly a **Blog** feature where the user can showcase interests and IT related content
 
-## [](https://github.com/Code-Institute-Solutions/readme-template#technologies-used)Technologies Used
+## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+Throughout the project, the following technologies were used.
 
 -   [JQuery](https://jquery.com/)
     -   The project uses  **JQuery**  to simplify DOM manipulation.
@@ -93,7 +93,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 -   I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MjEyODA4MywxODM4MTAyMzU2LDEwMz
-M1NTQ2NDgsLTExNTM0NzQ1MTYsMTQ0NzI5NTY5NiwtMTYxMTI0
-NDA5MCwtMTY0OTY1NjY1MF19
+eyJoaXN0b3J5IjpbLTE1MjY1ODgwMTUsMTgzODEwMjM1NiwxMD
+MzNTU0NjQ4LC0xMTUzNDc0NTE2LDE0NDcyOTU2OTYsLTE2MTEy
+NDQwOTAsLTE2NDk2NTY2NTBdfQ==
 -->
