@@ -8,7 +8,7 @@ This project aims to create a fully functional static front-end site using techn
 
 ## User Story
 
-The website
+This a portfolio website for a beginner 
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
@@ -88,7 +88,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 -   I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzM1OTMyLDEwMzM1NTQ2NDgsLTExNT
-M0NzQ1MTYsMTQ0NzI5NTY5NiwtMTYxMTI0NDA5MCwtMTY0OTY1
-NjY1MF19
+eyJoaXN0b3J5IjpbMTgzODEwMjM1NiwxMDMzNTU0NjQ4LC0xMT
+UzNDc0NTE2LDE0NDcyOTU2OTYsLTE2MTEyNDQwOTAsLTE2NDk2
+NTY2NTBdfQ==
 -->
