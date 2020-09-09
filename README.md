@@ -47,8 +47,8 @@ Throughout the project, the following technologies were used.
     -   The project uses  **HTML5** 
 - [CSS3](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
      -   The project uses  **CSS3**  to create styles for the page.
-- [Bootstrap 4](https://getbootstrap.com/)
-      -   The project uses  **CSS3**  to create styles for the page.
+- [Bootstrap 4.5.x](https://getbootstrap.com/)
+      -   The project uses  **Bootstrap 4.5**  for quick responsiveness and pre-made components.
 
 ## [](https://github.com/Code-Institute-Solutions/readme-template#testing)Testing
 
@@ -97,7 +97,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 -   I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg1NTA0NDEsMTgzODEwMjM1NiwxMD
+eyJoaXN0b3J5IjpbLTE5NjIzNjY4OTgsMTgzODEwMjM1NiwxMD
 MzNTU0NjQ4LC0xMTUzNDc0NTE2LDE0NDcyOTU2OTYsLTE2MTEy
 NDQwOTAsLTE2NDk2NTY2NTBdfQ==
 -->
