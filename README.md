@@ -32,7 +32,8 @@ Contact form.
 
 ### Existing Features
 
--   Contact form: Alows the user to get in touch with the developer by filling a contact form that will be sent stri
+-   **Download CV Button:** This feature enables the user to directly 
+-   **Contact form:** Allows the user (potential employer or client) to get in touch with the developer by filling a contact form that will be sent straight to his e-mail.
 
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
@@ -96,7 +97,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 -   I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzMjI1ODAzLDE4MzgxMDIzNTYsMTAzMz
-U1NDY0OCwtMTE1MzQ3NDUxNiwxNDQ3Mjk1Njk2LC0xNjExMjQ0
-MDkwLC0xNjQ5NjU2NjUwXX0=
+eyJoaXN0b3J5IjpbLTE1NjQ1NzUwMTgsMTgzODEwMjM1NiwxMD
+MzNTU0NjQ4LC0xMTUzNDc0NTE2LDE0NDcyOTU2OTYsLTE2MTEy
+NDQwOTAsLTE2NDk2NTY2NTBdfQ==
 -->
