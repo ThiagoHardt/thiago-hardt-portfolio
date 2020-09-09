@@ -43,8 +43,11 @@ Contact form.
 
 Throughout the project, the following technologies were used.
 
--   [JQuery](https://jquery.com/)
+-   [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+    -   The project uses  **HTML5** 
+    - [CSS3](https://jquery.com/)
     -   The project uses  **JQuery**  to simplify DOM manipulation.
+    - 
 
 ## [](https://github.com/Code-Institute-Solutions/readme-template#testing)Testing
 
@@ -93,7 +96,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 -   I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjY1ODgwMTUsMTgzODEwMjM1NiwxMD
+eyJoaXN0b3J5IjpbLTE3MzIxNzM4MzIsMTgzODEwMjM1NiwxMD
 MzNTU0NjQ4LC0xMTUzNDc0NTE2LDE0NDcyOTU2OTYsLTE2MTEy
 NDQwOTAsLTE2NDk2NTY2NTBdfQ==
 -->
