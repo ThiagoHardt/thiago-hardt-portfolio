@@ -24,13 +24,13 @@ The page consists of 4 main sections: Home, About, Projects, and Contact.
 **Home:**
 Contains the main information and it’s where you first land.
 
-### **About:**
+**About:**
 Quickly brief about the developer’s background and skills, with an option to download CV for further information.
 
-### Projects:
+**Projects:**
 The main projects the developer worked on. Every project contains a short brief to describe it and two buttons, One for a live view of the project and one for the source code.
 
-### Contact:
+**Contact:**
 Contact form.
 
 ### Existing Features
@@ -100,8 +100,8 @@ In addition, if it is not obvious, you should also describe how to run your code
 -   I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE0NTMwOTQ4LC0yMDc3NzA5MDU1LC0xOD
-UyNjAwNjgxLC0xOTYyMzY2ODk4LDE4MzgxMDIzNTYsMTAzMzU1
-NDY0OCwtMTE1MzQ3NDUxNiwxNDQ3Mjk1Njk2LC0xNjExMjQ0MD
-kwLC0xNjQ5NjU2NjUwXX0=
+eyJoaXN0b3J5IjpbNjAyNDk4OTUsLTIwNzc3MDkwNTUsLTE4NT
+I2MDA2ODEsLTE5NjIzNjY4OTgsMTgzODEwMjM1NiwxMDMzNTU0
+NjQ4LC0xMTUzNDc0NTE2LDE0NDcyOTU2OTYsLTE2MTEyNDQwOT
+AsLTE2NDk2NTY2NTBdfQ==
 -->
