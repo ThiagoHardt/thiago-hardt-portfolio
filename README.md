@@ -5,6 +5,8 @@ Hello there!
 This project aims to create a fully functional static front-end site using technologies learned throughout Code Institute full stack web developer course.
 
 # UX
+
+User stories
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
@@ -84,6 +86,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 -   I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzU1NDY0OCwtMTE1MzQ3NDUxNiwxND
-Q3Mjk1Njk2LC0xNjExMjQ0MDkwLC0xNjQ5NjU2NjUwXX0=
+eyJoaXN0b3J5IjpbNDQxMTE5ODk4LDEwMzM1NTQ2NDgsLTExNT
+M0NzQ1MTYsMTQ0NzI5NTY5NiwtMTYxMTI0NDA5MCwtMTY0OTY1
+NjY1MF19
 -->
