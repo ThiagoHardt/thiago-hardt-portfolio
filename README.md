@@ -53,7 +53,7 @@ Throughout the project, the following technologies were used.
 - [Bootstrap 4.5.x](https://getbootstrap.com/)
      -   The project uses  **Bootstrap 4.5**  for quick responsiveness and pre-made components.
  - [StackEdit](https://stackedit.io/)
-     -   The project uses  **StackEdit**  to .
+     -   The project uses  **StackEdit**  to write the README file.
 
 ## Testing
 
@@ -102,7 +102,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 -   I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2MTk5NjI1LDYwMjQ5ODk1LC0yMDc3Nz
+eyJoaXN0b3J5IjpbNTEyMDg2NTI3LDYwMjQ5ODk1LC0yMDc3Nz
 A5MDU1LC0xODUyNjAwNjgxLC0xOTYyMzY2ODk4LDE4MzgxMDIz
 NTYsMTAzMzU1NDY0OCwtMTE1MzQ3NDUxNiwxNDQ3Mjk1Njk2LC
 0xNjExMjQ0MDkwLC0xNjQ5NjU2NjUwXX0=
