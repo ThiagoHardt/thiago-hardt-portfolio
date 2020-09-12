@@ -9,13 +9,13 @@ This project aims to create a fully functional static front-end site using techn
 This is a website for a beginner full-stack software developer.
 The main goal of the page is to create a web presence and act as a link between the developer and potential employers and or clients.
 
-One of the most important aspects of the website is to keep the navigation simple and as straight-forward as possible. To achieve that I have opted to use a one-page structure, with the main information being the “hero” image followed by the developer’s name and a quick access button linking to the “about” section and another to a downloadable *CV*. Utilizing this structure I make that the most critical information will be not more than 3 clicks away from the user.
+One of the most important aspects of the website is to keep the navigation simple and as straight-forward as possible. To achieve that I have opted to use a one-page structure, with the main information being the “hero” image followed by the developer’s name and a quick access button linking to the “about” section and another to a downloadable _CV_. Utilizing this structure I make that the most critical information will be not more than 3 clicks away from the user.
 
 ## User Story
 
--   As a **software developer**
--  I want to **showcase my work in the web**
--   So that **employers and clients can find or hire the user for future projects** 
+- As a **software developer**
+- I want to **showcase my work in the web**
+- So that **employers and clients can find or hire the user for future projects**
 
 ## Features
 
@@ -35,25 +35,27 @@ Contact form.
 
 ### Existing Features
 
--   **Download CV Button:** This feature enables the user to directly download a .pdf version of the developer’s CV.
--   **Contact Form:** Allows the user (potential employer or client) to get in touch with the developer by filling a contact form that will be sent straight to his e-mail.
+- **Download CV Button:** This feature enables the user to directly download a .pdf version of the developer’s CV.
+- **Contact Form:** Allows the user (potential employer or client) to get in touch with the developer by filling a contact form that will be sent straight to his e-mail.
 
 ### Features Left to Implement
 
--  Possibly a **Blog** feature where the user can showcase interests and IT related content
+- Possibly a **Blog** feature where the user can showcase interests and IT related content
 
 ## Technologies Used
 
 Throughout the project, the following technologies were used.
 
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-    -   The project uses  **HTML5** 
+  - The project uses **HTML5**
 - [CSS3](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
-     -   The project uses  **CSS3**  to create styles for the page.
+  - The project uses **CSS3** to create styles for the page.
 - [Bootstrap 4.5.x](https://getbootstrap.com/)
-     -   The project uses  **Bootstrap 4.5**  for quick responsiveness and pre-made components.
- - [StackEdit](https://stackedit.io/)
-     -   The project uses  **StackEdit**  to write the README file.
+  - The project uses **Bootstrap 4.5** for quick responsiveness and pre-made components.
+- [StackEdit](https://stackedit.io/)
+  - The project uses **StackEdit** to write the README file.
+- [Hover](https://ianlunn.github.io/Hover/)
+  - The project uses **Hover** for hover effects.
 
 ## Testing
 
@@ -81,9 +83,9 @@ This section should describe the process you went through to deploy the project 
 
 In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
 
--   Different values for environment variables (Heroku Config Vars)?
--   Different configuration files?
--   Separate git branch?
+- Different values for environment variables (Heroku Config Vars)?
+- Different configuration files?
+- Separate git branch?
 
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
@@ -91,15 +93,15 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### [](https://github.com/Code-Institute-Solutions/readme-template#content)Content
 
--   The text for section Y was copied from the  [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
 ### [](https://github.com/Code-Institute-Solutions/readme-template#media)Media
 
--   The photos used in this site were obtained from ...
+- The photos used in this site were obtained from ...
 
 ### [](https://github.com/Code-Institute-Solutions/readme-template#acknowledgements)Acknowledgements
 
--   I received inspiration for this project from X
+- I received inspiration for this project from X
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNTEyMDg2NTI3LDYwMjQ5ODk1LC0yMDc3Nz
