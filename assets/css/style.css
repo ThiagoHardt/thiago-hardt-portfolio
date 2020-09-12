@@ -9,6 +9,18 @@ body {
   font-family: "Oswald", sans-serif;
 }
 
+.btn-primary {
+  margin: 10px;
+  background-color: rgb(5, 99, 128);
+  border-color: rgb(5, 99, 128);
+}
+
+.btn-outline-primary {
+  margin: 10px;
+  border-color: rgb(5, 99, 128);
+  color: rgb(5, 99, 128);
+}
+
 /* Navbar */
 
 .nav-item {
@@ -22,11 +34,10 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 80vh;
 }
 
 .container-header {
-  margin-top: 25%;
+  margin-top: 20%;
 }
 
 .jumbotron h1 {
