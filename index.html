@@ -46,43 +46,205 @@
             >
           </li>
           <li class="nav-item">
-            <a class="nav-link hvr-underline-from-center" href="#">About</a>
+            <a class="nav-link hvr-underline-from-center" href="#about"
+              >About</a
+            >
           </li>
           <li class="nav-item">
-            <a class="nav-link hvr-underline-from-center" href="#">Projects</a>
+            <a class="nav-link hvr-underline-from-center" href="#projects"
+              >Projects</a
+            >
           </li>
           <li class="nav-item">
-            <a class="nav-link hvr-underline-from-center" href="#">Contact</a>
+            <a class="nav-link hvr-underline-from-center" href="#contact"
+              >Contact</a
+            >
           </li>
         </ul>
       </div>
     </nav>
 
     <!-- Home -->
-    <div class="jumbotron jumbotron-fluid">
-      <div class="container-fluid container-header">
-        <h1 class="display-3">
-          Hey, I'm<span> Thiago Hardt</span>
-          <br />
-          I'm a Software Developer
-        </h1>
+    <header>
+      <div class="jumbotron jumbotron-fluid">
+        <div class="container container-header">
+          <div class="col">
+            <div class="row justify-content-center">
+              <h1 class="display-3">
+                Hey, I'm Thiago Hardt <br />
+                I'm a Software Developer
+              </h1>
+            </div>
+            <div class="container d-flex justify-content-center">
+              <button type="button" class="btn btn-primary btn-lg">
+                VIEW MY WORK
+              </button>
+              <button type="button" class="btn btn-outline-primary btn-lg">
+                CHECK MY CV
+              </button>
+            </div>
+          </div>
+        </div>
       </div>
-      <div class="container d-flex justify-content-center">
-        <button type="button" class="btn btn-primary btn-lg">
-          view my work
-        </button>
-        <button type="button" class="btn btn-outline-primary btn-lg">
-          check my CV
-        </button>
-      </div>
-    </div>
+    </header>
 
     <!-- About -->
-    <section></section>
+    <section id="about">
+      <div class="container mt-5">
+        <div class="row justify-content-center">
+          <h1>About</h1>
+        </div>
+        <hr class="linebreak mb-5" />
+        <div class="row">
+          <div class="col-md-6">
+            <div class="container mt-5">
+              <!-- Image to be changed -->
+              <div class="container image-cropper--profile mb-5">
+                <img
+                  src="https://dummyimage.com/300x300/000/fff"
+                  alt="Thiago Profile Image"
+                  class="profile-pic"
+                />
+              </div>
+              <p class="text-justify">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni
+                inventore quas ex recusandae, debitis laborum explicabo
+                distinctio nulla tempore! Magni, asperiores vero perspiciatis
+                est commodi suscipit delectus quod corrupti in officia
+                blanditiis laudantium sed aut repellendus! Praesentium accusamus
+                maxime ut optio sit modi voluptatum, voluptatem nesciunt
+                obcaecati dolor asperiores! A.
+              </p>
+              <div class="d-flex justify-content-end ml-0">
+                <button
+                  type="button"
+                  class="btn btn-outline-primary btn-lg ml-0"
+                >
+                  CHECK MY CV
+                </button>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 my-2">
+            <div class="container mb-5 mt-5">
+              <h2>Technologies</h2>
+              <div class="progress my-2" style="height: 30px">
+                <div
+                  class="progress-bar progress-bar-striped progress-bar-animated"
+                  role="progressbar"
+                  style="width: 45%"
+                  aria-valuenow="45"
+                  aria-valuemin="0"
+                  aria-valuemax="100"
+                >
+                  CSS
+                </div>
+              </div>
+              <div class="progress my-2" style="height: 30px">
+                <div
+                  class="progress-bar progress-bar-striped progress-bar-animated"
+                  role="progressbar"
+                  style="width: 50%"
+                  aria-valuenow="50"
+                  aria-valuemin="0"
+                  aria-valuemax="100"
+                >
+                  HTML
+                </div>
+              </div>
+              <div class="progress my-2" style="height: 30px">
+                <div
+                  class="progress-bar progress-bar-striped progress-bar-animated"
+                  role="progressbar"
+                  style="width: 25%"
+                  aria-valuenow="25"
+                  aria-valuemin="0"
+                  aria-valuemax="100"
+                >
+                  JavaScript
+                </div>
+              </div>
+              <div class="progress my-2" style="height: 30px">
+                <div
+                  class="progress-bar progress-bar-striped progress-bar-animated"
+                  role="progressbar"
+                  style="width: 30%"
+                  aria-valuenow="30"
+                  aria-valuemin="0"
+                  aria-valuemax="100"
+                >
+                  C#
+                </div>
+              </div>
+              <div class="progress my-2" style="height: 30px">
+                <div
+                  class="progress-bar progress-bar-striped progress-bar-animated"
+                  role="progressbar"
+                  style="width: 50%"
+                  aria-valuenow="50"
+                  aria-valuemin="0"
+                  aria-valuemax="100"
+                >
+                  SQL
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- Projects -->
-    <section></section>
+    <section id="projects">
+      <div class="container-fluid mt-5">
+        <div class="row justify-content-center">
+          <h1>Projects</h1>
+        </div>
+        <hr class="linebreak mb-5" />
+        <div class="row">
+          <div class="col-md">
+            <!-- Image to be changed -->
+            <div class="container image-cropper--projects mb-5">
+              <img
+                src="https://dummyimage.com/200x200/000/fff"
+                alt="Thiago Profile Image"
+                class="profile-pic"
+              />
+            </div>
+          </div>
+          <div class="col-md">
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
+              sint voluptatibus debitis in dignissimos nam enim quo rerum beatae
+              nemo, commodi quia sapiente ratione harum ipsam quibusdam atque
+              veniam dolores!
+            </p>
+          </div>
+          <div class="col-md">
+            <!-- Image to be changed -->
+            <div class="container image-cropper--projects mb-5">
+              <img
+                src="https://dummyimage.com/200x200/000/fff"
+                alt="Thiago Profile Image"
+                class="profile-pic"
+              />
+            </div>
+          </div>
+          <div class="col-md">
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
+              sint voluptatibus debitis in dignissimos nam enim quo rerum beatae
+              nemo, commodi quia sapiente ratione harum ipsam quibusdam atque
+              veniam dolores!
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- Contact -->
-    <footer class="fixed-bottom"></footer>
+    <footer class="" id="contact"></footer>
+
     <script
       src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
       integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
