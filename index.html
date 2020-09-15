@@ -19,34 +19,38 @@
       integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
       crossorigin="anonymous"
     />
+    <script src="https://kit.fontawesome.com/ad3578afcd.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="assets/css/style.css" />
+
     <title>Thiago Hardt | Software Developer</title>
   </head>
-  <body>
+
+  <body data-spy="scroll" data-target=".navbar" data-offset="500">
+
     <!-- Navigation Bar -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <nav id="navbar" class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
       <a class="navbar-brand" href="index.html">Thiago Hardt</a>
       <button
-        class="navbar-toggler"
-        type="button"
-        data-toggle="collapse"
-        data-target="#navbarToggler"
-        aria-controls="navbarToggler"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
+      class="navbar-toggler"
+      type="button"
+      data-toggle="collapse"
+      data-target="#navbarToggler"
+      aria-controls="navbarToggler"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
       >
-        <span class="navbar-toggler-icon"></span>
-      </button>
-
+      <span class="navbar-toggler-icon"></span>
+    </button>
+                          
       <div class="collapse navbar-collapse" id="navbarToggler">
         <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
           <li class="nav-item">
-            <a class="nav-link hvr-underline-from-center" href="index.html"
+            <a class="nav-link hvr-underline-from-center" href="#home" 
               >Home</a
             >
           </li>
           <li class="nav-item">
-            <a class="nav-link hvr-underline-from-center" href="#about"
+            <a class="nav-link hvr-underline-from-center" href="#about" 
               >About</a
             >
           </li>
@@ -65,7 +69,7 @@
     </nav>
 
     <!-- Home -->
-    <header>
+    <header id="home">
       <div class="jumbotron jumbotron-fluid">
         <div class="container container-header">
           <div class="col">
@@ -76,12 +80,12 @@
               </h1>
             </div>
             <div class="container d-flex justify-content-center">
-              <button type="button" class="btn btn-primary btn-lg">
+              <a class="btn btn-primary btn-lg" href="#projects">
                 VIEW MY WORK
-              </button>
-              <button type="button" class="btn btn-outline-primary btn-lg">
+              </a>
+              <a class="btn btn-outline-primary btn-lg" href="#">
                 CHECK MY CV
-              </button>
+              </a>
             </div>
           </div>
         </div>
@@ -96,7 +100,7 @@
         </div>
         <hr class="linebreak mb-5" />
         <div class="row">
-          <div class="col-md-6">
+          <div class="col-lg-6">
             <div class="container mt-5">
               <!-- Image to be changed -->
               <div class="container image-cropper--profile mb-5">
@@ -125,9 +129,9 @@
               </div>
             </div>
           </div>
-          <div class="col-md-6 my-2">
+          <div class="col-lg-6 my-2">
             <div class="container mb-5 mt-5">
-              <h2>Technologies</h2>
+              <h2 class="mt-5">Technologies</h2>
               <div class="progress my-2" style="height: 30px">
                 <div
                   class="progress-bar progress-bar-striped progress-bar-animated"
@@ -201,50 +205,172 @@
           <h1>Projects</h1>
         </div>
         <hr class="linebreak mb-5" />
-        <div class="row">
-          <div class="col-md">
-            <!-- Image to be changed -->
-            <div class="container image-cropper--projects mb-5">
-              <img
-                src="https://dummyimage.com/200x200/000/fff"
-                alt="Thiago Profile Image"
-                class="profile-pic"
-              />
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-3 my-5 align-self-center">
+              <!-- Image to be changed -->
+              <div class="container image-cropper--projects">
+                <img
+                  src="https://dummyimage.com/200x200/000/fff"
+                  alt="Thiago Profile Image"
+                  class="profile-pic"
+                />
+              </div>
             </div>
-          </div>
-          <div class="col-md">
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
-              sint voluptatibus debitis in dignissimos nam enim quo rerum beatae
-              nemo, commodi quia sapiente ratione harum ipsam quibusdam atque
-              veniam dolores!
-            </p>
-          </div>
-          <div class="col-md">
-            <!-- Image to be changed -->
-            <div class="container image-cropper--projects mb-5">
-              <img
-                src="https://dummyimage.com/200x200/000/fff"
-                alt="Thiago Profile Image"
-                class="profile-pic"
-              />
+            <div class="col-lg-3 my-5">
+              <h5>Thiago Hardt Portfolio</h5>
+              <p>
+                This is a website for a beginner full-stack software developer.
+                The main goal of the page is to create a web presence and act as
+                a link between the developer and potential employers and or
+                clients.
+              </p>
+              <button type="button" class="btn btn-outline-primary btn-sm">
+                WEBSITE
+              </button>
+              <button type="button" class="btn btn-primary btn-sm">
+                GITHUB
+              </button>
             </div>
-          </div>
-          <div class="col-md">
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
-              sint voluptatibus debitis in dignissimos nam enim quo rerum beatae
-              nemo, commodi quia sapiente ratione harum ipsam quibusdam atque
-              veniam dolores!
-            </p>
+            <div class="col-lg-3 my-5 align-self-center">
+              <!-- Image to be changed -->
+              <div class="container image-cropper--projects">
+                <img
+                  src="https://dummyimage.com/200x200/000/fff"
+                  alt="Thiago Profile Image"
+                  class="profile-pic"
+                />
+              </div>
+            </div>
+            <div class="col-lg-3 my-5">
+              <h5>Thiago Hardt Portfolio</h5>
+              <p>
+                This is a website for a beginner full-stack software developer.
+                The main goal of the page is to create a web presence and act as
+                a link between the developer and potential employers and or
+                clients.
+              </p>
+              <button type="button" class="btn btn-outline-primary btn-sm">
+                IN PROGRESS
+              </button>
+              <button type="button" class="btn btn-primary btn-sm">
+                GITHUB
+              </button>
+            </div>
+            <div class="col-lg-3 my-5 align-self-center">
+              <!-- Image to be changed -->
+              <div class="container image-cropper--projects">
+                <img
+                  src="https://dummyimage.com/200x200/000/fff"
+                  alt="Thiago Profile Image"
+                  class="profile-pic"
+                />
+              </div>
+            </div>
+            <div class="col-lg-3 my-5">
+              <h5>Thiago Hardt Portfolio</h5>
+              <p>
+                This is a website for a beginner full-stack software developer.
+                The main goal of the page is to create a web presence and act as
+                a link between the developer and potential employers and or
+                clients.
+              </p>
+              <button type="button" class="btn btn-outline-primary btn-sm">
+                IN PROGRESS
+              </button>
+              <button type="button" class="btn btn-primary btn-sm">
+                GITHUB
+              </button>
+            </div>
+            <div class="col-lg-3 my-5 align-self-center">
+              <!-- Image to be changed -->
+              <div class="container image-cropper--projects">
+                <img
+                  src="https://dummyimage.com/200x200/000/fff"
+                  alt="Thiago Profile Image"
+                  class="profile-pic"
+                />
+              </div>
+            </div>
+            <div class="col-lg-3 my-5">
+              <h5>Thiago Hardt Portfolio</h5>
+              <p>
+                This is a website for a beginner full-stack software developer.
+                The main goal of the page is to create a web presence and act as
+                a link between the developer and potential employers and or
+                clients.
+              </p>
+              <button type="button" class="btn btn-outline-primary btn-sm">
+                IN PROGRESS
+              </button>
+              <button type="button" class="btn btn-primary btn-sm">
+                GITHUB
+              </button>
+            </div>
           </div>
         </div>
       </div>
     </section>
 
     <!-- Contact -->
-    <footer class="" id="contact"></footer>
-
+    <footer id="contact">
+      <div class="container-fluid container-contact">
+        <div class="row justify-content-center">
+          <h1 class="mt-5">Contact</h1>
+        </div>
+        <hr class="linebreak-light mb-5" />
+        <div class="row justify-content-center">
+          <div class="col">
+            <div class="container container-contact--form">
+              <form>
+                <div class="form-group">
+                  <label for="name">Your name</label>
+                  <input
+                    type="text"
+                    class="form-control"
+                    id="name"
+                    placeholder="Your Name"
+                    required
+                  />
+                </div>
+                <div class="form-group">
+                  <label for="emailInput">Email address</label>
+                  <input
+                    type="email"
+                    class="form-control"
+                    id="emailInput"
+                    placeholder="name@example.com"
+                    required
+                  />
+                </div>
+                <div class="form-group">
+                  <label for="messageForm">Your message</label>
+                  <textarea
+                    class="form-control"
+                    id="messageForm"
+                    rows="3"
+                    placeholder="Your message"
+                    required
+                  ></textarea>
+                </div>
+                <input
+                  class="btn btn-primary btn-light"
+                  type="submit"
+                  value="SEND"
+                />
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="row container-footer">
+          <div class="col">
+            <div class="text-center text-copyright">
+              <a>© 2020 Copyright:<a href="#"> Thiago Hardt</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
     <script
       src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
       integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
