@@ -10,6 +10,8 @@ body {
   font-size: 1rem;
   position: relative;
   scroll-behavior: smooth;
+  color: #293241;
+  background-color: #fafafa;
 }
 
 /* Remove all text decorations */
@@ -21,34 +23,93 @@ a:active {
   color: inherit;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: #3d5a80;
+}
+
+p {
+  color: #293241;
+}
+
 .btn-primary {
   margin: 10px 10px 10px 0;
-  background-color: rgb(5, 99, 128);
-  border-color: rgb(5, 99, 128);
+  background-color: #3d5a80;
+  border-color: #3d5a80;
   padding: 5px;
+}
+
+.btn-primary:hover {
+  background-color: #293241;
+  border-color: #293241;
 }
 
 .btn-outline-primary {
   margin: 10px 10px 10px 0;
-  border-color: rgb(5, 99, 128);
-  color: rgb(5, 99, 128);
+  border-color: #3d5a80;
+  color: #3d5a80;
   padding: 5px;
 }
 
+.btn-outline-primary:hover {
+  border: #3d5a80;
+  background-color: #3d5a80;
+  color: #e0fbfc;
+}
+
 .btn-light {
-  background-color: #fff;
+  background-color: #fafafa;
 }
 
 .linebreak {
   height: 10px;
   width: 50px;
-  background-color: rgb(5, 99, 128);
+  background-color: #293241;
 }
 
-.linebreak-light {
-  height: 10px;
-  width: 50px;
-  background-color: #fff;
+/* Colors */
+
+.c-blue {
+  color: #3d5a80;
+}
+
+.c-pale-blue {
+  color: #98c1d9;
+}
+
+.c-light {
+  color: #fafafa;
+}
+
+.c-orange {
+  color: #ee6c4d;
+}
+
+.c-dark {
+  color: #293241;
+}
+
+.bg-blue {
+  background-color: #3d5a80;
+}
+
+.bg-pale-blue {
+  background-color: #98c1d9;
+}
+
+.bg-light {
+  background-color: #fafafa;
+}
+
+.bg-orange {
+  background-color: #ee6c4d;
+}
+
+.bg-dark {
+  background-color: #293241;
 }
 
 /* Navbar */
@@ -60,7 +121,7 @@ a:active {
 /* Home */
 
 .jumbotron {
-  background-image: url(https://dummyimage.com/1920x860/000/fff);
+  background-image: url(..assets\img\thiago-hardt-wide.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -79,7 +140,6 @@ a:active {
 .jumbotron h1 span {
   text-align: center;
   font-weight: bold;
-  color: rgb(5, 99, 128);
 }
 
 /* About */
@@ -118,15 +178,13 @@ https://medium.com/@biancapower/how-to-make-a-rectangle-image-a-circle-in-css-2f
 
 .container-contact {
   height: auto;
-  background-color: rgb(5, 99, 128);
   position: absolute;
 }
 
 .container-footer {
   height: 3rem;
-  background-color: rgb(3, 54, 70);
   position: relative;
-  margin-top: 5rem;
+  margin-top: auto;
 }
 
 .container-contact--form {
@@ -134,13 +192,22 @@ https://medium.com/@biancapower/how-to-make-a-rectangle-image-a-circle-in-css-2f
 }
 
 .text-copyright {
-  margin-top: 15px;
-  color: #fff;
+  margin: 15px;
   font-weight: 300;
   text-decoration: none;
 }
 
 .form-control:hover {
-  border-color: rgb(3, 54, 70);
+  border-color: #ee6c4d;
   opacity: 0.5;
+}
+
+.icon-footer {
+  font-size: 2rem;
+  color: #fafafa;
+  margin: 5px;
+}
+
+.svg-container {
+  position: absolute;
 }
