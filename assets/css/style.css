@@ -35,11 +35,18 @@ p {
   color: #293241;
 }
 
+label {
+  padding-left: 5px;
+  margin-bottom: 1px;
+  margin-top: 10px;
+}
+
 .btn-primary {
   margin: 10px 10px 10px 0;
   background-color: #3d5a80;
   border-color: #3d5a80;
-  padding: 5px;
+  padding: 5px 15px;
+  border-radius: 40px;
 }
 
 .btn-primary:hover {
@@ -47,17 +54,29 @@ p {
   border-color: #293241;
 }
 
+.btn-primary:active,
+.btn-primary:focus {
+  background-color: #3d5a80 !important;
+  border-color: #3d5a80 !important;
+}
+
 .btn-outline-primary {
   margin: 10px 10px 10px 0;
   border-color: #3d5a80;
   color: #3d5a80;
-  padding: 5px;
+  padding: 5px 15px;
+  border-radius: 40px;
 }
 
 .btn-outline-primary:hover {
-  border: #3d5a80;
-  background-color: #3d5a80;
-  color: #e0fbfc;
+  background-color: #293241 !important;
+  border-color: #293241 !important;
+}
+
+.btn-outline-primary:active {
+  background-color: #3d5a80 !important;
+  border-color: #3d5a80 !important;
+  color: #fafafa;
 }
 
 .btn-light {
@@ -118,13 +137,50 @@ p {
   padding-left: 20px;
 }
 
+/* Hover.css */
+
+.hvr-underline-from-center {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  position: relative;
+  overflow: hidden;
+}
+
+.hvr-underline-from-center:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  left: 51%;
+  right: 51%;
+  bottom: 0;
+  background: #ee6c4d;
+  height: 4px;
+  -webkit-transition-property: left, right;
+  transition-property: left, right;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+
+.hvr-underline-from-center:hover:before,
+.hvr-underline-from-center:focus:before,
+.hvr-underline-from-center:active:before {
+  left: 0;
+  right: 0;
+}
+
 /* Home */
 
 .jumbotron {
-  background-image: url(..assets\img\thiago-hardt-wide.jpg);
-  background-position: center;
+  background-image: url("../img/thiago-hardt-wide.jpg");
+  background-position: inherit;
   background-repeat: no-repeat;
   background-size: cover;
+  border-radius: 0;
 }
 
 .container-header {
@@ -132,14 +188,9 @@ p {
 }
 
 .jumbotron h1 {
-  text-align: center;
+  font-size: 3.5rem;
   font-weight: 500;
   font-family: "Oswald", sans-serif;
-}
-
-.jumbotron h1 span {
-  text-align: center;
-  font-weight: bold;
 }
 
 /* About */
@@ -158,10 +209,9 @@ https://medium.com/@biancapower/how-to-make-a-rectangle-image-a-circle-in-css-2f
 }
 
 .profile-pic {
-  display: inline;
   margin: 0 auto;
+  margin-left: -30%;
   height: 100%;
-  width: auto;
 }
 
 .image-cropper--projects {
@@ -174,6 +224,20 @@ https://medium.com/@biancapower/how-to-make-a-rectangle-image-a-circle-in-css-2f
   border-radius: 50%;
 }
 
+.image-projects {
+  margin: 0 auto;
+  width: 200px;
+  height: 200px;
+  transition: all 0.4s ease-out;
+}
+
+.image-projects:hover {
+  backface-visibility: hidden;
+  transform: scale(1.15, 1.15);
+  opacity: 1;
+  transition: all 0.3s ease-out;
+}
+
 /* Contact */
 
 .container-contact {
@@ -182,7 +246,7 @@ https://medium.com/@biancapower/how-to-make-a-rectangle-image-a-circle-in-css-2f
 }
 
 .container-footer {
-  height: 3rem;
+  height: auto;
   position: relative;
   margin-top: auto;
 }
@@ -205,9 +269,44 @@ https://medium.com/@biancapower/how-to-make-a-rectangle-image-a-circle-in-css-2f
 .icon-footer {
   font-size: 2rem;
   color: #fafafa;
-  margin: 5px;
+  margin: 15px;
 }
 
-.svg-container {
-  position: absolute;
+.form-control {
+  border: none;
+  border-bottom: 2px solid #ee6c4d;
+  background-color: transparent;
+  border-radius: 0;
+  color: #fafafa;
+}
+
+.form-control:hover,
+.form-control:active,
+.form-control:focus {
+  background-color: #293241;
+  box-shadow: none;
+  border-color: #3d5a80;
+  color: #fafafa;
+}
+
+/* Changes the autocompletion style  */
+/* https://css-tricks.com/snippets/css/change-autocomplete-styles-webkit-browsers/ */
+
+input:-webkit-autofill,
+input:-webkit-autofill:focus,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:focus {
+  border: none;
+  border-bottom: 2px solid #ee6c4d;
+  -webkit-text-fill-color: #fafafa;
+  -webkit-box-shadow: 0 0 0px 1000px #3d5a80 inset;
+  transition: background-color 5000s ease-in-out 0s;
+}
+
+input:-webkit-autofill:hover,
+textarea:-webkit-autofill:hover,
+select:-webkit-autofill:hover {
+  -webkit-box-shadow: 0 0 0px 1000px #293241 inset;
 }

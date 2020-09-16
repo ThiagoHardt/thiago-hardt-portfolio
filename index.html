@@ -9,12 +9,6 @@
     />
     <link
       rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css"
-      integrity="sha512-csw0Ma4oXCAgd/d4nTcpoEoz4nYvvnk21a8VA2h2dzhPAvjbUIK6V3si7/g/HehwdunqqW18RwCJKpD7rL67Xg=="
-      crossorigin="anonymous"
-    />
-    <link
-      rel="stylesheet"
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
       integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
       crossorigin="anonymous"
@@ -28,7 +22,7 @@
   <body data-spy="scroll" data-target=".navbar" data-offset="500">
 
     <!-- Navigation Bar -->
-    <nav id="navbar" class="navbar navbar-expand-lg fixed-top bg-dark c-light">
+    <nav id="navbar" class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark">
       <a class="navbar-brand" href="index.html">Thiago Hardt</a>
       <button
       class="navbar-toggler"
@@ -50,7 +44,7 @@
             >
           </li>
           <li class="nav-item">
-            <a class="nav-link hvr-underline-from-center" href="#about" 
+            <a class="nav-link hvr-underline-from-center" href="#about"
               >About</a
             >
           </li>
@@ -70,24 +64,22 @@
 
     <!-- Home -->
     <header id="home">
-      <div class="jumbotron jumbotron-fluid">
-        <div class="container container-header">
+      <div class="jumbotron">
+        <div class="container-fluid container-header">
           <div class="col">
-            <div class="row justify-content-center">
-              <h1 class="display-3 c-orange">
-                Hey, I'm Thiago Hardt <br />
+              <h1 class="text-left c-light">
+                Hello, I'm <span class="c-orange">Thiago Hardt</span> <br />
                 I'm a Software Developer
               </h1>
             </div>
-            <div class="container d-flex justify-content-center">
+            <div class="container-fluid d-flex justify-content-left">
               <a class="btn btn-primary btn-lg c-light" href="#projects">
                 VIEW MY WORK
               </a>
-              <a class="btn btn-primary btn-lg c-light" href="#">
+              <a class="btn btn-primary btn-lg c-light" href="assets\Untitled document.pdf" target="_blank">
                 CHECK MY CV
               </a>
             </div>
-          </div>
         </div>
       </div>
     </header>
@@ -102,10 +94,9 @@
         <div class="row">
           <div class="col-lg-6">
             <div class="container mt-5">
-              <!-- Image to be changed -->
-              <div class="container image-cropper--profile mb-5">
+              <div class="container image-cropper--profile mb-5 justify-content-center">
                 <img
-                  src="https://dummyimage.com/300x300/000/fff"
+                  src="assets\img\programming2.jpg"
                   alt="Thiago Profile Image"
                   class="profile-pic"
                 />
@@ -120,12 +111,9 @@
                 obcaecati dolor asperiores! A.
               </p>
               <div class="d-flex justify-content-end ml-0">
-                <button
-                  type="button"
-                  class="btn btn-outline-primary btn-lg ml-0"
-                >
+                <a class="btn btn-outline-primary btn-lg" href="assets\Untitled document.pdf" target="_blank">
                   CHECK MY CV
-                </button>
+                </a>
               </div>
             </div>
           </div>
@@ -211,9 +199,9 @@
               <!-- Image to be changed -->
               <div class="container image-cropper--projects">
                 <img
-                  src="https://dummyimage.com/200x200/000/fff"
+                  src="assets\img\thiago-portfolio.png"
                   alt="Thiago Profile Image"
-                  class="profile-pic"
+                  class="image-projects"
                 />
               </div>
             </div>
@@ -228,9 +216,34 @@
               <button type="button" class="btn btn-outline-primary btn-sm">
                 WEBSITE
               </button>
-              <button type="button" class="btn btn-primary btn-sm">
+              <a class="btn btn-primary btn-sm" href="https://github.com/ThiagoHardt/thiago-hardt-portfolio" target="_blank">
                 GITHUB
+              </a>
+            </div>
+            <div class="col-lg-3 my-5 align-self-center">
+              <!-- Image to be changed -->
+              <div class="container image-cropper--projects">
+                <img
+                  src="assets\img\rosie-website.png"
+                  alt="Thiago Profile Image"
+                  class="image-projects"
+                />
+              </div>
+            </div>
+            <div class="col-lg-3 my-5">
+              <h5>Rosie Portfolio</h5>
+              <p>
+                This is a website for a beginner full-stack software developer.
+                The main goal of the page is to create a web presence and act as
+                a link between the developer and potential employers and or
+                clients.
+              </p>
+              <button type="button" class="btn btn-outline-primary btn-sm">
+                IN PROGRESS
               </button>
+              <a class="btn btn-primary btn-sm" href="https://github.com/ThiagoHardt/Rosie" target="_blank">
+                GITHUB
+              </a>
             </div>
             <div class="col-lg-3 my-5 align-self-center">
               <!-- Image to be changed -->
@@ -238,7 +251,7 @@
                 <img
                   src="https://dummyimage.com/200x200/000/fff"
                   alt="Thiago Profile Image"
-                  class="profile-pic"
+                  class="image-projects"
                 />
               </div>
             </div>
@@ -263,32 +276,7 @@
                 <img
                   src="https://dummyimage.com/200x200/000/fff"
                   alt="Thiago Profile Image"
-                  class="profile-pic"
-                />
-              </div>
-            </div>
-            <div class="col-lg-3 my-5">
-              <h5>Thiago Hardt Portfolio</h5>
-              <p>
-                This is a website for a beginner full-stack software developer.
-                The main goal of the page is to create a web presence and act as
-                a link between the developer and potential employers and or
-                clients.
-              </p>
-              <button type="button" class="btn btn-outline-primary btn-sm">
-                IN PROGRESS
-              </button>
-              <button type="button" class="btn btn-primary btn-sm">
-                GITHUB
-              </button>
-            </div>
-            <div class="col-lg-3 my-5 align-self-center">
-              <!-- Image to be changed -->
-              <div class="container image-cropper--projects">
-                <img
-                  src="https://dummyimage.com/200x200/000/fff"
-                  alt="Thiago Profile Image"
-                  class="profile-pic"
+                  class="image-projects"
                 />
               </div>
             </div>
@@ -348,7 +336,7 @@
                   <textarea
                   class="form-control"
                   id="messageForm"
-                  rows="3"
+                  rows="5"
                   placeholder="Your message"
                   required
                   ></textarea>
@@ -375,7 +363,9 @@
         <div class="row container-footer bg-dark">
           <div class="col">
             <div class="text-center text-copyright c-light">
-              <a>© 2020 Copyright:<a href="#"> Thiago Hardt</a></p>
+              <a>© 2020 Copyright:<a href="#"> Thiago Hardt</a> | <a>Photos by:
+                <a href="https://www.sarahryanphoto.com/?fbclid=IwAR3730d96HQXLyUQcNkw34EYJ9-y29WRntj8SY_hU9366dvhbUaDK2_jgeo" target="_blank">Sarah Ryan</a> and 
+                <a href="https://niallokelly.com/?fbclid=IwAR3730d96HQXLyUQcNkw34EYJ9-y29WRntj8SY_hU9366dvhbUaDK2_jgeo" target="_blank"> Niall O'Kelly</a></p>
             </div>
           </div>
         </div>
