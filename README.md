@@ -36,7 +36,7 @@ Contact form.
 ### Existing Features
 
 - **Download CV Button:** This feature enables the user to directly download a .pdf version of the developer’s CV.
-- **Contact Form:** Allows the user (potential employer or client) to get in touch with the developer by filling a contact form that will be sent straight to his e-mail.
+
 
 ### Features Left to Implement
 
@@ -56,6 +56,8 @@ Throughout the project, the following technologies were used.
   - The project uses **StackEdit** to write the README file.
 - [Hover](https://ianlunn.github.io/Hover/)
   - The project uses **Hover** for hover effects.
+ - [ScrollReveal](https://scrollrevealjs.org/)
+   - The project uses **ScrollReveal** to apply scrolling effects effects.
 
 ## Testing
 
@@ -104,8 +106,8 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyMDg2NTI3LDYwMjQ5ODk1LC0yMDc3Nz
-A5MDU1LC0xODUyNjAwNjgxLC0xOTYyMzY2ODk4LDE4MzgxMDIz
-NTYsMTAzMzU1NDY0OCwtMTE1MzQ3NDUxNiwxNDQ3Mjk1Njk2LC
-0xNjExMjQ0MDkwLC0xNjQ5NjU2NjUwXX0=
+eyJoaXN0b3J5IjpbNjg1MzY4OTUwLDUxMjA4NjUyNyw2MDI0OT
+g5NSwtMjA3NzcwOTA1NSwtMTg1MjYwMDY4MSwtMTk2MjM2Njg5
+OCwxODM4MTAyMzU2LDEwMzM1NTQ2NDgsLTExNTM0NzQ1MTYsMT
+Q0NzI5NTY5NiwtMTYxMTI0NDA5MCwtMTY0OTY1NjY1MF19
 -->
