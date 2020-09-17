@@ -57,7 +57,7 @@ Throughout the project, the following technologies were used.
 - [Hover](https://ianlunn.github.io/Hover/)
   - The project uses **Hover** for hover effects.
  - [ScrollReveal](https://scrollrevealjs.org/)
-   - The project uses **ScrollRevea** for hover effects.
+   - The project uses **ScrollReveal** to apply scrolling effects effects.
 
 ## Testing
 
@@ -106,8 +106,8 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwMjE4OTUsNTEyMDg2NTI3LDYwMjQ5OD
-k1LC0yMDc3NzA5MDU1LC0xODUyNjAwNjgxLC0xOTYyMzY2ODk4
-LDE4MzgxMDIzNTYsMTAzMzU1NDY0OCwtMTE1MzQ3NDUxNiwxND
-Q3Mjk1Njk2LC0xNjExMjQ0MDkwLC0xNjQ5NjU2NjUwXX0=
+eyJoaXN0b3J5IjpbNjg1MzY4OTUwLDUxMjA4NjUyNyw2MDI0OT
+g5NSwtMjA3NzcwOTA1NSwtMTg1MjYwMDY4MSwtMTk2MjM2Njg5
+OCwxODM4MTAyMzU2LDEwMzM1NTQ2NDgsLTExNTM0NzQ1MTYsMT
+Q0NzI5NTY5NiwtMTYxMTI0NDA5MCwtMTY0OTY1NjY1MF19
 -->
