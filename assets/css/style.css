@@ -35,12 +35,6 @@ p {
   color: #293241;
 }
 
-label {
-  padding-left: 5px;
-  margin-bottom: 1px;
-  margin-top: 10px;
-}
-
 .btn-primary {
   margin: 10px 10px 10px 0;
   background-color: #3d5a80;
@@ -77,6 +71,11 @@ label {
   background-color: #3d5a80 !important;
   border-color: #3d5a80 !important;
   color: #fafafa;
+}
+
+.btn-disabled {
+  pointer-events: none;
+  cursor: default;
 }
 
 .btn-light {
@@ -243,6 +242,11 @@ https://medium.com/@biancapower/how-to-make-a-rectangle-image-a-circle-in-css-2f
 .container-contact {
   height: auto;
   position: absolute;
+  background: linear-gradient(
+    180deg,
+    rgba(61, 90, 128, 1) 0%,
+    rgba(41, 50, 65, 1) 100%
+  );
 }
 
 .container-footer {
@@ -251,62 +255,33 @@ https://medium.com/@biancapower/how-to-make-a-rectangle-image-a-circle-in-css-2f
   margin-top: auto;
 }
 
-.container-contact--form {
-  max-width: 600px;
-}
-
 .text-copyright {
   margin: 15px;
   font-weight: 300;
-  text-decoration: none;
 }
-
-.form-control:hover {
-  border-color: #ee6c4d;
-  opacity: 0.5;
+a:hover {
+  color: #293241;
+  transition: ease-in-out 0.3s;
 }
 
 .icon-footer {
-  font-size: 2rem;
+  font-size: 2.5rem;
   color: #fafafa;
   margin: 15px;
 }
 
-.form-control {
-  border: none;
-  border-bottom: 2px solid #ee6c4d;
-  background-color: transparent;
-  border-radius: 0;
+.icon-footer:hover {
+  color: #293241;
+  transition: ease-in-out 0.3s;
+}
+
+.email-container {
+  text-align: center;
+  padding: 10px;
+  width: auto;
+}
+
+.email-container .btn-outline-primary {
   color: #fafafa;
-}
-
-.form-control:hover,
-.form-control:active,
-.form-control:focus {
-  background-color: #293241;
-  box-shadow: none;
-  border-color: #3d5a80;
-  color: #fafafa;
-}
-
-/* Changes the autocompletion style  */
-/* https://css-tricks.com/snippets/css/change-autocomplete-styles-webkit-browsers/ */
-
-input:-webkit-autofill,
-input:-webkit-autofill:focus,
-textarea:-webkit-autofill,
-textarea:-webkit-autofill:focus,
-select:-webkit-autofill,
-select:-webkit-autofill:focus {
-  border: none;
-  border-bottom: 2px solid #ee6c4d;
-  -webkit-text-fill-color: #fafafa;
-  -webkit-box-shadow: 0 0 0px 1000px #3d5a80 inset;
-  transition: background-color 5000s ease-in-out 0s;
-}
-
-input:-webkit-autofill:hover,
-textarea:-webkit-autofill:hover,
-select:-webkit-autofill:hover {
-  -webkit-box-shadow: 0 0 0px 1000px #293241 inset;
+  border-color: #fafafa;
 }
