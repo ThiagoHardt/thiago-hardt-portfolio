@@ -285,3 +285,15 @@ a:hover {
   color: #fafafa;
   border-color: #fafafa;
 }
+
+/* Media Queries */
+
+@media screen and (max-width: 600px) {
+  .jumbotron {
+    background-position: bottom;
+  }
+
+  .jumbotron a {
+    font-size: 13px;
+  }
+}
