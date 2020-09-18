@@ -92,7 +92,7 @@ You should also mention in this section any interesting bugs or problems you dis
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ### Browsers
-Chrome 
+![enter image description here](https://simpleicons.org/icons/googlechrome.svg)Chrome 
 
 ## Deployment
 
@@ -121,10 +121,10 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzU2NjU4Myw2ODg4NzE5ODYsLTIwMz
-U2ODc2NzEsLTIxMTQ5NTg4NCw4Mzk2OTM1MjYsMTcyMDY2ODc0
-NCw2ODUzNjg5NTAsNTEyMDg2NTI3LDYwMjQ5ODk1LC0yMDc3Nz
-A5MDU1LC0xODUyNjAwNjgxLC0xOTYyMzY2ODk4LDE4MzgxMDIz
-NTYsMTAzMzU1NDY0OCwtMTE1MzQ3NDUxNiwxNDQ3Mjk1Njk2LC
-0xNjExMjQ0MDkwLC0xNjQ5NjU2NjUwXX0=
+eyJoaXN0b3J5IjpbLTk1MjAxMjE4LDY4ODg3MTk4NiwtMjAzNT
+Y4NzY3MSwtMjExNDk1ODg0LDgzOTY5MzUyNiwxNzIwNjY4NzQ0
+LDY4NTM2ODk1MCw1MTIwODY1MjcsNjAyNDk4OTUsLTIwNzc3MD
+kwNTUsLTE4NTI2MDA2ODEsLTE5NjIzNjY4OTgsMTgzODEwMjM1
+NiwxMDMzNTU0NjQ4LC0xMTUzNDc0NTE2LDE0NDcyOTU2OTYsLT
+E2MTEyNDQwOTAsLTE2NDk2NTY2NTBdfQ==
 -->
