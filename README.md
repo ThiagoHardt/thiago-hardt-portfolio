@@ -27,8 +27,11 @@ One of the most important aspects of the website is to keep the navigation simpl
   
 :white_check_mark: Fully responsive  
 :white_check_mark: Downloadable CV
-:white_check_mark: Projects showcase  
-:white_check_mark: 
+:white_check_mark: About section
+:white_check_mark: Projects section
+:white_check_mark: Contact section
+
+
 
 The page consists of 4 main sections: Home, About, Projects, and Contact.
 
@@ -117,7 +120,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1Njk4MzIxLC0yMDM1Njg3NjcxLC0yMT
+eyJoaXN0b3J5IjpbNjg4ODcxOTg2LC0yMDM1Njg3NjcxLC0yMT
 E0OTU4ODQsODM5NjkzNTI2LDE3MjA2Njg3NDQsNjg1MzY4OTUw
 LDUxMjA4NjUyNyw2MDI0OTg5NSwtMjA3NzcwOTA1NSwtMTg1Mj
 YwMDY4MSwtMTk2MjM2Njg5OCwxODM4MTAyMzU2LDEwMzM1NTQ2
