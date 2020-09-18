@@ -3,7 +3,9 @@
 Hello there!
 
 This project aims to create a fully functional static front-end site using technologies learned throughout Code Institute full stack web developer course.
-[![2zItHb.md.png](https://iili.io/2zItHb.md.png)](https://freeimage.host/i/2zItHb)
+
+[
+![2zIyxV.md.png](https://iili.io/2zIyxV.md.png)](https://freeimage.host/i/2zIyxV)
 
 # UX
 
@@ -107,9 +109,9 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM5NjkzNTI2LDE3MjA2Njg3NDQsNjg1Mz
-Y4OTUwLDUxMjA4NjUyNyw2MDI0OTg5NSwtMjA3NzcwOTA1NSwt
-MTg1MjYwMDY4MSwtMTk2MjM2Njg5OCwxODM4MTAyMzU2LDEwMz
-M1NTQ2NDgsLTExNTM0NzQ1MTYsMTQ0NzI5NTY5NiwtMTYxMTI0
-NDA5MCwtMTY0OTY1NjY1MF19
+eyJoaXN0b3J5IjpbLTEyMTU3MDM5ODcsODM5NjkzNTI2LDE3Mj
+A2Njg3NDQsNjg1MzY4OTUwLDUxMjA4NjUyNyw2MDI0OTg5NSwt
+MjA3NzcwOTA1NSwtMTg1MjYwMDY4MSwtMTk2MjM2Njg5OCwxOD
+M4MTAyMzU2LDEwMzM1NTQ2NDgsLTExNTM0NzQ1MTYsMTQ0NzI5
+NTY5NiwtMTYxMTI0NDA5MCwtMTY0OTY1NjY1MF19
 -->
