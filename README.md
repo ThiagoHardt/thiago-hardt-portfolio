@@ -4,7 +4,8 @@ Hello there!
 
 This project aims to create a fully functional static front-end site using technologies learned throughout Code Institute full stack web developer course.
 
-[
+![GitHub last commit](https://img.shields.io/github/last-commit/thiagohardt/thiago-hardt-portfolio?style=for-the-badge) ![enter image description here](https://img.shields.io/github/languages/count/thiagohardt/thiago-hardt-portfolio?style=for-the-badge)
+ 
 ![2zIyxV.md.png](https://iili.io/2zIyxV.md.png)](http://ami.responsivedesign.is/?url=https://thiagohardt.github.io/thiago-hardt-portfolio)
 
 # UX
@@ -55,7 +56,7 @@ Button to send e-mail and social links.
 - Possibly a **Blog** feature where the user can showcase interests and IT related content
 
 ## Technologies Used
-![enter image description here](https://img.shields.io/github/languages/count/thiagohardt/thiago-hardt-portfolio?style=for-the-badge)
+
 Throughout the project, the following technologies were used.
 
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
@@ -126,11 +127,11 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODIzOTU1MzcsLTg5NjE0NjUxLC0yMD
-QxNTYzNjE3LC05NTIwMTIxOCw2ODg4NzE5ODYsLTIwMzU2ODc2
-NzEsLTIxMTQ5NTg4NCw4Mzk2OTM1MjYsMTcyMDY2ODc0NCw2OD
-UzNjg5NTAsNTEyMDg2NTI3LDYwMjQ5ODk1LC0yMDc3NzA5MDU1
-LC0xODUyNjAwNjgxLC0xOTYyMzY2ODk4LDE4MzgxMDIzNTYsMT
-AzMzU1NDY0OCwtMTE1MzQ3NDUxNiwxNDQ3Mjk1Njk2LC0xNjEx
-MjQ0MDkwXX0=
+eyJoaXN0b3J5IjpbLTIxMTAxMzA4ODksLTEzODIzOTU1MzcsLT
+g5NjE0NjUxLC0yMDQxNTYzNjE3LC05NTIwMTIxOCw2ODg4NzE5
+ODYsLTIwMzU2ODc2NzEsLTIxMTQ5NTg4NCw4Mzk2OTM1MjYsMT
+cyMDY2ODc0NCw2ODUzNjg5NTAsNTEyMDg2NTI3LDYwMjQ5ODk1
+LC0yMDc3NzA5MDU1LC0xODUyNjAwNjgxLC0xOTYyMzY2ODk4LD
+E4MzgxMDIzNTYsMTAzMzU1NDY0OCwtMTE1MzQ3NDUxNiwxNDQ3
+Mjk1Njk2XX0=
 -->
