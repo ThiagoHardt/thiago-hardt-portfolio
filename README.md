@@ -73,7 +73,7 @@ Throughout the project, the following technologies were used.
 
 ## Testing
 
-![W3C Va](https://img.shields.io/badge/w3c-validated-green?style=for-the-badge) ![enter image description here](https://img.shields.io/badge/CSS3-validated-green?style=for-the-badge)
+![W3C Validator](https://img.shields.io/badge/w3c-validated-green?style=for-the-badge) ![CSS3 Validator](https://img.shields.io/badge/CSS3-validated-green?style=for-the-badge)
 
 
 ---
@@ -125,11 +125,11 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTEyNjAzOCwtMjA0MTU2MzYxNywtOT
-UyMDEyMTgsNjg4ODcxOTg2LC0yMDM1Njg3NjcxLC0yMTE0OTU4
-ODQsODM5NjkzNTI2LDE3MjA2Njg3NDQsNjg1MzY4OTUwLDUxMj
-A4NjUyNyw2MDI0OTg5NSwtMjA3NzcwOTA1NSwtMTg1MjYwMDY4
-MSwtMTk2MjM2Njg5OCwxODM4MTAyMzU2LDEwMzM1NTQ2NDgsLT
-ExNTM0NzQ1MTYsMTQ0NzI5NTY5NiwtMTYxMTI0NDA5MCwtMTY0
-OTY1NjY1MF19
+eyJoaXN0b3J5IjpbOTI4NTU1NDY4LC0yMDQxNTYzNjE3LC05NT
+IwMTIxOCw2ODg4NzE5ODYsLTIwMzU2ODc2NzEsLTIxMTQ5NTg4
+NCw4Mzk2OTM1MjYsMTcyMDY2ODc0NCw2ODUzNjg5NTAsNTEyMD
+g2NTI3LDYwMjQ5ODk1LC0yMDc3NzA5MDU1LC0xODUyNjAwNjgx
+LC0xOTYyMzY2ODk4LDE4MzgxMDIzNTYsMTAzMzU1NDY0OCwtMT
+E1MzQ3NDUxNiwxNDQ3Mjk1Njk2LC0xNjExMjQ0MDkwLC0xNjQ5
+NjU2NjUwXX0=
 -->
