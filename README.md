@@ -73,7 +73,7 @@ Throughout the project, the following technologies were used.
 
 ## Testing
 
-![W3C Validator](https://img.shields.io/badge/w3c-testing-orange?style=for-the-badge) ![CSS3 Validator](https://img.shields.io/badge/CSS3-validated-green?style=for-the-badge)
+![W3C Validator](https://img.shields.io/badge/w3c-testing-orange?style=for-the-badge) ![CSS3 Validator](https://img.shields.io/badge/CSS3-validated-green?style=for-the-badge) ![FireFox](https://img.shields.io/badge/firefox-passed-green?style=for-the-badge) ![Chrome](https://img.shields.io/badge/Chrome-passed-green?style=for-the-badge) ![Chrome](https://img.shields.io/badge/Chrome-passed-green?style=for-the-badge)
 
 
 ---
@@ -125,11 +125,11 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjE0NjUxLC0yMDQxNTYzNjE3LC05NT
-IwMTIxOCw2ODg4NzE5ODYsLTIwMzU2ODc2NzEsLTIxMTQ5NTg4
-NCw4Mzk2OTM1MjYsMTcyMDY2ODc0NCw2ODUzNjg5NTAsNTEyMD
-g2NTI3LDYwMjQ5ODk1LC0yMDc3NzA5MDU1LC0xODUyNjAwNjgx
-LC0xOTYyMzY2ODk4LDE4MzgxMDIzNTYsMTAzMzU1NDY0OCwtMT
-E1MzQ3NDUxNiwxNDQ3Mjk1Njk2LC0xNjExMjQ0MDkwLC0xNjQ5
-NjU2NjUwXX0=
+eyJoaXN0b3J5IjpbLTQ5MTA1NDg5NywtODk2MTQ2NTEsLTIwND
+E1NjM2MTcsLTk1MjAxMjE4LDY4ODg3MTk4NiwtMjAzNTY4NzY3
+MSwtMjExNDk1ODg0LDgzOTY5MzUyNiwxNzIwNjY4NzQ0LDY4NT
+M2ODk1MCw1MTIwODY1MjcsNjAyNDk4OTUsLTIwNzc3MDkwNTUs
+LTE4NTI2MDA2ODEsLTE5NjIzNjY4OTgsMTgzODEwMjM1NiwxMD
+MzNTU0NjQ4LC0xMTUzNDc0NTE2LDE0NDcyOTU2OTYsLTE2MTEy
+NDQwOTBdfQ==
 -->
