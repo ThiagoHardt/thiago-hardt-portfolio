@@ -23,7 +23,7 @@ One of the most important aspects of the website is to keep the navigation simpl
 ## Features
 
 ### MVP
-
+The page consists of 4 main sections: Home, About, Projects, and Contact.
   
 :white_check_mark: Fully responsive  
 :white_check_mark: Downloadable CV
@@ -32,8 +32,6 @@ One of the most important aspects of the website is to keep the navigation simpl
 :white_check_mark: Contact section
 
 ----
-
-The page consists of 4 main sections: Home, About, Projects, and Contact.
 
 **Home:**
 Contains the main information and it’s where you first land.
@@ -111,19 +109,19 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
-### [](https://github.com/Code-Institute-Solutions/readme-template#media)Media
+### Media
 
-- The photos used in this site were obtained from ...
+- Photos by Sara
 
 ### [](https://github.com/Code-Institute-Solutions/readme-template#acknowledgements)Acknowledgements
 
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDM2NjIyMiw2ODg4NzE5ODYsLTIwMz
-U2ODc2NzEsLTIxMTQ5NTg4NCw4Mzk2OTM1MjYsMTcyMDY2ODc0
-NCw2ODUzNjg5NTAsNTEyMDg2NTI3LDYwMjQ5ODk1LC0yMDc3Nz
-A5MDU1LC0xODUyNjAwNjgxLC0xOTYyMzY2ODk4LDE4MzgxMDIz
-NTYsMTAzMzU1NDY0OCwtMTE1MzQ3NDUxNiwxNDQ3Mjk1Njk2LC
-0xNjExMjQ0MDkwLC0xNjQ5NjU2NjUwXX0=
+eyJoaXN0b3J5IjpbODIxMTMzNjgzLDY4ODg3MTk4NiwtMjAzNT
+Y4NzY3MSwtMjExNDk1ODg0LDgzOTY5MzUyNiwxNzIwNjY4NzQ0
+LDY4NTM2ODk1MCw1MTIwODY1MjcsNjAyNDk4OTUsLTIwNzc3MD
+kwNTUsLTE4NTI2MDA2ODEsLTE5NjIzNjY4OTgsMTgzODEwMjM1
+NiwxMDMzNTU0NjQ4LC0xMTUzNDc0NTE2LDE0NDcyOTU2OTYsLT
+E2MTEyNDQwOTAsLTE2NDk2NTY2NTBdfQ==
 -->
