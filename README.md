@@ -98,9 +98,8 @@ You should also mention in this section any interesting bugs or problems you dis
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ### Browsers
-
- - [ ] Fire Fox
- - [ ] Links
+- [ ]List item
+- 
 
  
 
@@ -131,7 +130,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDc2NTMyMjEsMTEzMjAwNTU4OSwtMT
+eyJoaXN0b3J5IjpbLTEzNDA3MjY4MjAsMTEzMjAwNTU4OSwtMT
 M4MjM5NTUzNywtODk2MTQ2NTEsLTIwNDE1NjM2MTcsLTk1MjAx
 MjE4LDY4ODg3MTk4NiwtMjAzNTY4NzY3MSwtMjExNDk1ODg0LD
 gzOTY5MzUyNiwxNzIwNjY4NzQ0LDY4NTM2ODk1MCw1MTIwODY1
