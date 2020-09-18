@@ -37,7 +37,6 @@ The page consists of 4 main sections: Home, About, Projects, and Contact.
 
 ### Existing Features
 
-
 - **Home:**
 Contains the main information and it’s where you first land.
 
@@ -54,7 +53,7 @@ Button to send e-mail and social links.
 
 ### Features Left to Implement
 
-- Possibly a **Blog** feature where the user can showcase interests and IT related content
+- Possibly a **Blog** feature where the user can showcase interests and IT related content.
 
 ## Technologies Used
 
@@ -144,7 +143,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTYyMDEzNywtNDg3OTQ1MzY1LDExMz
+eyJoaXN0b3J5IjpbMTIyMzU5NjUxNSwtNDg3OTQ1MzY1LDExMz
 IwMDU1ODksLTEzODIzOTU1MzcsLTg5NjE0NjUxLC0yMDQxNTYz
 NjE3LC05NTIwMTIxOCw2ODg4NzE5ODYsLTIwMzU2ODc2NzEsLT
 IxMTQ5NTg4NCw4Mzk2OTM1MjYsMTcyMDY2ODc0NCw2ODUzNjg5
