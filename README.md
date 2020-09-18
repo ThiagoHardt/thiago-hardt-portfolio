@@ -35,20 +35,20 @@ The page consists of 4 main sections: Home, About, Projects, and Contact.
 
 <hr>
 
-**Home:**
-Contains the main information and it’s where you first land.
-
-**About:**
-Quickly brief about the developer’s background and skills, with an option to download CV for further information.
-
-**Projects:**
-The main projects the developer worked on. Every project contains a short brief to describe it and two buttons, One for a live view of the project and one for the source code.
-
-**Contact:**
-Button to send e-mail and social links.
-
 ### Existing Features
 
+
+- **Home:**
+Contains the main information and it’s where you first land.
+
+- **About:**
+Quickly brief about the developer’s background and skills, with an option to download CV for further information.
+
+- **Projects:**
+The main projects the developer worked on. Every project contains a short brief to describe it and two buttons, One for a live view of the project and one for the source code.
+
+- **Contact:**
+Button to send e-mail and social links.
 - **Download CV Button:** This feature enables the user to directly download a .pdf version of the developer’s CV.
 
 
@@ -144,7 +144,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0Mjg5MzY2OSwtNDg3OTQ1MzY1LDExMz
+eyJoaXN0b3J5IjpbLTQ3OTYyMDEzNywtNDg3OTQ1MzY1LDExMz
 IwMDU1ODksLTEzODIzOTU1MzcsLTg5NjE0NjUxLC0yMDQxNTYz
 NjE3LC05NTIwMTIxOCw2ODg4NzE5ODYsLTIwMzU2ODc2NzEsLT
 IxMTQ5NTg4NCw4Mzk2OTM1MjYsMTcyMDY2ODc0NCw2ODUzNjg5
