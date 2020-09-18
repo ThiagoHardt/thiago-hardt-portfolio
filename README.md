@@ -5,7 +5,7 @@ Hello there!
 This project aims to create a fully functional static front-end site using technologies learned throughout Code Institute full stack web developer course.
 
 [
-![2zIyxV.md.png](https://iili.io/2zIyxV.md.png)](https://freeimage.host/i/2zIyxV)
+![2zIyxV.md.png](https://iili.io/2zIyxV.md.png)](http://ami.responsivedesign.is/?url=https://thiagohardt.github.io/thiago-hardt-portfolio)
 
 # UX
 
@@ -109,9 +109,9 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTU3MDM5ODcsODM5NjkzNTI2LDE3Mj
-A2Njg3NDQsNjg1MzY4OTUwLDUxMjA4NjUyNyw2MDI0OTg5NSwt
-MjA3NzcwOTA1NSwtMTg1MjYwMDY4MSwtMTk2MjM2Njg5OCwxOD
-M4MTAyMzU2LDEwMzM1NTQ2NDgsLTExNTM0NzQ1MTYsMTQ0NzI5
-NTY5NiwtMTYxMTI0NDA5MCwtMTY0OTY1NjY1MF19
+eyJoaXN0b3J5IjpbLTIxMTQ5NTg4NCw4Mzk2OTM1MjYsMTcyMD
+Y2ODc0NCw2ODUzNjg5NTAsNTEyMDg2NTI3LDYwMjQ5ODk1LC0y
+MDc3NzA5MDU1LC0xODUyNjAwNjgxLC0xOTYyMzY2ODk4LDE4Mz
+gxMDIzNTYsMTAzMzU1NDY0OCwtMTE1MzQ3NDUxNiwxNDQ3Mjk1
+Njk2LC0xNjExMjQ0MDkwLC0xNjQ5NjU2NjUwXX0=
 -->
