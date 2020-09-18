@@ -34,7 +34,7 @@ Quickly brief about the developer’s background and skills, with an option to d
 The main projects the developer worked on. Every project contains a short brief to describe it and two buttons, One for a live view of the project and one for the source code.
 
 **Contact:**
-Contact form.
+Button to send e-mail and social links.
 
 ### Existing Features
 
@@ -109,9 +109,10 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQ5NTg4NCw4Mzk2OTM1MjYsMTcyMD
-Y2ODc0NCw2ODUzNjg5NTAsNTEyMDg2NTI3LDYwMjQ5ODk1LC0y
-MDc3NzA5MDU1LC0xODUyNjAwNjgxLC0xOTYyMzY2ODk4LDE4Mz
-gxMDIzNTYsMTAzMzU1NDY0OCwtMTE1MzQ3NDUxNiwxNDQ3Mjk1
-Njk2LC0xNjExMjQ0MDkwLC0xNjQ5NjU2NjUwXX0=
+eyJoaXN0b3J5IjpbLTIwMzU2ODc2NzEsLTIxMTQ5NTg4NCw4Mz
+k2OTM1MjYsMTcyMDY2ODc0NCw2ODUzNjg5NTAsNTEyMDg2NTI3
+LDYwMjQ5ODk1LC0yMDc3NzA5MDU1LC0xODUyNjAwNjgxLC0xOT
+YyMzY2ODk4LDE4MzgxMDIzNTYsMTAzMzU1NDY0OCwtMTE1MzQ3
+NDUxNiwxNDQ3Mjk1Njk2LC0xNjExMjQ0MDkwLC0xNjQ5NjU2Nj
+UwXX0=
 -->
