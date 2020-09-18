@@ -97,9 +97,12 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-### Browsers
-- [ ]List item
-- 
+## Browsers
+
+### Fire Fox
+:white_check_mark: Links
+:white_check_mark: Animations
+:white_check_mark: Responsiveness
 
  
 
@@ -130,7 +133,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDA3MjY4MjAsMTEzMjAwNTU4OSwtMT
+eyJoaXN0b3J5IjpbLTE1OTU2NDcwNTEsMTEzMjAwNTU4OSwtMT
 M4MjM5NTUzNywtODk2MTQ2NTEsLTIwNDE1NjM2MTcsLTk1MjAx
 MjE4LDY4ODg3MTk4NiwtMjAzNTY4NzY3MSwtMjExNDk1ODg0LD
 gzOTY5MzUyNiwxNzIwNjY4NzQ0LDY4NTM2ODk1MCw1MTIwODY1
