@@ -72,8 +72,9 @@ Throughout the project, the following technologies were used.
    - The project uses **ScrollReveal** to apply scrolling effects.
 
 ## Testing
-
-![W3C Validator](https://img.shields.io/badge/w3c-testing-orange?style=for-the-badge) ![CSS3 Validator](https://img.shields.io/badge/CSS3-validated-green?style=for-the-badge) ![FireFox](https://img.shields.io/badge/firefox-passed-green?style=for-the-badge) ![Chrome](https://img.shields.io/badge/Chrome-passed-green?style=for-the-badge) ![Chrome](https://img.shields.io/badge/Chrome-passed-green?style=for-the-badge)
+### Validators
+![W3C Validator](https://img.shields.io/badge/w3c-testing-orange?style=for-the-badge) ![CSS3 Validator](https://img.shields.io/badge/CSS3-validated-green?style=for-the-badge) 
+![FireFox](https://img.shields.io/badge/firefox-passed-green?style=for-the-badge) ![Chrome](https://img.shields.io/badge/Chrome-passed-green?style=for-the-badge) ![Edge](https://img.shields.io/badge/edge-testing-orange?style=for-the-badge)
 
 
 ---
@@ -125,7 +126,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTA1NDg5NywtODk2MTQ2NTEsLTIwND
+eyJoaXN0b3J5IjpbLTQ2MDA4MjEyMiwtODk2MTQ2NTEsLTIwND
 E1NjM2MTcsLTk1MjAxMjE4LDY4ODg3MTk4NiwtMjAzNTY4NzY3
 MSwtMjExNDk1ODg0LDgzOTY5MzUyNiwxNzIwNjY4NzQ0LDY4NT
 M2ODk1MCw1MTIwODY1MjcsNjAyNDk4OTUsLTIwNzc3MDkwNTUs
