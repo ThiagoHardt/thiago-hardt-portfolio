@@ -91,6 +91,9 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
+### Browsers
+Chrome 
+
 ## Deployment
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
@@ -118,7 +121,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzUzOTg2OSw2ODg4NzE5ODYsLTIwMz
+eyJoaXN0b3J5IjpbMTIxNzU2NjU4Myw2ODg4NzE5ODYsLTIwMz
 U2ODc2NzEsLTIxMTQ5NTg4NCw4Mzk2OTM1MjYsMTcyMDY2ODc0
 NCw2ODUzNjg5NTAsNTEyMDg2NTI3LDYwMjQ5ODk1LC0yMDc3Nz
 A5MDU1LC0xODUyNjAwNjgxLC0xOTYyMzY2ODk4LDE4MzgxMDIz
