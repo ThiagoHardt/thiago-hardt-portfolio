@@ -23,7 +23,10 @@ One of the most important aspects of the website is to keep the navigation simpl
 ## Features
 
 ### MVP
-Fully 
+
+ - [ ] Fully responsive
+ - [ ] Download PDF DV
+ - [ ] 
 
 The page consists of 4 main sections: Home, About, Projects, and Contact.
 
@@ -112,10 +115,10 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MTQxNTc2MywtMjAzNTY4NzY3MSwtMj
-ExNDk1ODg0LDgzOTY5MzUyNiwxNzIwNjY4NzQ0LDY4NTM2ODk1
-MCw1MTIwODY1MjcsNjAyNDk4OTUsLTIwNzc3MDkwNTUsLTE4NT
-I2MDA2ODEsLTE5NjIzNjY4OTgsMTgzODEwMjM1NiwxMDMzNTU0
-NjQ4LC0xMTUzNDc0NTE2LDE0NDcyOTU2OTYsLTE2MTEyNDQwOT
-AsLTE2NDk2NTY2NTBdfQ==
+eyJoaXN0b3J5IjpbLTIxMjQ5MjM0MjAsLTIwMzU2ODc2NzEsLT
+IxMTQ5NTg4NCw4Mzk2OTM1MjYsMTcyMDY2ODc0NCw2ODUzNjg5
+NTAsNTEyMDg2NTI3LDYwMjQ5ODk1LC0yMDc3NzA5MDU1LC0xOD
+UyNjAwNjgxLC0xOTYyMzY2ODk4LDE4MzgxMDIzNTYsMTAzMzU1
+NDY0OCwtMTE1MzQ3NDUxNiwxNDQ3Mjk1Njk2LC0xNjExMjQ0MD
+kwLC0xNjQ5NjU2NjUwXX0=
 -->
