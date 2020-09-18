@@ -4,7 +4,7 @@ Hello there!
 
 This project aims to create a fully functional static front-end site using technologies learned throughout Code Institute full stack web developer course.
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fthiagohardt.github.io%2Fthiago-hardt-portfolio%2F)![GitHub last commit](https://img.shields.io/github/last-commit/thiagohardt/thiago-hardt-portfolio?style=for-the-badge) ![enter image description here](https://img.shields.io/github/languages/count/thiagohardt/thiago-hardt-portfolio?style=for-the-badge)
+![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fthiagohardt.github.io%2Fthiago-hardt-portfolio%2F) ![GitHub last commit](https://img.shields.io/github/last-commit/thiagohardt/thiago-hardt-portfolio?style=for-the-badge) ![enter image description here](https://img.shields.io/github/languages/count/thiagohardt/thiago-hardt-portfolio?style=for-the-badge)
  
 ![2zIyxV.md.png](https://iili.io/2zIyxV.md.png)
 
@@ -127,7 +127,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzkyMzYxNCwtMTM4MjM5NTUzNywtOD
+eyJoaXN0b3J5IjpbMTEzMjAwNTU4OSwtMTM4MjM5NTUzNywtOD
 k2MTQ2NTEsLTIwNDE1NjM2MTcsLTk1MjAxMjE4LDY4ODg3MTk4
 NiwtMjAzNTY4NzY3MSwtMjExNDk1ODg0LDgzOTY5MzUyNiwxNz
 IwNjY4NzQ0LDY4NTM2ODk1MCw1MTIwODY1MjcsNjAyNDk4OTUs
