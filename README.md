@@ -26,13 +26,14 @@ One of the most important aspects of the website is to keep the navigation simpl
 ### MVP
 The page consists of 4 main sections: Home, About, Projects, and Contact.
   
-:white_check_mark: Fully responsive  
-:white_check_mark: Downloadable CV
-:white_check_mark: About section
-:white_check_mark: Projects section
-:white_check_mark: Contact section
 
-----
+ - :white_check_mark: Fully responsive   
+ - :white_check_mark: Downloadable CV 
+  - :white_check_mark: About section 
+ -  :white_check_mark: Projects section 
+  - :white_check_mark: Contact section
+
+<hr>
 
 **Home:**
 Contains the main information and it’s where you first land.
@@ -144,11 +145,11 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDczNjI0MjcsLTQ4Nzk0NTM2NSwxMT
-MyMDA1NTg5LC0xMzgyMzk1NTM3LC04OTYxNDY1MSwtMjA0MTU2
-MzYxNywtOTUyMDEyMTgsNjg4ODcxOTg2LC0yMDM1Njg3NjcxLC
-0yMTE0OTU4ODQsODM5NjkzNTI2LDE3MjA2Njg3NDQsNjg1MzY4
-OTUwLDUxMjA4NjUyNyw2MDI0OTg5NSwtMjA3NzcwOTA1NSwtMT
-g1MjYwMDY4MSwtMTk2MjM2Njg5OCwxODM4MTAyMzU2LDEwMzM1
-NTQ2NDhdfQ==
+eyJoaXN0b3J5IjpbNDgxMDg1MTg4LC00ODc5NDUzNjUsMTEzMj
+AwNTU4OSwtMTM4MjM5NTUzNywtODk2MTQ2NTEsLTIwNDE1NjM2
+MTcsLTk1MjAxMjE4LDY4ODg3MTk4NiwtMjAzNTY4NzY3MSwtMj
+ExNDk1ODg0LDgzOTY5MzUyNiwxNzIwNjY4NzQ0LDY4NTM2ODk1
+MCw1MTIwODY1MjcsNjAyNDk4OTUsLTIwNzc3MDkwNTUsLTE4NT
+I2MDA2ODEsLTE5NjIzNjY4OTgsMTgzODEwMjM1NiwxMDMzNTU0
+NjQ4XX0=
 -->
