@@ -105,9 +105,10 @@ If this section grows too long, you may want to split it off into a separate fil
 :white_check_mark: Responsiveness
 
 ### Chrome
-:white_check_mark: Links
-:white_check_mark: Animations
-:white_check_mark: Responsiveness
+
+ - :white_check_mark: Links 
+ - :white_check_mark: Animations
+   :white_check_mark: Responsiveness
  
 
 ## Deployment
@@ -137,11 +138,11 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Nzk0NTM2NSwxMTMyMDA1NTg5LC0xMz
-gyMzk1NTM3LC04OTYxNDY1MSwtMjA0MTU2MzYxNywtOTUyMDEy
-MTgsNjg4ODcxOTg2LC0yMDM1Njg3NjcxLC0yMTE0OTU4ODQsOD
-M5NjkzNTI2LDE3MjA2Njg3NDQsNjg1MzY4OTUwLDUxMjA4NjUy
-Nyw2MDI0OTg5NSwtMjA3NzcwOTA1NSwtMTg1MjYwMDY4MSwtMT
-k2MjM2Njg5OCwxODM4MTAyMzU2LDEwMzM1NTQ2NDgsLTExNTM0
-NzQ1MTZdfQ==
+eyJoaXN0b3J5IjpbLTEwMjUxNDQxMTMsLTQ4Nzk0NTM2NSwxMT
+MyMDA1NTg5LC0xMzgyMzk1NTM3LC04OTYxNDY1MSwtMjA0MTU2
+MzYxNywtOTUyMDEyMTgsNjg4ODcxOTg2LC0yMDM1Njg3NjcxLC
+0yMTE0OTU4ODQsODM5NjkzNTI2LDE3MjA2Njg3NDQsNjg1MzY4
+OTUwLDUxMjA4NjUyNyw2MDI0OTg5NSwtMjA3NzcwOTA1NSwtMT
+g1MjYwMDY4MSwtMTk2MjM2Njg5OCwxODM4MTAyMzU2LDEwMzM1
+NTQ2NDhdfQ==
 -->
