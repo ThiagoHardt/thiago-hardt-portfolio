@@ -67,9 +67,9 @@ Throughout the project, the following technologies were used.
 - [StackEdit](https://stackedit.io/)
   - The project uses **StackEdit** to write the README file.
 - [Hover](https://ianlunn.github.io/Hover/)
-  - The project uses **Hover** for hover effects.
+  - The project uses **Hover** for quick hover effects.
  - [ScrollReveal](https://scrollrevealjs.org/)
-   - The project uses **ScrollReveal** to apply scrolling effects effects.
+   - The project uses **ScrollReveal** to apply scrolling effects.
 
 ## Testing
 
@@ -91,7 +91,7 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-## [](https://github.com/Code-Institute-Solutions/readme-template#deployment)Deployment
+## Deployment
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
@@ -103,7 +103,7 @@ In particular, you should provide all details of the differences between the dep
 
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
-## [](https://github.com/Code-Institute-Solutions/readme-template#credits)Credits
+## Credits
 
 ### [](https://github.com/Code-Institute-Solutions/readme-template#content)Content
 
@@ -118,10 +118,10 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5MzYxMTkzLDY4ODg3MTk4NiwtMjAzNT
-Y4NzY3MSwtMjExNDk1ODg0LDgzOTY5MzUyNiwxNzIwNjY4NzQ0
-LDY4NTM2ODk1MCw1MTIwODY1MjcsNjAyNDk4OTUsLTIwNzc3MD
-kwNTUsLTE4NTI2MDA2ODEsLTE5NjIzNjY4OTgsMTgzODEwMjM1
-NiwxMDMzNTU0NjQ4LC0xMTUzNDc0NTE2LDE0NDcyOTU2OTYsLT
-E2MTEyNDQwOTAsLTE2NDk2NTY2NTBdfQ==
+eyJoaXN0b3J5IjpbMTgyNzUzOTg2OSw2ODg4NzE5ODYsLTIwMz
+U2ODc2NzEsLTIxMTQ5NTg4NCw4Mzk2OTM1MjYsMTcyMDY2ODc0
+NCw2ODUzNjg5NTAsNTEyMDg2NTI3LDYwMjQ5ODk1LC0yMDc3Nz
+A5MDU1LC0xODUyNjAwNjgxLC0xOTYyMzY2ODk4LDE4MzgxMDIz
+NTYsMTAzMzU1NDY0OCwtMTE1MzQ3NDUxNiwxNDQ3Mjk1Njk2LC
+0xNjExMjQ0MDkwLC0xNjQ5NjU2NjUwXX0=
 -->
