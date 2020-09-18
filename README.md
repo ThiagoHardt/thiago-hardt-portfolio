@@ -31,7 +31,7 @@ One of the most important aspects of the website is to keep the navigation simpl
 :white_check_mark: Projects section
 :white_check_mark: Contact section
 
-
+----
 
 The page consists of 4 main sections: Home, About, Projects, and Contact.
 
@@ -120,10 +120,10 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4ODcxOTg2LC0yMDM1Njg3NjcxLC0yMT
-E0OTU4ODQsODM5NjkzNTI2LDE3MjA2Njg3NDQsNjg1MzY4OTUw
-LDUxMjA4NjUyNyw2MDI0OTg5NSwtMjA3NzcwOTA1NSwtMTg1Mj
-YwMDY4MSwtMTk2MjM2Njg5OCwxODM4MTAyMzU2LDEwMzM1NTQ2
-NDgsLTExNTM0NzQ1MTYsMTQ0NzI5NTY5NiwtMTYxMTI0NDA5MC
-wtMTY0OTY1NjY1MF19
+eyJoaXN0b3J5IjpbLTYzMDM2NjIyMiw2ODg4NzE5ODYsLTIwMz
+U2ODc2NzEsLTIxMTQ5NTg4NCw4Mzk2OTM1MjYsMTcyMDY2ODc0
+NCw2ODUzNjg5NTAsNTEyMDg2NTI3LDYwMjQ5ODk1LC0yMDc3Nz
+A5MDU1LC0xODUyNjAwNjgxLC0xOTYyMzY2ODk4LDE4MzgxMDIz
+NTYsMTAzMzU1NDY0OCwtMTE1MzQ3NDUxNiwxNDQ3Mjk1Njk2LC
+0xNjExMjQ0MDkwLC0xNjQ5NjU2NjUwXX0=
 -->
