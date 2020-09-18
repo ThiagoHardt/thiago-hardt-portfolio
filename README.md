@@ -3,7 +3,7 @@
 Hello there!
 
 This project aims to create a fully functional static front-end site using technologies learned throughout Code Institute full stack web developer course.
-![enter image description here]https://i.ibb.co/v44YRwr/responsive.png
+![enter image description here]https://github.com/ThiagoHardt/thiago-hardt-portfolio/blob/master/assets/img/programming1.jpg
 
 # UX
 
@@ -107,7 +107,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDYyNjg1MiwxNzIwNjY4NzQ0LDY4NT
+eyJoaXN0b3J5IjpbMTczNTY4ODAxNCwxNzIwNjY4NzQ0LDY4NT
 M2ODk1MCw1MTIwODY1MjcsNjAyNDk4OTUsLTIwNzc3MDkwNTUs
 LTE4NTI2MDA2ODEsLTE5NjIzNjY4OTgsMTgzODEwMjM1NiwxMD
 MzNTU0NjQ4LC0xMTUzNDc0NTE2LDE0NDcyOTU2OTYsLTE2MTEy
