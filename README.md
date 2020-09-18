@@ -73,7 +73,7 @@ Throughout the project, the following technologies were used.
 
 ## Testing
 
-![W3C Validator](https://img.shields.io/badge/w3c-validated-green?style=for-the-badge) ![CSS3 Validator](https://img.shields.io/badge/CSS3-validated-green?style=for-the-badge)
+![W3C Validator](https://img.shields.io/badge/w3c-testing-orange?style=for-the-badge) ![CSS3 Validator](https://img.shields.io/badge/CSS3-validated-green?style=for-the-badge)
 
 
 ---
@@ -125,7 +125,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4NTU1NDY4LC0yMDQxNTYzNjE3LC05NT
+eyJoaXN0b3J5IjpbLTg5NjE0NjUxLC0yMDQxNTYzNjE3LC05NT
 IwMTIxOCw2ODg4NzE5ODYsLTIwMzU2ODc2NzEsLTIxMTQ5NTg4
 NCw4Mzk2OTM1MjYsMTcyMDY2ODc0NCw2ODUzNjg5NTAsNTEyMD
 g2NTI3LDYwMjQ5ODk1LC0yMDc3NzA5MDU1LC0xODUyNjAwNjgx
