@@ -31,11 +31,11 @@ One of the most important aspects of the website is to keep the navigation simpl
 The page consists of 4 main sections: Home, About, Projects, and Contact.
   
 
-:white_check_mark: Fully responsive   
-:white_check_mark: Downloadable CV 
-:white_check_mark: About section 
-:white_check_mark: Projects section 
-:white_check_mark: Contact Form section
+:white_check_mark: Fully responsive<br>
+:white_check_mark: Downloadable CV <br>
+:white_check_mark: About section <br>
+:white_check_mark: Projects section <br>
+:white_check_mark: Contact Form section<br>
 
 ### Existing Features
 
@@ -92,7 +92,7 @@ Throughout the project, the following technologies were used.
 
 **Navbar:**
     :white_check_mark:  Links take to the right section.
-    :white_check_mark:  Links highlight when active
+    :white_check_mark:  Links highlight when active.
     :white_check_mark:  Navbar resizes when in smaller screens.
     :white_check_mark: The Dropdown menu closes after clicking on a link.
     
@@ -154,7 +154,7 @@ The code can be run locally from the Index.html file.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjg5NjAxMTYsMTE0ODA2MjMxNiwtOT
+eyJoaXN0b3J5IjpbLTE4MjE0NTkzNjQsMTE0ODA2MjMxNiwtOT
 I2ODU3MTI5LC0xNDk3OTg5NDQyLC0xNjE5MzQ4OTMwLDIwOTA5
 NjI2NTgsLTE1OTc4NTM0NDMsMTY1NDk5MDc1NCwxMjIzNTk2NT
 E1LC00ODc5NDUzNjUsMTEzMjAwNTU4OSwtMTM4MjM5NTUzNywt
