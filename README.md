@@ -91,15 +91,15 @@ Throughout the project, the following technologies were used.
 
 
 **Navbar:**
-    :white_check_mark:  Links take to the right section.
-    :white_check_mark:  Links highlight when active.
-    :white_check_mark:  Navbar resizes when in smaller screens.
-    :white_check_mark: The Dropdown menu closes after clicking on a link.
+    :white_check_mark:  Links take to the right section.<br>
+    :white_check_mark:  Links highlight when active.<br>
+    :white_check_mark:  Navbar resizes when in smaller screens.<br>
+    :white_check_mark: The Dropdown menu closes after clicking on a link.<br>
     
 **Hero/Home:**
-    :white_check_mark:  "View my work" button take takes you to the projects section.
-    :white_check_mark:  "Check my CV" button open a PDF file in a new tab.
-    :white_check_mark:  Content adapts to smaller screen devices.
+    :white_check_mark:  "View my work" button take takes you to the projects section.<br>
+    :white_check_mark:  "Check my CV" button open a PDF file in a new tab.<br>
+    :white_check_mark:  Content adapts to smaller screen devices.<br>
     
 **Contact form:**
     :white_check_mark:  Go to the "Contact Us" page
@@ -115,24 +115,24 @@ Throughout the project, the following technologies were used.
 ### Browsers
 
 **Fire Fox**
- :white_check_mark: Links 
- :white_check_mark: Animations
- :white_check_mark: Responsiveness
- :white_check_mark: Form Validation
+ :white_check_mark: Links <br>
+ :white_check_mark: Animations<br>
+ :white_check_mark: Responsiveness<br>
+ :white_check_mark: Form Validation<br>
 
 **Chrome**
 
- :white_check_mark: Links 
- :white_check_mark: Animations
- :white_check_mark: Responsiveness
- :white_check_mark: Form Validation
+ :white_check_mark: Links <br>
+ :white_check_mark: Animations<br>
+ :white_check_mark: Responsiveness<br>
+ :white_check_mark: Form Validation<br>
 
 **Edge**
 
- :white_check_mark: Links 
- :white_check_mark: Animations
- :white_check_mark: Responsiveness
- :white_check_mark: Form Validation
+ :white_check_mark: Links <br>
+ :white_check_mark: Animations<br>
+ :white_check_mark: Responsiveness<br>
+ :white_check_mark: Form Validation<br>
  
 
 ## Deployment
@@ -154,11 +154,11 @@ The code can be run locally from the Index.html file.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjE0NTkzNjQsMTE0ODA2MjMxNiwtOT
-I2ODU3MTI5LC0xNDk3OTg5NDQyLC0xNjE5MzQ4OTMwLDIwOTA5
-NjI2NTgsLTE1OTc4NTM0NDMsMTY1NDk5MDc1NCwxMjIzNTk2NT
-E1LC00ODc5NDUzNjUsMTEzMjAwNTU4OSwtMTM4MjM5NTUzNywt
-ODk2MTQ2NTEsLTIwNDE1NjM2MTcsLTk1MjAxMjE4LDY4ODg3MT
-k4NiwtMjAzNTY4NzY3MSwtMjExNDk1ODg0LDgzOTY5MzUyNiwx
-NzIwNjY4NzQ0XX0=
+eyJoaXN0b3J5IjpbMTkwNjI1MzUxOCwxMTQ4MDYyMzE2LC05Mj
+Y4NTcxMjksLTE0OTc5ODk0NDIsLTE2MTkzNDg5MzAsMjA5MDk2
+MjY1OCwtMTU5Nzg1MzQ0MywxNjU0OTkwNzU0LDEyMjM1OTY1MT
+UsLTQ4Nzk0NTM2NSwxMTMyMDA1NTg5LC0xMzgyMzk1NTM3LC04
+OTYxNDY1MSwtMjA0MTU2MzYxNywtOTUyMDEyMTgsNjg4ODcxOT
+g2LC0yMDM1Njg3NjcxLC0yMTE0OTU4ODQsODM5NjkzNTI2LDE3
+MjA2Njg3NDRdfQ==
 -->
