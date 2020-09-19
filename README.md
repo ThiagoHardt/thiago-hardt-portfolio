@@ -86,7 +86,7 @@ Throughout the project, the following technologies were used.
 
 ## Testing
 
-![W3C Validation](https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2Fthiagohardt.github.io%2Fthiago-hardt-portfolio%2F) ![CSS3 Validator](https://img.shields.io/badge/CSS3-validated-success?style=for-the-badge)![CSS3 Validator](https://img.shields.io/badge/TEsts-passed-success?style=for-the-badge)<br> 
+![W3C Validation](https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2Fthiagohardt.github.io%2Fthiago-hardt-portfolio%2F) ![CSS3 Validator](https://img.shields.io/badge/CSS3-validated-success?style=for-the-badge) ![CSS3 Validator](https://img.shields.io/badge/TEsts-passed-success?style=for-the-badge)<br> 
 ![FireFox](https://img.shields.io/badge/firefox-passed-success?style=for-the-badge) ![Chrome](https://img.shields.io/badge/Chrome-passed-success?style=for-the-badge) ![Edge](https://img.shields.io/badge/edge-passed-success?style=for-the-badge)
 
 
@@ -164,11 +164,11 @@ The code can be run locally from the Index.html file.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYwOTIwMzA1LDE2NjU0NDg2NDEsMTE0OD
-A2MjMxNiwtOTI2ODU3MTI5LC0xNDk3OTg5NDQyLC0xNjE5MzQ4
-OTMwLDIwOTA5NjI2NTgsLTE1OTc4NTM0NDMsMTY1NDk5MDc1NC
-wxMjIzNTk2NTE1LC00ODc5NDUzNjUsMTEzMjAwNTU4OSwtMTM4
-MjM5NTUzNywtODk2MTQ2NTEsLTIwNDE1NjM2MTcsLTk1MjAxMj
-E4LDY4ODg3MTk4NiwtMjAzNTY4NzY3MSwtMjExNDk1ODg0LDgz
-OTY5MzUyNl19
+eyJoaXN0b3J5IjpbLTEyOTc3NzkxMjksMTY2NTQ0ODY0MSwxMT
+Q4MDYyMzE2LC05MjY4NTcxMjksLTE0OTc5ODk0NDIsLTE2MTkz
+NDg5MzAsMjA5MDk2MjY1OCwtMTU5Nzg1MzQ0MywxNjU0OTkwNz
+U0LDEyMjM1OTY1MTUsLTQ4Nzk0NTM2NSwxMTMyMDA1NTg5LC0x
+MzgyMzk1NTM3LC04OTYxNDY1MSwtMjA0MTU2MzYxNywtOTUyMD
+EyMTgsNjg4ODcxOTg2LC0yMDM1Njg3NjcxLC0yMTE0OTU4ODQs
+ODM5NjkzNTI2XX0=
 -->
