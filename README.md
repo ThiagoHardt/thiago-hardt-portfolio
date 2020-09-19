@@ -20,7 +20,7 @@ One of the most important aspects of the website is to keep the navigation simpl
 ## User Story
 
  **As a visitor**
-1.  As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+1.  As a Visitor, I want to easily understand the main purpose of the site and learn more about the developer.
 2.  As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
 3.  As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
 
@@ -30,11 +30,11 @@ One of the most important aspects of the website is to keep the navigation simpl
 The page consists of 4 main sections: Home, About, Projects, and Contact.
   
 
- - :white_check_mark: Fully responsive   
- - :white_check_mark: Downloadable CV 
- - :white_check_mark: About section 
- -  :white_check_mark: Projects section 
- - :white_check_mark: Contact section
+:white_check_mark: Fully responsive   
+:white_check_mark: Downloadable CV 
+:white_check_mark: About section 
+:white_check_mark: Projects section 
+:white_check_mark: Contact Form section
 
 <hr>
 
@@ -141,7 +141,7 @@ The code can be run locally from the Index.html file.
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MDk1MzM4OCwtMTYxOTM0ODkzMCwyMD
+eyJoaXN0b3J5IjpbMTk0NTg5NTAzMiwtMTYxOTM0ODkzMCwyMD
 kwOTYyNjU4LC0xNTk3ODUzNDQzLDE2NTQ5OTA3NTQsMTIyMzU5
 NjUxNSwtNDg3OTQ1MzY1LDExMzIwMDU1ODksLTEzODIzOTU1Mz
 csLTg5NjE0NjUxLC0yMDQxNTYzNjE3LC05NTIwMTIxOCw2ODg4
