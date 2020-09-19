@@ -106,7 +106,8 @@ In addition, you should mention in this section how your project looks and works
 
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+### Known Issues
+
 
 ### Browsers
 
@@ -133,7 +134,6 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ## Deployment
 
-
 The website is hosted and deployed by [Github Pages](https://pages.github.com/).
 Everything is deployed from the master branch and updates automatically whenever the branch is updated.
 The code can be run locally from the Index.html file.
@@ -151,11 +151,11 @@ The code can be run locally from the Index.html file.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTA5MzYyNSwxMTQ4MDYyMzE2LC05Mj
-Y4NTcxMjksLTE0OTc5ODk0NDIsLTE2MTkzNDg5MzAsMjA5MDk2
-MjY1OCwtMTU5Nzg1MzQ0MywxNjU0OTkwNzU0LDEyMjM1OTY1MT
-UsLTQ4Nzk0NTM2NSwxMTMyMDA1NTg5LC0xMzgyMzk1NTM3LC04
-OTYxNDY1MSwtMjA0MTU2MzYxNywtOTUyMDEyMTgsNjg4ODcxOT
-g2LC0yMDM1Njg3NjcxLC0yMTE0OTU4ODQsODM5NjkzNTI2LDE3
-MjA2Njg3NDRdfQ==
+eyJoaXN0b3J5IjpbMjQ1ODU3NSwxMTQ4MDYyMzE2LC05MjY4NT
+cxMjksLTE0OTc5ODk0NDIsLTE2MTkzNDg5MzAsMjA5MDk2MjY1
+OCwtMTU5Nzg1MzQ0MywxNjU0OTkwNzU0LDEyMjM1OTY1MTUsLT
+Q4Nzk0NTM2NSwxMTMyMDA1NTg5LC0xMzgyMzk1NTM3LC04OTYx
+NDY1MSwtMjA0MTU2MzYxNywtOTUyMDEyMTgsNjg4ODcxOTg2LC
+0yMDM1Njg3NjcxLC0yMTE0OTU4ODQsODM5NjkzNTI2LDE3MjA2
+Njg3NDRdfQ==
 -->
