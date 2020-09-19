@@ -94,8 +94,8 @@ Throughout the project, the following technologies were used.
 **Navbar:**
     :white_check_mark:  Links take to the right section.
     :white_check_mark:  Links highlight when active
-    :white_check_mark:  Try to submit the form with an invalid email address and verify that a relevant error message appears
-    :white_check_mark: Try to submit the form with all inputs valid.
+    :white_check_mark:  Navbar resizes when in smaller screens.
+    :white_check_mark: The Dropdown menu closes after clicking on a link.
     
 **Contact form:**
     :white_check_mark:  Go to the "Contact Us" page
@@ -156,7 +156,7 @@ The code can be run locally from the Index.html file.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwOTYwODk2LDExNDgwNjIzMTYsLTkyNj
+eyJoaXN0b3J5IjpbNTU2MDMxNjMzLDExNDgwNjIzMTYsLTkyNj
 g1NzEyOSwtMTQ5Nzk4OTQ0MiwtMTYxOTM0ODkzMCwyMDkwOTYy
 NjU4LC0xNTk3ODUzNDQzLDE2NTQ5OTA3NTQsMTIyMzU5NjUxNS
 wtNDg3OTQ1MzY1LDExMzIwMDU1ODksLTEzODIzOTU1MzcsLTg5
