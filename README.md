@@ -91,34 +91,40 @@ Throughout the project, the following technologies were used.
 
 
 **Navbar:**
-    :white_check_mark:  Links take to the right section.<br>
-    :white_check_mark:  Links highlight when active.<br>
-    :white_check_mark:  Navbar resizes when in smaller screens.<br>
-    :white_check_mark: The Dropdown menu closes after clicking on a link.<br>
+
+   :white_check_mark:  Links take to the right section.<br>
+   :white_check_mark:  Links highlight when active.<br>
+   :white_check_mark:  Navbar resizes when in smaller screens.<br>
+   :white_check_mark: The Dropdown menu closes after clicking on a link.<br>
     
 **Hero/Home:**
-    :white_check_mark:  "View my work" button take takes you to the projects section.<br>
+
+   :white_check_mark:  "View my work" button take takes you to the projects section.<br>
     :white_check_mark:  "Check my CV" button open a PDF file in a new tab.<br>
     :white_check_mark:  Content adapts to smaller screen devices.<br>
     
  **About:**
-    :white_check_mark:  "Check my CV" button open a PDF file in a new tab.<br>
-    :white_check_mark:  Content adapts to a single collum on smaller screen devices.<br>
+ 
+   :white_check_mark:  "Check my CV" button open a PDF file in a new tab.<br>
+   :white_check_mark:  Content adapts to a single collum on smaller screen devices.<br>
     
 **Contact**
-    :white_check_mark:  Go to the "Contact Us" page
-    :white_check_mark:  Submit the empty form and verify that an error message about the required fields appears
-    :white_check_mark:  Submit the form with an invalid email address and verify that a relevant error message appears
-    :white_check_mark:  Submit the form without a message and verify that a relevant error message appears
-    :white_check_mark: Try to submit the form with all inputs valid.
+
+   :white_check_mark:  Go to the "Contact Us" page
+   :white_check_mark:  Submit the empty form and verify that an error message about the required fields appears
+   :white_check_mark:  Submit the form with an invalid email address and verify that a relevant error message appears
+   :white_check_mark:  Submit the form without a message and verify that a relevant error message appears
+   :white_check_mark: Try to submit the form with all inputs valid.
 
 
 ### Known Issues
+
 :x: Contact Form doesn't actually send any e-mail. 
 
 ### Browsers
 
 **Fire Fox**
+
  :white_check_mark: Links <br>
  :white_check_mark: Animations<br>
  :white_check_mark: Responsiveness<br>
@@ -158,11 +164,11 @@ The code can be run locally from the Index.html file.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxNTA3NDQ3LDExNDgwNjIzMTYsLTkyNj
-g1NzEyOSwtMTQ5Nzk4OTQ0MiwtMTYxOTM0ODkzMCwyMDkwOTYy
-NjU4LC0xNTk3ODUzNDQzLDE2NTQ5OTA3NTQsMTIyMzU5NjUxNS
-wtNDg3OTQ1MzY1LDExMzIwMDU1ODksLTEzODIzOTU1MzcsLTg5
-NjE0NjUxLC0yMDQxNTYzNjE3LC05NTIwMTIxOCw2ODg4NzE5OD
-YsLTIwMzU2ODc2NzEsLTIxMTQ5NTg4NCw4Mzk2OTM1MjYsMTcy
-MDY2ODc0NF19
+eyJoaXN0b3J5IjpbLTYzMDc3ODQ5NSwxMTQ4MDYyMzE2LC05Mj
+Y4NTcxMjksLTE0OTc5ODk0NDIsLTE2MTkzNDg5MzAsMjA5MDk2
+MjY1OCwtMTU5Nzg1MzQ0MywxNjU0OTkwNzU0LDEyMjM1OTY1MT
+UsLTQ4Nzk0NTM2NSwxMTMyMDA1NTg5LC0xMzgyMzk1NTM3LC04
+OTYxNDY1MSwtMjA0MTU2MzYxNywtOTUyMDEyMTgsNjg4ODcxOT
+g2LC0yMDM1Njg3NjcxLC0yMTE0OTU4ODQsODM5NjkzNTI2LDE3
+MjA2Njg3NDRdfQ==
 -->
