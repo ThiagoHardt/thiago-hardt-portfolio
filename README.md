@@ -86,10 +86,9 @@ Throughout the project, the following technologies were used.
 
 ## Testing
 
-![W3C Validation](https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2Fthiagohardt.github.io%2Fthiago-hardt-portfolio%2F) ![CSS3 Validator](https://img.shields.io/badge/CSS3-validated-green?style=for-the-badge) <br>
+![W3C Validation](https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2Fthiagohardt.github.io%2Fthiago-hardt-portfolio%2F) ![CSS3 Validator](https://img.shields.io/badge/CSS3-validated-green?style=for-the-badge) ![CSS3 Validator](https://img.shields.io/badge/TEsts-passed-green?style=for-the-badge)
 ![FireFox](https://img.shields.io/badge/firefox-passed-green?style=for-the-badge) ![Chrome](https://img.shields.io/badge/Chrome-passed-green?style=for-the-badge) ![Edge](https://img.shields.io/badge/edge-passed-green?style=for-the-badge)
 
-<hr>
 
 **Navbar:**
     :white_check_mark:  Links take to the right section.
@@ -100,8 +99,7 @@ Throughout the project, the following technologies were used.
 **Hero/Home:**
     :white_check_mark:  "View my work" button take takes you to the projects section.
     :white_check_mark:  "Check my CV" button open a PDF file in a new tab.
-    :white_check_mark:  Try to submit the form with an invalid email address and verify that a relevant error message appears
-    :white_check_mark: Try to submit the form with all inputs valid.
+    :white_check_mark:  Content adapts to smaller screen devices.
     
 **Contact form:**
     :white_check_mark:  Go to the "Contact Us" page
@@ -156,11 +154,11 @@ The code can be run locally from the Index.html file.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzODY2MTM3LDExNDgwNjIzMTYsLTkyNj
-g1NzEyOSwtMTQ5Nzk4OTQ0MiwtMTYxOTM0ODkzMCwyMDkwOTYy
-NjU4LC0xNTk3ODUzNDQzLDE2NTQ5OTA3NTQsMTIyMzU5NjUxNS
-wtNDg3OTQ1MzY1LDExMzIwMDU1ODksLTEzODIzOTU1MzcsLTg5
-NjE0NjUxLC0yMDQxNTYzNjE3LC05NTIwMTIxOCw2ODg4NzE5OD
-YsLTIwMzU2ODc2NzEsLTIxMTQ5NTg4NCw4Mzk2OTM1MjYsMTcy
-MDY2ODc0NF19
+eyJoaXN0b3J5IjpbLTE1Mjg5NjAxMTYsMTE0ODA2MjMxNiwtOT
+I2ODU3MTI5LC0xNDk3OTg5NDQyLC0xNjE5MzQ4OTMwLDIwOTA5
+NjI2NTgsLTE1OTc4NTM0NDMsMTY1NDk5MDc1NCwxMjIzNTk2NT
+E1LC00ODc5NDUzNjUsMTEzMjAwNTU4OSwtMTM4MjM5NTUzNywt
+ODk2MTQ2NTEsLTIwNDE1NjM2MTcsLTk1MjAxMjE4LDY4ODg3MT
+k4NiwtMjAzNTY4NzY3MSwtMjExNDk1ODg0LDgzOTY5MzUyNiwx
+NzIwNjY4NzQ0XX0=
 -->
