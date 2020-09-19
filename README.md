@@ -108,24 +108,24 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-## Browsers
+### Browsers
 
-### Fire Fox
- - :white_check_mark: Links 
- - :white_check_mark: Animations
- - :white_check_mark: Responsiveness
+**Fire Fox**
+ :white_check_mark: Links 
+ :white_check_mark: Animations
+ :white_check_mark: Responsiveness
 
-### Chrome
+**Chrome**
 
- - :white_check_mark: Links 
- - :white_check_mark: Animations
- - :white_check_mark: Responsiveness
+ :white_check_mark: Links 
+ :white_check_mark: Animations
+ :white_check_mark: Responsiveness
 
-### Edge
+**Edge**
 
- - :white_check_mark: Links 
- - :white_check_mark: Animations
- - :white_check_mark: Responsiveness
+ :white_check_mark: Links 
+ :white_check_mark: Animations
+ :white_check_mark: Responsiveness
  
 
 ## Deployment
@@ -150,11 +150,11 @@ The code can be run locally from the Index.html file.
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0MzMwMTc5LDExNDgwNjIzMTYsLTkyNj
-g1NzEyOSwtMTQ5Nzk4OTQ0MiwtMTYxOTM0ODkzMCwyMDkwOTYy
-NjU4LC0xNTk3ODUzNDQzLDE2NTQ5OTA3NTQsMTIyMzU5NjUxNS
-wtNDg3OTQ1MzY1LDExMzIwMDU1ODksLTEzODIzOTU1MzcsLTg5
-NjE0NjUxLC0yMDQxNTYzNjE3LC05NTIwMTIxOCw2ODg4NzE5OD
-YsLTIwMzU2ODc2NzEsLTIxMTQ5NTg4NCw4Mzk2OTM1MjYsMTcy
-MDY2ODc0NF19
+eyJoaXN0b3J5IjpbLTUyOTQ2NzQwNCwxMTQ4MDYyMzE2LC05Mj
+Y4NTcxMjksLTE0OTc5ODk0NDIsLTE2MTkzNDg5MzAsMjA5MDk2
+MjY1OCwtMTU5Nzg1MzQ0MywxNjU0OTkwNzU0LDEyMjM1OTY1MT
+UsLTQ4Nzk0NTM2NSwxMTMyMDA1NTg5LC0xMzgyMzk1NTM3LC04
+OTYxNDY1MSwtMjA0MTU2MzYxNywtOTUyMDEyMTgsNjg4ODcxOT
+g2LC0yMDM1Njg3NjcxLC0yMTE0OTU4ODQsODM5NjkzNTI2LDE3
+MjA2Njg3NDRdfQ==
 -->
