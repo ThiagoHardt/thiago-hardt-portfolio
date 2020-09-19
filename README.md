@@ -114,18 +114,21 @@ If this section grows too long, you may want to split it off into a separate fil
  :white_check_mark: Links 
  :white_check_mark: Animations
  :white_check_mark: Responsiveness
+ :white_check_mark: Form Validation
 
 **Chrome**
 
  :white_check_mark: Links 
  :white_check_mark: Animations
  :white_check_mark: Responsiveness
+ :white_check_mark: Form Validation
 
 **Edge**
 
  :white_check_mark: Links 
  :white_check_mark: Animations
  :white_check_mark: Responsiveness
+ :white_check_mark: Form Validation
  
 
 ## Deployment
@@ -137,20 +140,18 @@ The code can be run locally from the Index.html file.
 
 ## Credits
 
-### [](https://github.com/Code-Institute-Solutions/readme-template#content)Content
+### Content
 
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- All content on the page was created by me. 
 
 ### Media
 
 - Photos by [Sarah Ryan ](https://www.sarahryanphoto.com/?fbclid=IwAR3730d96HQXLyUQcNkw34EYJ9-y29WRntj8SY_hU9366dvhbUaDK2_jgeo) and [Niall O'Kelly](https://niallokelly.com/?fbclid=IwAR3730d96HQXLyUQcNkw34EYJ9-y29WRntj8SY_hU9366dvhbUaDK2_jgeo).
 
-### [](https://github.com/Code-Institute-Solutions/readme-template#acknowledgements)Acknowledgements
 
-- I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTQ2NzQwNCwxMTQ4MDYyMzE2LC05Mj
+eyJoaXN0b3J5IjpbLTg3OTA5MzYyNSwxMTQ4MDYyMzE2LC05Mj
 Y4NTcxMjksLTE0OTc5ODk0NDIsLTE2MTkzNDg5MzAsMjA5MDk2
 MjY1OCwtMTU5Nzg1MzQ0MywxNjU0OTkwNzU0LDEyMjM1OTY1MT
 UsLTQ4Nzk0NTM2NSwxMTMyMDA1NTg5LC0xMzgyMzk1NTM3LC04
