@@ -20,12 +20,11 @@ One of the most important aspects of the website is to keep the navigation simpl
 ## User Story
 
  **As a visitor**
- - As a Visitor, I want to easily understand the main purpose of the
-   site and learn more about the developer. As a Visitor, I want to be
-   able to easily navigate throughout the site to find content. As a
-   visitor, I want to find previous projects that the developer has been
-   part of. As a visitor, I want to download the developer’s CV. As a
-   visitor, I want to contact the developer.
+ - As a Visitor, I want to easily understand the main purpose of the site and learn more about the developer.
+ -  As a Visitor, I want to be able to easily navigate throughout the site to find content. 
+ - As a visitor, I want to find previous projects that the developer has been part of. 
+ - As a visitor, I want to download the developer’s CV. 
+ - As a visitor, I want to contact the developer.
 
 ## Features
 
@@ -144,11 +143,11 @@ The code can be run locally from the Index.html file.
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDY1MDc0OCwtMTYxOTM0ODkzMCwyMD
-kwOTYyNjU4LC0xNTk3ODUzNDQzLDE2NTQ5OTA3NTQsMTIyMzU5
-NjUxNSwtNDg3OTQ1MzY1LDExMzIwMDU1ODksLTEzODIzOTU1Mz
-csLTg5NjE0NjUxLC0yMDQxNTYzNjE3LC05NTIwMTIxOCw2ODg4
-NzE5ODYsLTIwMzU2ODc2NzEsLTIxMTQ5NTg4NCw4Mzk2OTM1Mj
-YsMTcyMDY2ODc0NCw2ODUzNjg5NTAsNTEyMDg2NTI3LDYwMjQ5
-ODk1XX0=
+eyJoaXN0b3J5IjpbLTE0OTc5ODk0NDIsLTE2MTkzNDg5MzAsMj
+A5MDk2MjY1OCwtMTU5Nzg1MzQ0MywxNjU0OTkwNzU0LDEyMjM1
+OTY1MTUsLTQ4Nzk0NTM2NSwxMTMyMDA1NTg5LC0xMzgyMzk1NT
+M3LC04OTYxNDY1MSwtMjA0MTU2MzYxNywtOTUyMDEyMTgsNjg4
+ODcxOTg2LC0yMDM1Njg3NjcxLC0yMTE0OTU4ODQsODM5NjkzNT
+I2LDE3MjA2Njg3NDQsNjg1MzY4OTUwLDUxMjA4NjUyNyw2MDI0
+OTg5NV19
 -->
