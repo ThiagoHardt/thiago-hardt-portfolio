@@ -314,8 +314,8 @@
     <!-- End Projects -->
 
     <!-- Contact -->
-    <footer id="contact">
-      <div class="container-fluid container-contact bg-blue">
+    <footer>
+      <div id="contact" class="container-fluid container-contact bg-blue">
         <div class="row justify-content-center">
           <h1 class="mt-5 c-light">
             <i class="fas fa-mail-bulk c-light"></i> Contact<span
@@ -325,38 +325,46 @@
           </h1>
         </div>
         <hr class="linebreak mb-5" />
-        <div class="container email-container">
-          <div class="row">
-            <div class="col">
-              <h2 class="c-orange">Let's work together?</h2>
-              <p class="c-light mb-4">We should sit for a coffee.</p>
-              <a
-                class="btn btn-outline-primary btn-lg"
-                href="mailto:thiago.hardts@gmail.com.com"
-                target="_blank"
-              >
-                EMAIL
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="row">
+        <div class="row justify-content-center">
           <div class="col">
-            <div class="container mb-4 text-center">
-              <a
-                href="https://www.linkedin.com/in/thiago-hardt-461144195"
-                target="_blank"
-                ><i class="fab fa-linkedin icon-footer"></i
-              ></a>
-              <a href="https://github.com/ThiagoHardt" target="_blank"
-                ><i class="fab fa-github-square icon-footer"></i
-              ></a>
-              <a href="https://www.facebook.com/thiago.hardt/" target="_blank"
-                ><i class="fab fa-facebook-square icon-footer"></i
-              ></a>
-              <a href="https://www.instagram.com/thiagohardt/" target="_blank"
-                ><i class="fab fa-instagram-square icon-footer"></i
-              ></a>
+            <div class="container container-contact--form mb-5">
+              <form class="form-contact">
+                <div class="form-group c-light">
+                  <label for="name">Your name</label>
+                  <input
+                  type="text"
+                  class="form-control"
+                  id="name"
+                  placeholder="Your Name"
+                  required
+                  />
+                </div>
+                <div class="form-group c-light">
+                  <label for="emailInput">Email address</label>
+                  <input
+                  type="email"
+                  class="form-control"
+                  id="emailInput"
+                  placeholder="name@example.com"
+                  required
+                  />
+                </div>
+                <div class="form-group c-light">
+                  <label for="messageForm">Your message</label>
+                  <textarea
+                  class="form-control"
+                  id="messageForm"
+                  rows="5"
+                  placeholder="Your message"
+                  required
+                  ></textarea>
+                </div>
+                <input
+                class="btn btn-primary bg-orange"
+                type="submit"
+                value="SEND"
+                />                
+              </form>
             </div>
           </div>
         </div>

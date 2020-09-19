@@ -237,6 +237,10 @@ p {
   );
 }
 
+.container-contact--form {
+  max-width: 600px;
+}
+
 .container-footer {
   height: auto;
   position: relative;
@@ -261,17 +265,6 @@ a:hover {
 .icon-footer:hover {
   color: #293241;
   transition: ease-in-out 0.3s;
-}
-
-.email-container {
-  text-align: center;
-  padding: 10px;
-  width: auto;
-}
-
-.email-container .btn-outline-primary {
-  color: #fafafa;
-  border-color: #fafafa;
 }
 
 /* -------------------------------------- Media Queries -------------------------------------- */
