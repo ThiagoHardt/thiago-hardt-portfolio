@@ -120,14 +120,9 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
-
+The website is hosted and deployed by [Github Pages](https://pages.github.com/).
+Everything is deployed from the master branch and updates automatically whenever the branch is updated.
 The code can be run locally from the Index.html file.
 
 ## Credits
@@ -145,11 +140,11 @@ The code can be run locally from the Index.html file.
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDk2MjY1OCwtMTU5Nzg1MzQ0MywxNj
-U0OTkwNzU0LDEyMjM1OTY1MTUsLTQ4Nzk0NTM2NSwxMTMyMDA1
-NTg5LC0xMzgyMzk1NTM3LC04OTYxNDY1MSwtMjA0MTU2MzYxNy
-wtOTUyMDEyMTgsNjg4ODcxOTg2LC0yMDM1Njg3NjcxLC0yMTE0
-OTU4ODQsODM5NjkzNTI2LDE3MjA2Njg3NDQsNjg1MzY4OTUwLD
-UxMjA4NjUyNyw2MDI0OTg5NSwtMjA3NzcwOTA1NSwtMTg1MjYw
-MDY4MV19
+eyJoaXN0b3J5IjpbLTE2MTkzNDg5MzAsMjA5MDk2MjY1OCwtMT
+U5Nzg1MzQ0MywxNjU0OTkwNzU0LDEyMjM1OTY1MTUsLTQ4Nzk0
+NTM2NSwxMTMyMDA1NTg5LC0xMzgyMzk1NTM3LC04OTYxNDY1MS
+wtMjA0MTU2MzYxNywtOTUyMDEyMTgsNjg4ODcxOTg2LC0yMDM1
+Njg3NjcxLC0yMTE0OTU4ODQsODM5NjkzNTI2LDE3MjA2Njg3ND
+QsNjg1MzY4OTUwLDUxMjA4NjUyNyw2MDI0OTg5NSwtMjA3Nzcw
+OTA1NV19
 -->
