@@ -128,7 +128,7 @@ In particular, you should provide all details of the differences between the dep
 - Different configuration files?
 - Separate git branch?
 
-**The code can be run locally from the Index.html file.**
+The code can be run locally from the Index.html file.
 
 ## Credits
 
@@ -145,11 +145,11 @@ In particular, you should provide all details of the differences between the dep
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTE3Njg0NzgsLTE1OTc4NTM0NDMsMT
-Y1NDk5MDc1NCwxMjIzNTk2NTE1LC00ODc5NDUzNjUsMTEzMjAw
-NTU4OSwtMTM4MjM5NTUzNywtODk2MTQ2NTEsLTIwNDE1NjM2MT
-csLTk1MjAxMjE4LDY4ODg3MTk4NiwtMjAzNTY4NzY3MSwtMjEx
-NDk1ODg0LDgzOTY5MzUyNiwxNzIwNjY4NzQ0LDY4NTM2ODk1MC
-w1MTIwODY1MjcsNjAyNDk4OTUsLTIwNzc3MDkwNTUsLTE4NTI2
-MDA2ODFdfQ==
+eyJoaXN0b3J5IjpbMjA5MDk2MjY1OCwtMTU5Nzg1MzQ0MywxNj
+U0OTkwNzU0LDEyMjM1OTY1MTUsLTQ4Nzk0NTM2NSwxMTMyMDA1
+NTg5LC0xMzgyMzk1NTM3LC04OTYxNDY1MSwtMjA0MTU2MzYxNy
+wtOTUyMDEyMTgsNjg4ODcxOTg2LC0yMDM1Njg3NjcxLC0yMTE0
+OTU4ODQsODM5NjkzNTI2LDE3MjA2Njg3NDQsNjg1MzY4OTUwLD
+UxMjA4NjUyNyw2MDI0OTg5NSwtMjA3NzcwOTA1NSwtMTg1MjYw
+MDY4MV19
 -->
