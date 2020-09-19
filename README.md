@@ -58,8 +58,8 @@ Contact form and social links.
 
 ## Design
 
-### Wireframes
-
+### Wireframe
+The wireframe for the project can be found [here](https://www.figma.com/file/IaVtu8YZM7oZCzBSSpasxd/personal-portfolio-wirerame?node-id=11:287).
 
 ### Color Scheme
 ![2Iaxbn.md.png](https://iili.io/2Iaxbn.md.png)
@@ -167,11 +167,11 @@ The code can be run locally from the Index.html file.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3MDA0NTQ5LC0xMjk3Nzc5MTI5LDE2Nj
-U0NDg2NDEsMTE0ODA2MjMxNiwtOTI2ODU3MTI5LC0xNDk3OTg5
-NDQyLC0xNjE5MzQ4OTMwLDIwOTA5NjI2NTgsLTE1OTc4NTM0ND
-MsMTY1NDk5MDc1NCwxMjIzNTk2NTE1LC00ODc5NDUzNjUsMTEz
-MjAwNTU4OSwtMTM4MjM5NTUzNywtODk2MTQ2NTEsLTIwNDE1Nj
-M2MTcsLTk1MjAxMjE4LDY4ODg3MTk4NiwtMjAzNTY4NzY3MSwt
-MjExNDk1ODg0XX0=
+eyJoaXN0b3J5IjpbMTE4OTQzMzMzMywtMTI5Nzc3OTEyOSwxNj
+Y1NDQ4NjQxLDExNDgwNjIzMTYsLTkyNjg1NzEyOSwtMTQ5Nzk4
+OTQ0MiwtMTYxOTM0ODkzMCwyMDkwOTYyNjU4LC0xNTk3ODUzND
+QzLDE2NTQ5OTA3NTQsMTIyMzU5NjUxNSwtNDg3OTQ1MzY1LDEx
+MzIwMDU1ODksLTEzODIzOTU1MzcsLTg5NjE0NjUxLC0yMDQxNT
+YzNjE3LC05NTIwMTIxOCw2ODg4NzE5ODYsLTIwMzU2ODc2NzEs
+LTIxMTQ5NTg4NF19
 -->
