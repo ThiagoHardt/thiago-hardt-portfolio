@@ -38,11 +38,14 @@ The page consists of 4 main sections: Home, About, Projects, and Contact.
 :white_check_mark: Projects section 
 :white_check_mark: Contact Form section
 
-<hr>
+## Design
 
-## Color Scheme
+### Color Scheme
 ![2Iaxbn.md.png](https://iili.io/2Iaxbn.md.png)
 
+### Typography
+
+**Body** 
 ### Existing Features
 
 - **Home:**
@@ -146,7 +149,7 @@ The code can be run locally from the Index.html file.
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTY4NjU3NywtOTI2ODU3MTI5LC0xND
+eyJoaXN0b3J5IjpbMTEwODc3Nzk2NiwtOTI2ODU3MTI5LC0xND
 k3OTg5NDQyLC0xNjE5MzQ4OTMwLDIwOTA5NjI2NTgsLTE1OTc4
 NTM0NDMsMTY1NDk5MDc1NCwxMjIzNTk2NTE1LC00ODc5NDUzNj
 UsMTEzMjAwNTU4OSwtMTM4MjM5NTUzNywtODk2MTQ2NTEsLTIw
