@@ -41,7 +41,7 @@ The page consists of 4 main sections: Home, About, Projects, and Contact.
 <hr>
 
 ## Color Scheme
-![enter image description here](https://coolors.co/3d5a80-ee6c4d-fafafa-293241)
+![2Iaxbn.md.png](https://iili.io/2Iaxbn.md.png)
 
 ### Existing Features
 
@@ -146,11 +146,11 @@ The code can be run locally from the Index.html file.
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNjg1NzEyOSwtMTQ5Nzk4OTQ0MiwtMT
-YxOTM0ODkzMCwyMDkwOTYyNjU4LC0xNTk3ODUzNDQzLDE2NTQ5
-OTA3NTQsMTIyMzU5NjUxNSwtNDg3OTQ1MzY1LDExMzIwMDU1OD
-ksLTEzODIzOTU1MzcsLTg5NjE0NjUxLC0yMDQxNTYzNjE3LC05
-NTIwMTIxOCw2ODg4NzE5ODYsLTIwMzU2ODc2NzEsLTIxMTQ5NT
-g4NCw4Mzk2OTM1MjYsMTcyMDY2ODc0NCw2ODUzNjg5NTAsNTEy
-MDg2NTI3XX0=
+eyJoaXN0b3J5IjpbLTY0MTY4NjU3NywtOTI2ODU3MTI5LC0xND
+k3OTg5NDQyLC0xNjE5MzQ4OTMwLDIwOTA5NjI2NTgsLTE1OTc4
+NTM0NDMsMTY1NDk5MDc1NCwxMjIzNTk2NTE1LC00ODc5NDUzNj
+UsMTEzMjAwNTU4OSwtMTM4MjM5NTUzNywtODk2MTQ2NTEsLTIw
+NDE1NjM2MTcsLTk1MjAxMjE4LDY4ODg3MTk4NiwtMjAzNTY4Nz
+Y3MSwtMjExNDk1ODg0LDgzOTY5MzUyNiwxNzIwNjY4NzQ0LDY4
+NTM2ODk1MF19
 -->
