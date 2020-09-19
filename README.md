@@ -8,6 +8,8 @@ This project aims to create a fully functional static front-end site using techn
  
 ![2zIyxV.md.png](https://iili.io/2zIyxV.md.png)
 
+A live version can be found [here](https://thiagohardt.github.io/thiago-hardt-portfolio/).
+
 # UX
 
 This is a website for a beginner full-stack software developer.
@@ -143,7 +145,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzU5NjUxNSwxMjIzNTk2NTE1LC00OD
+eyJoaXN0b3J5IjpbMTY1NDk5MDc1NCwxMjIzNTk2NTE1LC00OD
 c5NDUzNjUsMTEzMjAwNTU4OSwtMTM4MjM5NTUzNywtODk2MTQ2
 NTEsLTIwNDE1NjM2MTcsLTk1MjAxMjE4LDY4ODg3MTk4NiwtMj
 AzNTY4NzY3MSwtMjExNDk1ODg0LDgzOTY5MzUyNiwxNzIwNjY4
