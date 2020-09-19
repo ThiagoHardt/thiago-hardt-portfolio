@@ -19,23 +19,23 @@ One of the most important aspects of the website is to keep the navigation simpl
 
 ## User Story
 
-- As a **software developer**
-- I want to **showcase my work in the web**
-- So that **employers and clients can find or hire the user for future projects**
+ **As a visitor**
+ - As a Visitor, I want to easily understand the main purpose of the site and learn more about the developer.
+ -  As a Visitor, I want to be able to easily navigate throughout the site to find content. 
+ - As a visitor, I want to find previous projects that the developer has been part of. 
+ - As a visitor, I want to download the developer’s CV. 
+ - As a visitor, I want to contact the developer.
 
-## Features
 
-### MVP
+## MVP
 The page consists of 4 main sections: Home, About, Projects, and Contact.
   
 
- - :white_check_mark: Fully responsive   
- - :white_check_mark: Downloadable CV 
- - :white_check_mark: About section 
- -  :white_check_mark: Projects section 
- - :white_check_mark: Contact section
-
-<hr>
+:white_check_mark: Fully responsive<br>
+:white_check_mark: Downloadable CV <br>
+:white_check_mark: About section <br>
+:white_check_mark: Projects section <br>
+:white_check_mark: Contact Form section<br>
 
 ### Existing Features
 
@@ -49,13 +49,23 @@ Quickly brief about the developer’s background and skills, with an option to d
 The main projects the developer worked on. Every project contains a short brief to describe it and two buttons, One for a live view of the project and one for the source code.
 
 - **Contact:**
-Button to send e-mail and social links.
+Contact form and social links.
 - **Download CV Button:** This feature enables the user to directly download a .pdf version of the developer’s CV.
-
 
 ### Features Left to Implement
 
 - Possibly a **Blog** feature where the user can showcase interests and IT related content.
+
+## Design
+
+### Color Scheme
+![2Iaxbn.md.png](https://iili.io/2Iaxbn.md.png)
+
+### Typography
+
+**Body:** Roboto<br>
+**Header:** Oswald
+
 
 ## Technologies Used
 
@@ -76,50 +86,66 @@ Throughout the project, the following technologies were used.
 
 ## Testing
 
-![W3C Validator](https://img.shields.io/badge/w3c-testing-orange?style=for-the-badge) ![CSS3 Validator](https://img.shields.io/badge/CSS3-validated-green?style=for-the-badge) <br>
+![W3C Validation](https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2Fthiagohardt.github.io%2Fthiago-hardt-portfolio%2F) ![CSS3 Validator](https://img.shields.io/badge/CSS3-validated-green?style=for-the-badge) ![CSS3 Validator](https://img.shields.io/badge/TEsts-passed-green?style=for-the-badge)
 ![FireFox](https://img.shields.io/badge/firefox-passed-green?style=for-the-badge) ![Chrome](https://img.shields.io/badge/Chrome-passed-green?style=for-the-badge) ![Edge](https://img.shields.io/badge/edge-passed-green?style=for-the-badge)
 
-<hr>
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+**Navbar:**
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+   :white_check_mark:  Links take to the right section.<br>
+   :white_check_mark:  Links highlight when active.<br>
+   :white_check_mark:  Navbar resizes when in smaller screens.<br>
+   :white_check_mark: The Dropdown menu closes after clicking on a link.<br>
+    
+**Hero/Home:**
 
-1.  Contact form:
-    1.  Go to the "Contact Us" page
-    2.  Try to submit the empty form and verify that an error message about the required fields appears
-    3.  Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4.  Try to submit the form with all inputs valid and verify that a success message appears.
+   :white_check_mark:  "View my work" button take takes you to the projects section.<br>
+    :white_check_mark:  "Check my CV" button open a PDF file in a new tab.<br>
+    :white_check_mark:  Content adapts to smaller screen devices.<br>
+    
+ **About:**
+ 
+   :white_check_mark:  "Check my CV" button open a PDF file in a new tab.<br>
+   :white_check_mark:  Content adapts to a single collum on smaller screen devices.<br>
+    
+**Contact**
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+   :white_check_mark:  Go to the "Contact Us" page.<br>
+   :white_check_mark:  Submit the empty form and verify that an error message about the required fields appears.<br>
+   :white_check_mark:  Submit the form with an invalid email address and verify that a relevant error message appears.<br>
+   :white_check_mark:  Submit the form without a message and verify that a relevant error message appears.<br>
+   :white_check_mark: Try to submit the form with all inputs valid.<br>
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+### Known Issues
 
-## Browsers
+:x: Contact Form doesn't actually send any e-mail. 
 
-### Fire Fox
- - :white_check_mark: Links 
- - :white_check_mark: Animations
- - :white_check_mark: Responsiveness
+### Browsers
 
-### Chrome
+**Fire Fox**
 
- - :white_check_mark: Links 
- - :white_check_mark: Animations
- - :white_check_mark: Responsiveness
+ :white_check_mark: Links <br>
+ :white_check_mark: Animations<br>
+ :white_check_mark: Responsiveness<br>
+ :white_check_mark: Form Validation<br>
 
-### Edge
+**Chrome**
 
- - :white_check_mark: Links 
- - :white_check_mark: Animations
- - :white_check_mark: Responsiveness
+ :white_check_mark: Links <br>
+ :white_check_mark: Animations<br>
+ :white_check_mark: Responsiveness<br>
+ :white_check_mark: Form Validation<br>
+
+**Edge**
+
+ :white_check_mark: Links <br>
+ :white_check_mark: Animations<br>
+ :white_check_mark: Responsiveness<br>
+ :white_check_mark: Form Validation<br>
  
 
 ## Deployment
-
 
 The website is hosted and deployed by [Github Pages](https://pages.github.com/).
 Everything is deployed from the master branch and updates automatically whenever the branch is updated.
@@ -127,24 +153,22 @@ The code can be run locally from the Index.html file.
 
 ## Credits
 
-### [](https://github.com/Code-Institute-Solutions/readme-template#content)Content
+### Content
 
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- All content on the page was created by me. 
 
 ### Media
 
 - Photos by [Sarah Ryan ](https://www.sarahryanphoto.com/?fbclid=IwAR3730d96HQXLyUQcNkw34EYJ9-y29WRntj8SY_hU9366dvhbUaDK2_jgeo) and [Niall O'Kelly](https://niallokelly.com/?fbclid=IwAR3730d96HQXLyUQcNkw34EYJ9-y29WRntj8SY_hU9366dvhbUaDK2_jgeo).
 
-### [](https://github.com/Code-Institute-Solutions/readme-template#acknowledgements)Acknowledgements
 
-- I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTkzNDg5MzAsMjA5MDk2MjY1OCwtMT
-U5Nzg1MzQ0MywxNjU0OTkwNzU0LDEyMjM1OTY1MTUsLTQ4Nzk0
-NTM2NSwxMTMyMDA1NTg5LC0xMzgyMzk1NTM3LC04OTYxNDY1MS
-wtMjA0MTU2MzYxNywtOTUyMDEyMTgsNjg4ODcxOTg2LC0yMDM1
-Njg3NjcxLC0yMTE0OTU4ODQsODM5NjkzNTI2LDE3MjA2Njg3ND
-QsNjg1MzY4OTUwLDUxMjA4NjUyNyw2MDI0OTg5NSwtMjA3Nzcw
-OTA1NV19
+eyJoaXN0b3J5IjpbMTY2NTQ0ODY0MSwxMTQ4MDYyMzE2LC05Mj
+Y4NTcxMjksLTE0OTc5ODk0NDIsLTE2MTkzNDg5MzAsMjA5MDk2
+MjY1OCwtMTU5Nzg1MzQ0MywxNjU0OTkwNzU0LDEyMjM1OTY1MT
+UsLTQ4Nzk0NTM2NSwxMTMyMDA1NTg5LC0xMzgyMzk1NTM3LC04
+OTYxNDY1MSwtMjA0MTU2MzYxNywtOTUyMDEyMTgsNjg4ODcxOT
+g2LC0yMDM1Njg3NjcxLC0yMTE0OTU4ODQsODM5NjkzNTI2LDE3
+MjA2Njg3NDRdfQ==
 -->
