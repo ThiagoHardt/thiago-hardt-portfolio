@@ -97,7 +97,7 @@ Throughout the project, the following technologies were used.
     :white_check_mark:  Navbar resizes when in smaller screens.
     :white_check_mark: The Dropdown menu closes after clicking on a link.
     
-**Contact form:**
+**Hero/Home:**
     :white_check_mark:  Go to the "Contact Us" page
     :white_check_mark:  Try to submit the empty form and verify that an error message about the required fields appears
     :white_check_mark:  Try to submit the form with an invalid email address and verify that a relevant error message appears
@@ -156,11 +156,11 @@ The code can be run locally from the Index.html file.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU2MDMxNjMzLDExNDgwNjIzMTYsLTkyNj
-g1NzEyOSwtMTQ5Nzk4OTQ0MiwtMTYxOTM0ODkzMCwyMDkwOTYy
-NjU4LC0xNTk3ODUzNDQzLDE2NTQ5OTA3NTQsMTIyMzU5NjUxNS
-wtNDg3OTQ1MzY1LDExMzIwMDU1ODksLTEzODIzOTU1MzcsLTg5
-NjE0NjUxLC0yMDQxNTYzNjE3LC05NTIwMTIxOCw2ODg4NzE5OD
-YsLTIwMzU2ODc2NzEsLTIxMTQ5NTg4NCw4Mzk2OTM1MjYsMTcy
-MDY2ODc0NF19
+eyJoaXN0b3J5IjpbLTIwNDYxMDczOTEsMTE0ODA2MjMxNiwtOT
+I2ODU3MTI5LC0xNDk3OTg5NDQyLC0xNjE5MzQ4OTMwLDIwOTA5
+NjI2NTgsLTE1OTc4NTM0NDMsMTY1NDk5MDc1NCwxMjIzNTk2NT
+E1LC00ODc5NDUzNjUsMTEzMjAwNTU4OSwtMTM4MjM5NTUzNywt
+ODk2MTQ2NTEsLTIwNDE1NjM2MTcsLTk1MjAxMjE4LDY4ODg3MT
+k4NiwtMjAzNTY4NzY3MSwtMjExNDk1ODg0LDgzOTY5MzUyNiwx
+NzIwNjY4NzQ0XX0=
 -->
