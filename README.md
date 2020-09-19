@@ -4,8 +4,11 @@ Hello there!
 
 This project aims to create a fully functional static front-end site using technologies learned throughout Code Institute full stack web developer course.
 
-[
-![2zIyxV.md.png](https://iili.io/2zIyxV.md.png)](http://ami.responsivedesign.is/?url=https://thiagohardt.github.io/thiago-hardt-portfolio)
+![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fthiagohardt.github.io%2Fthiago-hardt-portfolio%2F) ![GitHub last commit](https://img.shields.io/github/last-commit/thiagohardt/thiago-hardt-portfolio?style=for-the-badge) ![enter image description here](https://img.shields.io/github/languages/count/thiagohardt/thiago-hardt-portfolio?style=for-the-badge)
+ 
+![2zIyxV.md.png](https://iili.io/2zIyxV.md.png)
+
+A live version can be found [here](https://thiagohardt.github.io/thiago-hardt-portfolio/).
 
 # UX
 
@@ -22,28 +25,37 @@ One of the most important aspects of the website is to keep the navigation simpl
 
 ## Features
 
+### MVP
 The page consists of 4 main sections: Home, About, Projects, and Contact.
+  
 
-**Home:**
-Contains the main information and it’s where you first land.
+ - :white_check_mark: Fully responsive   
+ - :white_check_mark: Downloadable CV 
+ - :white_check_mark: About section 
+ -  :white_check_mark: Projects section 
+ - :white_check_mark: Contact section
 
-**About:**
-Quickly brief about the developer’s background and skills, with an option to download CV for further information.
-
-**Projects:**
-The main projects the developer worked on. Every project contains a short brief to describe it and two buttons, One for a live view of the project and one for the source code.
-
-**Contact:**
-Contact form.
+<hr>
 
 ### Existing Features
 
+- **Home:**
+Contains the main information and it’s where you first land.
+
+- **About:**
+Quickly brief about the developer’s background and skills, with an option to download CV for further information.
+
+- **Projects:**
+The main projects the developer worked on. Every project contains a short brief to describe it and two buttons, One for a live view of the project and one for the source code.
+
+- **Contact:**
+Button to send e-mail and social links.
 - **Download CV Button:** This feature enables the user to directly download a .pdf version of the developer’s CV.
 
 
 ### Features Left to Implement
 
-- Possibly a **Blog** feature where the user can showcase interests and IT related content
+- Possibly a **Blog** feature where the user can showcase interests and IT related content.
 
 ## Technologies Used
 
@@ -58,12 +70,16 @@ Throughout the project, the following technologies were used.
 - [StackEdit](https://stackedit.io/)
   - The project uses **StackEdit** to write the README file.
 - [Hover](https://ianlunn.github.io/Hover/)
-  - The project uses **Hover** for hover effects.
+  - The project uses **Hover** for quick hover effects.
  - [ScrollReveal](https://scrollrevealjs.org/)
-   - The project uses **ScrollReveal** to apply scrolling effects effects.
+   - The project uses **ScrollReveal** to apply scrolling effects.
 
 ## Testing
 
+![W3C Validator](https://img.shields.io/badge/w3c-testing-orange?style=for-the-badge) ![CSS3 Validator](https://img.shields.io/badge/CSS3-validated-green?style=for-the-badge) <br>
+![FireFox](https://img.shields.io/badge/firefox-passed-green?style=for-the-badge) ![Chrome](https://img.shields.io/badge/Chrome-passed-green?style=for-the-badge) ![Edge](https://img.shields.io/badge/edge-passed-green?style=for-the-badge)
+
+<hr>
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
@@ -82,7 +98,27 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-## [](https://github.com/Code-Institute-Solutions/readme-template#deployment)Deployment
+## Browsers
+
+### Fire Fox
+ - :white_check_mark: Links 
+ - :white_check_mark: Animations
+ - :white_check_mark: Responsiveness
+
+### Chrome
+
+ - :white_check_mark: Links 
+ - :white_check_mark: Animations
+ - :white_check_mark: Responsiveness
+
+### Edge
+
+ - :white_check_mark: Links 
+ - :white_check_mark: Animations
+ - :white_check_mark: Responsiveness
+ 
+
+## Deployment
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
@@ -94,24 +130,26 @@ In particular, you should provide all details of the differences between the dep
 
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
-## [](https://github.com/Code-Institute-Solutions/readme-template#credits)Credits
+## Credits
 
 ### [](https://github.com/Code-Institute-Solutions/readme-template#content)Content
 
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
-### [](https://github.com/Code-Institute-Solutions/readme-template#media)Media
+### Media
 
-- The photos used in this site were obtained from ...
+- Photos by [Sarah Ryan ](https://www.sarahryanphoto.com/?fbclid=IwAR3730d96HQXLyUQcNkw34EYJ9-y29WRntj8SY_hU9366dvhbUaDK2_jgeo) and [Niall O'Kelly](https://niallokelly.com/?fbclid=IwAR3730d96HQXLyUQcNkw34EYJ9-y29WRntj8SY_hU9366dvhbUaDK2_jgeo).
 
 ### [](https://github.com/Code-Institute-Solutions/readme-template#acknowledgements)Acknowledgements
 
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQ5NTg4NCw4Mzk2OTM1MjYsMTcyMD
-Y2ODc0NCw2ODUzNjg5NTAsNTEyMDg2NTI3LDYwMjQ5ODk1LC0y
-MDc3NzA5MDU1LC0xODUyNjAwNjgxLC0xOTYyMzY2ODk4LDE4Mz
-gxMDIzNTYsMTAzMzU1NDY0OCwtMTE1MzQ3NDUxNiwxNDQ3Mjk1
-Njk2LC0xNjExMjQ0MDkwLC0xNjQ5NjU2NjUwXX0=
+eyJoaXN0b3J5IjpbLTE1OTc4NTM0NDMsMTY1NDk5MDc1NCwxMj
+IzNTk2NTE1LC00ODc5NDUzNjUsMTEzMjAwNTU4OSwtMTM4MjM5
+NTUzNywtODk2MTQ2NTEsLTIwNDE1NjM2MTcsLTk1MjAxMjE4LD
+Y4ODg3MTk4NiwtMjAzNTY4NzY3MSwtMjExNDk1ODg0LDgzOTY5
+MzUyNiwxNzIwNjY4NzQ0LDY4NTM2ODk1MCw1MTIwODY1MjcsNj
+AyNDk4OTUsLTIwNzc3MDkwNTUsLTE4NTI2MDA2ODEsLTE5NjIz
+NjY4OThdfQ==
 -->
