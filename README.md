@@ -37,8 +37,6 @@ The page consists of 4 main sections: Home, About, Projects, and Contact.
 :white_check_mark: Projects section 
 :white_check_mark: Contact Form section
 
-
-
 ### Existing Features
 
 - **Home:**
@@ -51,13 +49,23 @@ Quickly brief about the developer’s background and skills, with an option to d
 The main projects the developer worked on. Every project contains a short brief to describe it and two buttons, One for a live view of the project and one for the source code.
 
 - **Contact:**
-Button to send e-mail and social links.
+Contact form and social links.
 - **Download CV Button:** This feature enables the user to directly download a .pdf version of the developer’s CV.
-
 
 ### Features Left to Implement
 
 - Possibly a **Blog** feature where the user can showcase interests and IT related content.
+
+## Design
+
+### Color Scheme
+![2Iaxbn.md.png](https://iili.io/2Iaxbn.md.png)
+
+### Typography
+
+**Body:** Roboto
+**Header:** Oswald
+
 
 ## Technologies Used
 
@@ -142,7 +150,7 @@ The code can be run locally from the Index.html file.
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDY2MzY1OCwtOTI2ODU3MTI5LC0xND
+eyJoaXN0b3J5IjpbMTE0ODA2MjMxNiwtOTI2ODU3MTI5LC0xND
 k3OTg5NDQyLC0xNjE5MzQ4OTMwLDIwOTA5NjI2NTgsLTE1OTc4
 NTM0NDMsMTY1NDk5MDc1NCwxMjIzNTk2NTE1LC00ODc5NDUzNj
 UsMTEzMjAwNTU4OSwtMTM4MjM5NTUzNywtODk2MTQ2NTEsLTIw
