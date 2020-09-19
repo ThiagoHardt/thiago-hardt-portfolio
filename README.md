@@ -58,6 +58,9 @@ Contact form and social links.
 
 ## Design
 
+### Wireframe
+The wireframe for the project can be found [here](https://www.figma.com/file/IaVtu8YZM7oZCzBSSpasxd/personal-portfolio-wirerame?node-id=11:287).
+
 ### Color Scheme
 ![2Iaxbn.md.png](https://iili.io/2Iaxbn.md.png)
 
@@ -86,8 +89,8 @@ Throughout the project, the following technologies were used.
 
 ## Testing
 
-![W3C Validation](https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2Fthiagohardt.github.io%2Fthiago-hardt-portfolio%2F) ![CSS3 Validator](https://img.shields.io/badge/CSS3-validated-green?style=for-the-badge) ![CSS3 Validator](https://img.shields.io/badge/TEsts-passed-green?style=for-the-badge)
-![FireFox](https://img.shields.io/badge/firefox-passed-green?style=for-the-badge) ![Chrome](https://img.shields.io/badge/Chrome-passed-green?style=for-the-badge) ![Edge](https://img.shields.io/badge/edge-passed-green?style=for-the-badge)
+![W3C Validation](https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2Fthiagohardt.github.io%2Fthiago-hardt-portfolio%2F) ![CSS3 Validator](https://img.shields.io/badge/CSS3-validated-success?style=for-the-badge) ![CSS3 Validator](https://img.shields.io/badge/TEsts-passed-success?style=for-the-badge)<br> 
+![FireFox](https://img.shields.io/badge/firefox-passed-success?style=for-the-badge) ![Chrome](https://img.shields.io/badge/Chrome-passed-success?style=for-the-badge) ![Edge](https://img.shields.io/badge/edge-passed-success?style=for-the-badge)
 
 
 **Navbar:**
@@ -164,11 +167,11 @@ The code can be run locally from the Index.html file.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NTQ0ODY0MSwxMTQ4MDYyMzE2LC05Mj
-Y4NTcxMjksLTE0OTc5ODk0NDIsLTE2MTkzNDg5MzAsMjA5MDk2
-MjY1OCwtMTU5Nzg1MzQ0MywxNjU0OTkwNzU0LDEyMjM1OTY1MT
-UsLTQ4Nzk0NTM2NSwxMTMyMDA1NTg5LC0xMzgyMzk1NTM3LC04
-OTYxNDY1MSwtMjA0MTU2MzYxNywtOTUyMDEyMTgsNjg4ODcxOT
-g2LC0yMDM1Njg3NjcxLC0yMTE0OTU4ODQsODM5NjkzNTI2LDE3
-MjA2Njg3NDRdfQ==
+eyJoaXN0b3J5IjpbMTE4OTQzMzMzMywtMTI5Nzc3OTEyOSwxNj
+Y1NDQ4NjQxLDExNDgwNjIzMTYsLTkyNjg1NzEyOSwtMTQ5Nzk4
+OTQ0MiwtMTYxOTM0ODkzMCwyMDkwOTYyNjU4LC0xNTk3ODUzND
+QzLDE2NTQ5OTA3NTQsMTIyMzU5NjUxNSwtNDg3OTQ1MzY1LDEx
+MzIwMDU1ODksLTEzODIzOTU1MzcsLTg5NjE0NjUxLC0yMDQxNT
+YzNjE3LC05NTIwMTIxOCw2ODg4NzE5ODYsLTIwMzU2ODc2NzEs
+LTIxMTQ5NTg4NF19
 -->
