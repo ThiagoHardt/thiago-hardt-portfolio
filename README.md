@@ -91,11 +91,23 @@ Throughout the project, the following technologies were used.
 
 <hr>
 
+**Navbar:**
+    :white_check_mark:  Links take to the right section.
+    :white_check_mark:  Try to submit the empty form and verify that an error message about the required fields appears
+    :white_check_mark:  Try to submit the form with an invalid email address and verify that a relevant error message appears
+    :white_check_mark: Try to submit the form with all inputs valid.
+    
 **Contact form:**
     :white_check_mark:  Go to the "Contact Us" page
     :white_check_mark:  Try to submit the empty form and verify that an error message about the required fields appears
     :white_check_mark:  Try to submit the form with an invalid email address and verify that a relevant error message appears
-    :white_check_mark: Try to submit the form with all inputs valid and verify that a success message appears.
+    :white_check_mark: Try to submit the form with all inputs valid.
+    
+**Contact form:**
+    :white_check_mark:  Go to the "Contact Us" page
+    :white_check_mark:  Try to submit the empty form and verify that an error message about the required fields appears
+    :white_check_mark:  Try to submit the form with an invalid email address and verify that a relevant error message appears
+    :white_check_mark: Try to submit the form with all inputs valid.
 
 
 ### Known Issues
@@ -144,7 +156,7 @@ The code can be run locally from the Index.html file.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODYwODI0NCwxMTQ4MDYyMzE2LC05Mj
+eyJoaXN0b3J5IjpbMTI2NzM0NzQ2MiwxMTQ4MDYyMzE2LC05Mj
 Y4NTcxMjksLTE0OTc5ODk0NDIsLTE2MTkzNDg5MzAsMjA5MDk2
 MjY1OCwtMTU5Nzg1MzQ0MywxNjU0OTkwNzU0LDEyMjM1OTY1MT
 UsLTQ4Nzk0NTM2NSwxMTMyMDA1NTg5LC0xMzgyMzk1NTM3LC04
