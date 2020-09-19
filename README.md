@@ -19,9 +19,10 @@ One of the most important aspects of the website is to keep the navigation simpl
 
 ## User Story
 
-- As a **software developer**
-- I want to **showcase my work in the web**
-- So that **employers and clients can find or hire the user for future projects**
+ **As a visitor**
+1.  As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+2.  As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+3.  As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
 
 ## Features
 
@@ -140,11 +141,11 @@ The code can be run locally from the Index.html file.
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTkzNDg5MzAsMjA5MDk2MjY1OCwtMT
-U5Nzg1MzQ0MywxNjU0OTkwNzU0LDEyMjM1OTY1MTUsLTQ4Nzk0
-NTM2NSwxMTMyMDA1NTg5LC0xMzgyMzk1NTM3LC04OTYxNDY1MS
-wtMjA0MTU2MzYxNywtOTUyMDEyMTgsNjg4ODcxOTg2LC0yMDM1
-Njg3NjcxLC0yMTE0OTU4ODQsODM5NjkzNTI2LDE3MjA2Njg3ND
-QsNjg1MzY4OTUwLDUxMjA4NjUyNyw2MDI0OTg5NSwtMjA3Nzcw
-OTA1NV19
+eyJoaXN0b3J5IjpbLTk1MDk1MzM4OCwtMTYxOTM0ODkzMCwyMD
+kwOTYyNjU4LC0xNTk3ODUzNDQzLDE2NTQ5OTA3NTQsMTIyMzU5
+NjUxNSwtNDg3OTQ1MzY1LDExMzIwMDU1ODksLTEzODIzOTU1Mz
+csLTg5NjE0NjUxLC0yMDQxNTYzNjE3LC05NTIwMTIxOCw2ODg4
+NzE5ODYsLTIwMzU2ODc2NzEsLTIxMTQ5NTg4NCw4Mzk2OTM1Mj
+YsMTcyMDY2ODc0NCw2ODUzNjg5NTAsNTEyMDg2NTI3LDYwMjQ5
+ODk1XX0=
 -->
