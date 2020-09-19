@@ -101,12 +101,9 @@ Throughout the project, the following technologies were used.
     :white_check_mark:  "Check my CV" button open a PDF file in a new tab.<br>
     :white_check_mark:  Content adapts to smaller screen devices.<br>
     
-**Contact form:**
-    :white_check_mark:  Go to the "Contact Us" page
-    :white_check_mark:  Try to submit the empty form and verify that an error message about the required fields appears
-    :white_check_mark:  Try to submit the form with an invalid email address and verify that a relevant error message appears
-    :white_check_mark: Try to submit the form with all inputs valid.
-
+**About:**
+    :white_check_mark:  "Check my CV" button open a PDF file in a new tab.<br>
+    :white_check_mark:  Content adapts to a single collum smaller screen devices.<br>
 
 ### Known Issues
   
@@ -154,11 +151,11 @@ The code can be run locally from the Index.html file.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjI1MzUxOCwxMTQ4MDYyMzE2LC05Mj
-Y4NTcxMjksLTE0OTc5ODk0NDIsLTE2MTkzNDg5MzAsMjA5MDk2
-MjY1OCwtMTU5Nzg1MzQ0MywxNjU0OTkwNzU0LDEyMjM1OTY1MT
-UsLTQ4Nzk0NTM2NSwxMTMyMDA1NTg5LC0xMzgyMzk1NTM3LC04
-OTYxNDY1MSwtMjA0MTU2MzYxNywtOTUyMDEyMTgsNjg4ODcxOT
-g2LC0yMDM1Njg3NjcxLC0yMTE0OTU4ODQsODM5NjkzNTI2LDE3
-MjA2Njg3NDRdfQ==
+eyJoaXN0b3J5IjpbLTEzMDg2MzIxNjUsMTE0ODA2MjMxNiwtOT
+I2ODU3MTI5LC0xNDk3OTg5NDQyLC0xNjE5MzQ4OTMwLDIwOTA5
+NjI2NTgsLTE1OTc4NTM0NDMsMTY1NDk5MDc1NCwxMjIzNTk2NT
+E1LC00ODc5NDUzNjUsMTEzMjAwNTU4OSwtMTM4MjM5NTUzNywt
+ODk2MTQ2NTEsLTIwNDE1NjM2MTcsLTk1MjAxMjE4LDY4ODg3MT
+k4NiwtMjAzNTY4NzY3MSwtMjExNDk1ODg0LDgzOTY5MzUyNiwx
+NzIwNjY4NzQ0XX0=
 -->
