@@ -1,8 +1,8 @@
-/* Fonts */
+/* -------------------------------------- Fonts -------------------------------------- */
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
 @import url(https://fonts.googleapis.com/css?family=Oswald:200,300,regular,500,600,700);
 
-/* General Declarations */
+/* -------------------------------------- General Declarations -------------------------------------- */
 
 html,
 body {
@@ -14,7 +14,6 @@ body {
   background-color: #fafafa;
 }
 
-/* Remove all text decorations */
 a,
 a:hover,
 a:focus,
@@ -88,14 +87,10 @@ p {
   background-color: #293241;
 }
 
-/* Colors */
+/* -------------------------------------- Colors -------------------------------------- */
 
 .c-blue {
   color: #3d5a80;
-}
-
-.c-pale-blue {
-  color: #98c1d9;
 }
 
 .c-light {
@@ -114,10 +109,6 @@ p {
   background-color: #3d5a80;
 }
 
-.bg-pale-blue {
-  background-color: #98c1d9;
-}
-
 .bg-light {
   background-color: #fafafa;
 }
@@ -130,13 +121,13 @@ p {
   background-color: #293241;
 }
 
-/* Navbar */
+/* -------------------------------------- Navbar -------------------------------------- */
 
 .nav-item {
   padding-left: 20px;
 }
 
-/* Hover.css */
+/* -------------------------------------- Hover.css -------------------------------------- */
 
 .hvr-underline-from-center {
   display: inline-block;
@@ -172,10 +163,10 @@ p {
   right: 0;
 }
 
-/* Home */
+/* -------------------------------------- Home -------------------------------------- */
 
 .jumbotron {
-  background-image: url("../img/thiago-hardt-wide.jpg");
+  background-image: url("../images/thiago-hardt-wide.jpg");
   background-position: inherit;
   background-repeat: no-repeat;
   background-size: cover;
@@ -192,10 +183,7 @@ p {
   font-family: "Oswald", sans-serif;
 }
 
-/* About */
-
-/* Image cropper by
-https://medium.com/@biancapower/how-to-make-a-rectangle-image-a-circle-in-css-2f392bc9abd3 */
+/* -------------------------------------- About -------------------------------------- */
 
 .image-cropper--profile {
   max-width: fit-content;
@@ -237,7 +225,7 @@ https://medium.com/@biancapower/how-to-make-a-rectangle-image-a-circle-in-css-2f
   transition: all 0.3s ease-out;
 }
 
-/* Contact */
+/* -------------------------------------- Contact -------------------------------------- */
 
 .container-contact {
   height: auto;
@@ -286,7 +274,7 @@ a:hover {
   border-color: #fafafa;
 }
 
-/* Media Queries */
+/* -------------------------------------- Media Queries -------------------------------------- */
 
 @media screen and (max-width: 600px) {
   .jumbotron {
