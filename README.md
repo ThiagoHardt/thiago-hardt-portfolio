@@ -98,8 +98,8 @@ Throughout the project, the following technologies were used.
     :white_check_mark: The Dropdown menu closes after clicking on a link.
     
 **Hero/Home:**
-    :white_check_mark:  View my work button take takes you to the projects section.
-    :white_check_mark:  
+    :white_check_mark:  "View my work" button take takes you to the projects section.
+    :white_check_mark:  "Check my CV" button open a PDF file in a new tab.
     :white_check_mark:  Try to submit the form with an invalid email address and verify that a relevant error message appears
     :white_check_mark: Try to submit the form with all inputs valid.
     
@@ -156,11 +156,11 @@ The code can be run locally from the Index.html file.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODMzODA5NiwxMTQ4MDYyMzE2LC05Mj
-Y4NTcxMjksLTE0OTc5ODk0NDIsLTE2MTkzNDg5MzAsMjA5MDk2
-MjY1OCwtMTU5Nzg1MzQ0MywxNjU0OTkwNzU0LDEyMjM1OTY1MT
-UsLTQ4Nzk0NTM2NSwxMTMyMDA1NTg5LC0xMzgyMzk1NTM3LC04
-OTYxNDY1MSwtMjA0MTU2MzYxNywtOTUyMDEyMTgsNjg4ODcxOT
-g2LC0yMDM1Njg3NjcxLC0yMTE0OTU4ODQsODM5NjkzNTI2LDE3
-MjA2Njg3NDRdfQ==
+eyJoaXN0b3J5IjpbMzAzODY2MTM3LDExNDgwNjIzMTYsLTkyNj
+g1NzEyOSwtMTQ5Nzk4OTQ0MiwtMTYxOTM0ODkzMCwyMDkwOTYy
+NjU4LC0xNTk3ODUzNDQzLDE2NTQ5OTA3NTQsMTIyMzU5NjUxNS
+wtNDg3OTQ1MzY1LDExMzIwMDU1ODksLTEzODIzOTU1MzcsLTg5
+NjE0NjUxLC0yMDQxNTYzNjE3LC05NTIwMTIxOCw2ODg4NzE5OD
+YsLTIwMzU2ODc2NzEsLTIxMTQ5NTg4NCw4Mzk2OTM1MjYsMTcy
+MDY2ODc0NF19
 -->
