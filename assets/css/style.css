@@ -34,6 +34,10 @@ p {
   color: #293241;
 }
 
+.section-title {
+  font-size: 2.5rem;
+}
+
 .btn-primary {
   margin: 10px 10px 10px 0;
   background-color: #3d5a80;
