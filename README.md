@@ -77,7 +77,7 @@ Throughout the project, the following technologies were used.
 ## Testing
 
 ![W3C Validator](https://img.shields.io/badge/w3c-testing-orange?style=for-the-badge) ![CSS3 Validator](https://img.shields.io/badge/CSS3-validated-green?style=for-the-badge) <br>
-![FireFox](https://img.shields.io/badge/firefox-passed-green?style=for-the-badge) ![Chrome](https://img.shields.io/badge/Chrome-passed-green?style=for-the-badge) ![Edge](https://img.shields.io/badge/edge-testing-orange?style=for-the-badge)
+![FireFox](https://img.shields.io/badge/firefox-passed-green?style=for-the-badge) ![Chrome](https://img.shields.io/badge/Chrome-passed-green?style=for-the-badge) ![Edge](https://img.shields.io/badge/edge-passed-green?style=for-the-badge)
 
 <hr>
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
@@ -145,11 +145,11 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDk5MDc1NCwxMjIzNTk2NTE1LC00OD
-c5NDUzNjUsMTEzMjAwNTU4OSwtMTM4MjM5NTUzNywtODk2MTQ2
-NTEsLTIwNDE1NjM2MTcsLTk1MjAxMjE4LDY4ODg3MTk4NiwtMj
-AzNTY4NzY3MSwtMjExNDk1ODg0LDgzOTY5MzUyNiwxNzIwNjY4
-NzQ0LDY4NTM2ODk1MCw1MTIwODY1MjcsNjAyNDk4OTUsLTIwNz
-c3MDkwNTUsLTE4NTI2MDA2ODEsLTE5NjIzNjY4OTgsMTgzODEw
-MjM1Nl19
+eyJoaXN0b3J5IjpbLTE1OTc4NTM0NDMsMTY1NDk5MDc1NCwxMj
+IzNTk2NTE1LC00ODc5NDUzNjUsMTEzMjAwNTU4OSwtMTM4MjM5
+NTUzNywtODk2MTQ2NTEsLTIwNDE1NjM2MTcsLTk1MjAxMjE4LD
+Y4ODg3MTk4NiwtMjAzNTY4NzY3MSwtMjExNDk1ODg0LDgzOTY5
+MzUyNiwxNzIwNjY4NzQ0LDY4NTM2ODk1MCw1MTIwODY1MjcsNj
+AyNDk4OTUsLTIwNzc3MDkwNTUsLTE4NTI2MDA2ODEsLTE5NjIz
+NjY4OThdfQ==
 -->
