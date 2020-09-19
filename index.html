@@ -66,6 +66,8 @@
       </div>
     </nav>
 
+    <!-- End Navigation Bar -->
+
     <!-- Home -->
     <header id="home">
       <div class="jumbotron">
@@ -91,6 +93,7 @@
         </div>
       </div>
     </header>
+    <!-- End Home -->
 
     <!-- About -->
     <section id="about">
@@ -116,10 +119,10 @@
                 />
               </div>
               <p class="text-justify">
-                Hello there! My name is Thiago Hardt. 
-                I’m an ex-Chef on a new path as a Software Developer.
-                My past career taught me to always seek perfection and never settle. 
-                I’m curious by nature and programming became my new obsession. 
+                Hello there! My name is Thiago Hardt. I’m an ex-Chef on a new
+                path as a Software Developer. My past career taught me to always
+                seek perfection and never settle. I’m curious by nature and
+                programming became my new obsession.
               </p>
               <div class="d-flex justify-content-end ml-0">
                 <a
@@ -202,6 +205,7 @@
         </div>
       </div>
     </section>
+    <!-- End About -->
 
     <!-- Projects -->
     <section id="projects">
@@ -215,7 +219,6 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-3 my-5">
-              <!-- Image to be changed -->
               <div class="container image-cropper--projects">
                 <img
                   src="assets/img/thiago-portfolio.png"
@@ -260,8 +263,9 @@
             <div class="col-lg-3 my-5">
               <h5>Rosie Portfolio</h5>
               <p>
-                Portfolio website with four pages. That was created in one of the exercises
-                from the full-stack developer course by Code Institute.
+                Portfolio website with four pages. That was created in one of
+                the exercises from the full-stack developer course by Code
+                Institute.
                 <strong>Technologies utilized: HTML, CSS</strong>
               </p>
               <a
@@ -291,9 +295,9 @@
             <div class="col-lg-3 my-5">
               <h5>Whiskey Drop</h5>
               <p>
-                Website for a whiskey subscription service. 
-                That was created in one of the exercises
-                from the full-stack developer course by Code Institute.
+                Website for a whiskey subscription service. That was created in
+                one of the exercises from the full-stack developer course by
+                Code Institute.
                 <strong>Technologies utilized: HTML, CSS</strong>
               </p>
               <a
@@ -315,6 +319,7 @@
         </div>
       </div>
     </section>
+    <!-- End Projects -->
 
     <!-- Contact -->
     <footer id="contact">
@@ -346,10 +351,20 @@
         <div class="row">
           <div class="col">
             <div class="container mb-4 text-center">
-              <a href="https://www.linkedin.com/in/thiago-hardt-461144195" target="_blank"><i class="fab fa-linkedin icon-footer"></i></a>
-              <a href="https://github.com/ThiagoHardt" target="_blank"><i class="fab fa-github-square icon-footer"></i>
-              <a href="https://www.facebook.com/thiago.hardt/" target="_blank"><i class="fab fa-facebook-square icon-footer"></i></a>
-              <a href="https://www.instagram.com/thiagohardt/" target="_blank"><i class="fab fa-instagram-square icon-footer"></i></a>  
+              <a
+                href="https://www.linkedin.com/in/thiago-hardt-461144195"
+                target="_blank"
+                ><i class="fab fa-linkedin icon-footer"></i
+              ></a>
+              <a href="https://github.com/ThiagoHardt" target="_blank"
+                ><i class="fab fa-github-square icon-footer"></i
+              ></a>
+              <a href="https://www.facebook.com/thiago.hardt/" target="_blank"
+                ><i class="fab fa-facebook-square icon-footer"></i
+              ></a>
+              <a href="https://www.instagram.com/thiagohardt/" target="_blank"
+                ><i class="fab fa-instagram-square icon-footer"></i
+              ></a>
             </div>
           </div>
         </div>
@@ -375,36 +390,8 @@
         </div>
       </div>
     </footer>
+    <!-- End Contact -->
 
-    <!-- Scroll Reveal -->
-    <script>
-    ScrollReveal().reveal('#navbar', { duration: 1500 });
-
-    ScrollReveal().reveal('.jumbotron', {
-    delay: 500,
-    useDelay: 'onload',
-    reset: true,
-    });
-
-    ScrollReveal().reveal('#about', {
-    delay: 500,
-    useDelay: 'onload',
-    reset: true,
-    });
-
-    ScrollReveal().reveal('#projects', {
-    delay: 500,
-    useDelay: 'onload',
-    reset: true,
-    });
-
-    ScrollReveal().reveal('#contact', {
-    delay: 500,
-    useDelay: 'onload',
-    reset: true,
-    });
-
-    </script>
     <script
       src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
       integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
@@ -420,5 +407,43 @@
       integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
       crossorigin="anonymous"
     ></script>
+
+    <script>
+      //* Scroll Reveal *//
+
+      ScrollReveal().reveal("#navbar", { duration: 1500 });
+
+      ScrollReveal().reveal(".jumbotron", {
+        delay: 500,
+        useDelay: "onload",
+        reset: true,
+      });
+
+      ScrollReveal().reveal("#about", {
+        delay: 500,
+        useDelay: "onload",
+        reset: true,
+      });
+
+      ScrollReveal().reveal("#projects", {
+        delay: 500,
+        useDelay: "onload",
+        reset: true,
+      });
+
+      ScrollReveal().reveal("#contact", {
+        delay: 500,
+        useDelay: "onload",
+        reset: true,
+      });
+
+      //* End Scroll Reveal *//
+
+      //* Closes Navbar Toggle *//
+      $(document).on("click", function () {
+        $(".collapse").collapse("hide");
+      });
+      //* End Closes Navbar Toggle *//
+    </script>
   </body>
 </html>
