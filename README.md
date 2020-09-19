@@ -20,9 +20,12 @@ One of the most important aspects of the website is to keep the navigation simpl
 ## User Story
 
  **As a visitor**
-1.  As a Visitor, I want to easily understand the main purpose of the site and learn more about the developer.
-2.  As a Visitor, I want to be able to easily navigate throughout the site to find content.
-3.  As a visitor, I want to find previous projects that the developer has been part of.
+ - As a Visitor, I want to easily understand the main purpose of the
+   site and learn more about the developer. As a Visitor, I want to be
+   able to easily navigate throughout the site to find content. As a
+   visitor, I want to find previous projects that the developer has been
+   part of. As a visitor, I want to download the developer’s CV. As a
+   visitor, I want to contact the developer.
 
 ## Features
 
@@ -141,7 +144,7 @@ The code can be run locally from the Index.html file.
 - I received inspiration for this project from X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MDQ4OTcxOCwtMTYxOTM0ODkzMCwyMD
+eyJoaXN0b3J5IjpbMTc1NDY1MDc0OCwtMTYxOTM0ODkzMCwyMD
 kwOTYyNjU4LC0xNTk3ODUzNDQzLDE2NTQ5OTA3NTQsMTIyMzU5
 NjUxNSwtNDg3OTQ1MzY1LDExMzIwMDU1ODksLTEzODIzOTU1Mz
 csLTg5NjE0NjUxLC0yMDQxNTYzNjE3LC05NTIwMTIxOCw2ODg4
