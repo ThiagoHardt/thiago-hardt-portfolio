@@ -164,7 +164,7 @@ Everything is deployed from the master branch and updates automatically whenever
 5.  After the message the page should be published.
 
 ### Forking
-If you want to fork the repository to your own GitHub account you can by clicking on the se
+If you want to fork the repository to your own GitHub account you can by clicking on the “fork” button under the navbar with your profile.
 
 ## Credits
 
@@ -182,11 +182,11 @@ If you want to fork the repository to your own GitHub account you can by clickin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNzY4MTgyMSwxODk2Njg0MTI0LDExOD
-k0MzMzMzMsLTEyOTc3NzkxMjksMTY2NTQ0ODY0MSwxMTQ4MDYy
-MzE2LC05MjY4NTcxMjksLTE0OTc5ODk0NDIsLTE2MTkzNDg5Mz
-AsMjA5MDk2MjY1OCwtMTU5Nzg1MzQ0MywxNjU0OTkwNzU0LDEy
-MjM1OTY1MTUsLTQ4Nzk0NTM2NSwxMTMyMDA1NTg5LC0xMzgyMz
-k1NTM3LC04OTYxNDY1MSwtMjA0MTU2MzYxNywtOTUyMDEyMTgs
-Njg4ODcxOTg2XX0=
+eyJoaXN0b3J5IjpbLTIxNTE5MDI5NywxNDM3NjgxODIxLDE4OT
+Y2ODQxMjQsMTE4OTQzMzMzMywtMTI5Nzc3OTEyOSwxNjY1NDQ4
+NjQxLDExNDgwNjIzMTYsLTkyNjg1NzEyOSwtMTQ5Nzk4OTQ0Mi
+wtMTYxOTM0ODkzMCwyMDkwOTYyNjU4LC0xNTk3ODUzNDQzLDE2
+NTQ5OTA3NTQsMTIyMzU5NjUxNSwtNDg3OTQ1MzY1LDExMzIwMD
+U1ODksLTEzODIzOTU1MzcsLTg5NjE0NjUxLC0yMDQxNTYzNjE3
+LC05NTIwMTIxOF19
 -->
