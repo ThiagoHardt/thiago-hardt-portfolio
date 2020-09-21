@@ -115,6 +115,18 @@ Throughout the project, the following technologies were used.
 - At the end of the page there is a simple contact form that can be filled for easy contact.
 
 ### General Testing
+**Navbar:**
+
+✅  Links take to the right section.  <br>
+✅  Links highlight when active.  <br>
+✅  Navbar resizes when in smaller screens.  <br>
+✅  The Dropdown menu closes after clicking on a link.  <br>
+
+**Hero/Home:**
+
+✅  "View my work" button take takes you to the projects section.  <br>
+✅  "Check my CV" button open a PDF file in a new tab.  <br>
+✅  Content adapts to smaller screen devices.<br>
 
  **About:**
  
@@ -207,11 +219,11 @@ If you want to fork the repository to your own GitHub account you can by clickin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MjI2NTI0NywyNjM2NTgxNDksLTk4MT
-Y1ODI2NCwtNjE4NjQyMjI5LDE0Mzc2ODE4MjEsMTg5NjY4NDEy
-NCwxMTg5NDMzMzMzLC0xMjk3Nzc5MTI5LDE2NjU0NDg2NDEsMT
-E0ODA2MjMxNiwtOTI2ODU3MTI5LC0xNDk3OTg5NDQyLC0xNjE5
-MzQ4OTMwLDIwOTA5NjI2NTgsLTE1OTc4NTM0NDMsMTY1NDk5MD
-c1NCwxMjIzNTk2NTE1LC00ODc5NDUzNjUsMTEzMjAwNTU4OSwt
-MTM4MjM5NTUzN119
+eyJoaXN0b3J5IjpbLTY2NjI5OTE1OSwxNzYyMjY1MjQ3LDI2Mz
+Y1ODE0OSwtOTgxNjU4MjY0LC02MTg2NDIyMjksMTQzNzY4MTgy
+MSwxODk2Njg0MTI0LDExODk0MzMzMzMsLTEyOTc3NzkxMjksMT
+Y2NTQ0ODY0MSwxMTQ4MDYyMzE2LC05MjY4NTcxMjksLTE0OTc5
+ODk0NDIsLTE2MTkzNDg5MzAsMjA5MDk2MjY1OCwtMTU5Nzg1Mz
+Q0MywxNjU0OTkwNzU0LDEyMjM1OTY1MTUsLTQ4Nzk0NTM2NSwx
+MTMyMDA1NTg5XX0=
 -->
