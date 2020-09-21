@@ -106,7 +106,10 @@ Throughout the project, the following technologies were used.
 
 - In mobile version, the navbar contracts into a collapsible button to avoid cluttering the screen.
 - The navigation is easy and objective with clear headings on top of every section.
+
  **As a visitor, I want to find previous projects that the developer has been part of.**
+- The “Projects” page can be found by clicking on the respective link in the navbar or just scrolling down.
+- It shows a short description of projects and their links to the source code aswell as a live version when possible.
 **As a visitor, I want to download the developer’s CV.**
 **As a visitor, I want to contact the developer.**
 
@@ -204,11 +207,11 @@ If you want to fork the repository to your own GitHub account you can by clickin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjI2ODY4LDI2MzY1ODE0OSwtOTgxNj
-U4MjY0LC02MTg2NDIyMjksMTQzNzY4MTgyMSwxODk2Njg0MTI0
-LDExODk0MzMzMzMsLTEyOTc3NzkxMjksMTY2NTQ0ODY0MSwxMT
-Q4MDYyMzE2LC05MjY4NTcxMjksLTE0OTc5ODk0NDIsLTE2MTkz
-NDg5MzAsMjA5MDk2MjY1OCwtMTU5Nzg1MzQ0MywxNjU0OTkwNz
-U0LDEyMjM1OTY1MTUsLTQ4Nzk0NTM2NSwxMTMyMDA1NTg5LC0x
-MzgyMzk1NTM3XX0=
+eyJoaXN0b3J5IjpbLTExMDkwNDg5ODYsMjYzNjU4MTQ5LC05OD
+E2NTgyNjQsLTYxODY0MjIyOSwxNDM3NjgxODIxLDE4OTY2ODQx
+MjQsMTE4OTQzMzMzMywtMTI5Nzc3OTEyOSwxNjY1NDQ4NjQxLD
+ExNDgwNjIzMTYsLTkyNjg1NzEyOSwtMTQ5Nzk4OTQ0MiwtMTYx
+OTM0ODkzMCwyMDkwOTYyNjU4LC0xNTk3ODUzNDQzLDE2NTQ5OT
+A3NTQsMTIyMzU5NjUxNSwtNDg3OTQ1MzY1LDExMzIwMDU1ODks
+LTEzODIzOTU1MzddfQ==
 -->
