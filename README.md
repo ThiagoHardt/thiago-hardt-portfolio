@@ -91,21 +91,44 @@ Throughout the project, the following technologies were used.
 
 ![W3C Validation](https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2Fthiagohardt.github.io%2Fthiago-hardt-portfolio%2F) ![CSS3 Validator](https://img.shields.io/badge/CSS3-validated-success?style=for-the-badge) ![CSS3 Validator](https://img.shields.io/badge/TEsts-passed-success?style=for-the-badge)<br> 
 ![FireFox](https://img.shields.io/badge/firefox-passed-success?style=for-the-badge) ![Chrome](https://img.shields.io/badge/Chrome-passed-success?style=for-the-badge) ![Edge](https://img.shields.io/badge/edge-passed-success?style=for-the-badge)
+![Mobile](https://img.shields.io/badge/Mobile-passed-success?style=for-the-badge)
 
+### Testing User Stories 
 
+ **As a Visitor, I want to easily understand the main purpose of the site and learn more about the developer.**
+- Upon entering the site I have a clear idea of what the page is about.
+- I can see a clear descriptive text and a hero image.
+- I have two options presented by call to action buttons. One taking to the “About” section and one to download a CV.
+
+**As a Visitor, I want to be able to easily navigate throughout the site to find content.**
+- The site has a navbar that sticks to the top of the page, making the navigation easy and intuitive.
+- In mobile version, the navbar contracts into a collapsible button to avoid cluttering the screen.
+- The navigation is easy and objective with clear headings on top of every section.
+
+ **As a visitor, I want to find previous projects that the developer has been part of.**
+- The “Projects” page can be found by clicking on the respective link in the navbar or just scrolling down.
+- It shows a short description of projects and their links to the source code aswell as a live version when possible.
+
+**As a visitor, I want to download the developer’s CV.**
+- I can easily download a PDF file with the CV from the “About” section or the “Home” section.
+
+**As a visitor, I want to contact the developer.**
+- At the end of the page there is a simple contact form that can be filled for easy contact.
+
+### General Testing
 **Navbar:**
 
-   :white_check_mark:  Links take to the right section.<br>
-   :white_check_mark:  Links highlight when active.<br>
-   :white_check_mark:  Navbar resizes when in smaller screens.<br>
-   :white_check_mark: The Dropdown menu closes after clicking on a link.<br>
-    
+✅  Links take to the right section.  <br>
+✅  Links highlight when active.  <br>
+✅  Navbar resizes when in smaller screens.  <br>
+✅  The Dropdown menu closes after clicking on a link.  <br>
+
 **Hero/Home:**
 
-   :white_check_mark:  "View my work" button take takes you to the projects section.<br>
-    :white_check_mark:  "Check my CV" button open a PDF file in a new tab.<br>
-    :white_check_mark:  Content adapts to smaller screen devices.<br>
-    
+✅  "View my work" button take takes you to the projects section.  <br>
+✅  "Check my CV" button open a PDF file in a new tab.  <br>
+✅  Content adapts to smaller screen devices.<br>
+
  **About:**
  
    :white_check_mark:  "Check my CV" button open a PDF file in a new tab.<br>
@@ -152,7 +175,34 @@ Throughout the project, the following technologies were used.
 
 The website is hosted and deployed by [Github Pages](https://pages.github.com/).
 Everything is deployed from the master branch and updates automatically whenever the branch is updated.
-The code can be run locally from the Index.html file.
+
+1.  Log in GitHub and find the desired repo;
+    
+2. Above your repository name you should see a bar with the option settings on the right-hand side;
+    
+3.  Scroll all the way down until you find “GitHub Pages” section;
+    
+4.  Under “Source” select Branch Master;
+    
+5.  After the message the page should be published.
+
+### Forking
+If you want to fork the repository to your own GitHub account you can by clicking on the “fork” button under the navbar with your profile.
+
+### Cloning
+
+ 1. If you want to clone the repository into a local file you can by:
+    
+   2. Clicking on the green button “Code” and copying the url shown.
+    
+   3. Open GitBash
+    
+    4. Change directory to the desired location where you want to clone the
+    files to.
+    
+    5. Type “git clone” and paste the copied URL
+    
+    6. Press enter and you should have your local file cloned and ready.
 
 ## Credits
 
@@ -163,15 +213,18 @@ The code can be run locally from the Index.html file.
 ### Media
 
 - Photos by [Sarah Ryan ](https://www.sarahryanphoto.com/?fbclid=IwAR3730d96HQXLyUQcNkw34EYJ9-y29WRntj8SY_hU9366dvhbUaDK2_jgeo) and [Niall O'Kelly](https://niallokelly.com/?fbclid=IwAR3730d96HQXLyUQcNkw34EYJ9-y29WRntj8SY_hU9366dvhbUaDK2_jgeo).
+### Acknowledgements
+
+-   My Mentor, **Oluwafemi Medale** for continuous helpful feedback.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4OTQzMzMzMywtMTI5Nzc3OTEyOSwxNj
-Y1NDQ4NjQxLDExNDgwNjIzMTYsLTkyNjg1NzEyOSwtMTQ5Nzk4
-OTQ0MiwtMTYxOTM0ODkzMCwyMDkwOTYyNjU4LC0xNTk3ODUzND
-QzLDE2NTQ5OTA3NTQsMTIyMzU5NjUxNSwtNDg3OTQ1MzY1LDEx
-MzIwMDU1ODksLTEzODIzOTU1MzcsLTg5NjE0NjUxLC0yMDQxNT
-YzNjE3LC05NTIwMTIxOCw2ODg4NzE5ODYsLTIwMzU2ODc2NzEs
-LTIxMTQ5NTg4NF19
+eyJoaXN0b3J5IjpbLTEyNzc0NjI0OTMsMTc2MjI2NTI0NywyNj
+M2NTgxNDksLTk4MTY1ODI2NCwtNjE4NjQyMjI5LDE0Mzc2ODE4
+MjEsMTg5NjY4NDEyNCwxMTg5NDMzMzMzLC0xMjk3Nzc5MTI5LD
+E2NjU0NDg2NDEsMTE0ODA2MjMxNiwtOTI2ODU3MTI5LC0xNDk3
+OTg5NDQyLC0xNjE5MzQ4OTMwLDIwOTA5NjI2NTgsLTE1OTc4NT
+M0NDMsMTY1NDk5MDc1NCwxMjIzNTk2NTE1LC00ODc5NDUzNjUs
+MTEzMjAwNTU4OV19
 -->
