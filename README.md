@@ -153,7 +153,8 @@ Throughout the project, the following technologies were used.
 The website is hosted and deployed by [Github Pages](https://pages.github.com/).
 Everything is deployed from the master branch and updates automatically whenever the branch is updated.
 
-
+ 1. Log in GitHub and find the desired repo.
+ 2. List item
 
 ## Credits
 
@@ -171,7 +172,7 @@ Everything is deployed from the master branch and updates automatically whenever
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTQ2MDc1NywxMTg5NDMzMzMzLC0xMj
+eyJoaXN0b3J5IjpbLTQ4ODY2MzU5MCwxMTg5NDMzMzMzLC0xMj
 k3Nzc5MTI5LDE2NjU0NDg2NDEsMTE0ODA2MjMxNiwtOTI2ODU3
 MTI5LC0xNDk3OTg5NDQyLC0xNjE5MzQ4OTMwLDIwOTA5NjI2NT
 gsLTE1OTc4NTM0NDMsMTY1NDk5MDc1NCwxMjIzNTk2NTE1LC00
