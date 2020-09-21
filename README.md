@@ -92,6 +92,14 @@ Throughout the project, the following technologies were used.
 ![W3C Validation](https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2Fthiagohardt.github.io%2Fthiago-hardt-portfolio%2F) ![CSS3 Validator](https://img.shields.io/badge/CSS3-validated-success?style=for-the-badge) ![CSS3 Validator](https://img.shields.io/badge/TEsts-passed-success?style=for-the-badge)<br> 
 ![FireFox](https://img.shields.io/badge/firefox-passed-success?style=for-the-badge) ![Chrome](https://img.shields.io/badge/Chrome-passed-success?style=for-the-badge) ![Edge](https://img.shields.io/badge/edge-passed-success?style=for-the-badge)
 
+### Testing User Stories 
+
+ **As a visitor**
+ - As a Visitor, I want to easily understand the main purpose of the site and learn more about the developer.
+ -  As a Visitor, I want to be able to easily navigate throughout the site to find content. 
+ - As a visitor, I want to find previous projects that the developer has been part of. 
+ - As a visitor, I want to download the developer’s CV. 
+ - As a visitor, I want to contact the developer.
 
 **Navbar:**
 
@@ -197,11 +205,11 @@ If you want to fork the repository to your own GitHub account you can by clickin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTY1ODI2NCwtNjE4NjQyMjI5LDE0Mz
-c2ODE4MjEsMTg5NjY4NDEyNCwxMTg5NDMzMzMzLC0xMjk3Nzc5
-MTI5LDE2NjU0NDg2NDEsMTE0ODA2MjMxNiwtOTI2ODU3MTI5LC
-0xNDk3OTg5NDQyLC0xNjE5MzQ4OTMwLDIwOTA5NjI2NTgsLTE1
-OTc4NTM0NDMsMTY1NDk5MDc1NCwxMjIzNTk2NTE1LC00ODc5ND
-UzNjUsMTEzMjAwNTU4OSwtMTM4MjM5NTUzNywtODk2MTQ2NTEs
-LTIwNDE1NjM2MTddfQ==
+eyJoaXN0b3J5IjpbMjEwMTk0NTgwOSwtOTgxNjU4MjY0LC02MT
+g2NDIyMjksMTQzNzY4MTgyMSwxODk2Njg0MTI0LDExODk0MzMz
+MzMsLTEyOTc3NzkxMjksMTY2NTQ0ODY0MSwxMTQ4MDYyMzE2LC
+05MjY4NTcxMjksLTE0OTc5ODk0NDIsLTE2MTkzNDg5MzAsMjA5
+MDk2MjY1OCwtMTU5Nzg1MzQ0MywxNjU0OTkwNzU0LDEyMjM1OT
+Y1MTUsLTQ4Nzk0NTM2NSwxMTMyMDA1NTg5LC0xMzgyMzk1NTM3
+LC04OTYxNDY1MV19
 -->
