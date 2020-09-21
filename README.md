@@ -167,7 +167,17 @@ Everything is deployed from the master branch and updates automatically whenever
 If you want to fork the repository to your own GitHub account you can by clicking on the “fork” button under the navbar with your profile.
 
 **Cloning**
+If you want to clone the repository into a local file you can by:
 
+Clicking on the green button “Code” and copying the url shown.
+
+Open GitBash
+
+Change directory to the desired location where you want to clone the files to.
+
+Type “git clone” and paste the copied URL
+
+Press enter and you should have your local file cloned and ready.
 
 ## Credits
 
@@ -185,11 +195,11 @@ If you want to fork the repository to your own GitHub account you can by clickin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODY0MjIyOSwxNDM3NjgxODIxLDE4OT
-Y2ODQxMjQsMTE4OTQzMzMzMywtMTI5Nzc3OTEyOSwxNjY1NDQ4
-NjQxLDExNDgwNjIzMTYsLTkyNjg1NzEyOSwtMTQ5Nzk4OTQ0Mi
-wtMTYxOTM0ODkzMCwyMDkwOTYyNjU4LC0xNTk3ODUzNDQzLDE2
-NTQ5OTA3NTQsMTIyMzU5NjUxNSwtNDg3OTQ1MzY1LDExMzIwMD
-U1ODksLTEzODIzOTU1MzcsLTg5NjE0NjUxLC0yMDQxNTYzNjE3
-LC05NTIwMTIxOF19
+eyJoaXN0b3J5IjpbMTQ3MDUyMDM2NCwtNjE4NjQyMjI5LDE0Mz
+c2ODE4MjEsMTg5NjY4NDEyNCwxMTg5NDMzMzMzLC0xMjk3Nzc5
+MTI5LDE2NjU0NDg2NDEsMTE0ODA2MjMxNiwtOTI2ODU3MTI5LC
+0xNDk3OTg5NDQyLC0xNjE5MzQ4OTMwLDIwOTA5NjI2NTgsLTE1
+OTc4NTM0NDMsMTY1NDk5MDc1NCwxMjIzNTk2NTE1LC00ODc5ND
+UzNjUsMTEzMjAwNTU4OSwtMTM4MjM5NTUzNywtODk2MTQ2NTEs
+LTIwNDE1NjM2MTddfQ==
 -->
