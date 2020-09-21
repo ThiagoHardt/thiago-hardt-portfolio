@@ -166,6 +166,10 @@ Everything is deployed from the master branch and updates automatically whenever
 ### Forking
 If you want to fork the repository to your own GitHub account you can by clicking on the “fork” button under the navbar with your profile.
 
+**Cloning**
+
+
+
 ## Credits
 
 ### Content
@@ -182,11 +186,11 @@ If you want to fork the repository to your own GitHub account you can by clickin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTE5MDI5NywxNDM3NjgxODIxLDE4OT
-Y2ODQxMjQsMTE4OTQzMzMzMywtMTI5Nzc3OTEyOSwxNjY1NDQ4
-NjQxLDExNDgwNjIzMTYsLTkyNjg1NzEyOSwtMTQ5Nzk4OTQ0Mi
-wtMTYxOTM0ODkzMCwyMDkwOTYyNjU4LC0xNTk3ODUzNDQzLDE2
-NTQ5OTA3NTQsMTIyMzU5NjUxNSwtNDg3OTQ1MzY1LDExMzIwMD
-U1ODksLTEzODIzOTU1MzcsLTg5NjE0NjUxLC0yMDQxNTYzNjE3
-LC05NTIwMTIxOF19
+eyJoaXN0b3J5IjpbNDEyNTE0NDksMTQzNzY4MTgyMSwxODk2Nj
+g0MTI0LDExODk0MzMzMzMsLTEyOTc3NzkxMjksMTY2NTQ0ODY0
+MSwxMTQ4MDYyMzE2LC05MjY4NTcxMjksLTE0OTc5ODk0NDIsLT
+E2MTkzNDg5MzAsMjA5MDk2MjY1OCwtMTU5Nzg1MzQ0MywxNjU0
+OTkwNzU0LDEyMjM1OTY1MTUsLTQ4Nzk0NTM2NSwxMTMyMDA1NT
+g5LC0xMzgyMzk1NTM3LC04OTYxNDY1MSwtMjA0MTU2MzYxNywt
+OTUyMDEyMThdfQ==
 -->
