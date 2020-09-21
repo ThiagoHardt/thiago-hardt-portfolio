@@ -114,8 +114,8 @@ Throughout the project, the following technologies were used.
 **As a visitor, I want to contact the developer.**
 - At the end of the page there is a simple contact form that can be filled for easy contact.
 
+### General Testing
 
-    
  **About:**
  
    :white_check_mark:  "Check my CV" button open a PDF file in a new tab.<br>
@@ -207,7 +207,7 @@ If you want to fork the repository to your own GitHub account you can by clickin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MzMxMDIzOCwyNjM2NTgxNDksLTk4MT
+eyJoaXN0b3J5IjpbMTc2MjI2NTI0NywyNjM2NTgxNDksLTk4MT
 Y1ODI2NCwtNjE4NjQyMjI5LDE0Mzc2ODE4MjEsMTg5NjY4NDEy
 NCwxMTg5NDMzMzMzLC0xMjk3Nzc5MTI5LDE2NjU0NDg2NDEsMT
 E0ODA2MjMxNiwtOTI2ODU3MTI5LC0xNDk3OTg5NDQyLC0xNjE5
