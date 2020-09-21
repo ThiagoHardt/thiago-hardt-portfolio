@@ -152,7 +152,8 @@ Throughout the project, the following technologies were used.
 
 The website is hosted and deployed by [Github Pages](https://pages.github.com/).
 Everything is deployed from the master branch and updates automatically whenever the branch is updated.
-The code can be run locally from the Index.html file.
+
+
 
 ## Credits
 
@@ -165,12 +166,12 @@ The code can be run locally from the Index.html file.
 - Photos by [Sarah Ryan ](https://www.sarahryanphoto.com/?fbclid=IwAR3730d96HQXLyUQcNkw34EYJ9-y29WRntj8SY_hU9366dvhbUaDK2_jgeo) and [Niall O'Kelly](https://niallokelly.com/?fbclid=IwAR3730d96HQXLyUQcNkw34EYJ9-y29WRntj8SY_hU9366dvhbUaDK2_jgeo).
 ### Acknowledgements
 
--   My Mentor for continuous helpful feedback.
+-   My Mentor, **Oluwafemi Medale** for continuous helpful feedback.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMDg0MTA4OCwxMTg5NDMzMzMzLC0xMj
+eyJoaXN0b3J5IjpbLTgxNTQ2MDc1NywxMTg5NDMzMzMzLC0xMj
 k3Nzc5MTI5LDE2NjU0NDg2NDEsMTE0ODA2MjMxNiwtOTI2ODU3
 MTI5LC0xNDk3OTg5NDQyLC0xNjE5MzQ4OTMwLDIwOTA5NjI2NT
 gsLTE1OTc4NTM0NDMsMTY1NDk5MDc1NCwxMjIzNTk2NTE1LC00
