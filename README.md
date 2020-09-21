@@ -102,6 +102,9 @@ Throughout the project, the following technologies were used.
 - I have two options presented by call to action buttons. One taking to the “About” section and one to download a CV.
 
 **As a Visitor, I want to be able to easily navigate throughout the site to find content.**
+- The site has a navbar that sticks to the top of the page, making the navigation easy and intuitive.
+
+- In mobile version, the navbar contracts into a collapsible button to avoid cluttering the screen.
  **As a visitor, I want to find previous projects that the developer has been part of.**
 **As a visitor, I want to download the developer’s CV.**
 **As a visitor, I want to contact the developer.**
@@ -200,11 +203,11 @@ If you want to fork the repository to your own GitHub account you can by clickin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODgzNzE5NTAsMjYzNjU4MTQ5LC05OD
-E2NTgyNjQsLTYxODY0MjIyOSwxNDM3NjgxODIxLDE4OTY2ODQx
-MjQsMTE4OTQzMzMzMywtMTI5Nzc3OTEyOSwxNjY1NDQ4NjQxLD
-ExNDgwNjIzMTYsLTkyNjg1NzEyOSwtMTQ5Nzk4OTQ0MiwtMTYx
-OTM0ODkzMCwyMDkwOTYyNjU4LC0xNTk3ODUzNDQzLDE2NTQ5OT
-A3NTQsMTIyMzU5NjUxNSwtNDg3OTQ1MzY1LDExMzIwMDU1ODks
-LTEzODIzOTU1MzddfQ==
+eyJoaXN0b3J5IjpbMTMyNDAzMTI4NywyNjM2NTgxNDksLTk4MT
+Y1ODI2NCwtNjE4NjQyMjI5LDE0Mzc2ODE4MjEsMTg5NjY4NDEy
+NCwxMTg5NDMzMzMzLC0xMjk3Nzc5MTI5LDE2NjU0NDg2NDEsMT
+E0ODA2MjMxNiwtOTI2ODU3MTI5LC0xNDk3OTg5NDQyLC0xNjE5
+MzQ4OTMwLDIwOTA5NjI2NTgsLTE1OTc4NTM0NDMsMTY1NDk5MD
+c1NCwxMjIzNTk2NTE1LC00ODc5NDUzNjUsMTEzMjAwNTU4OSwt
+MTM4MjM5NTUzN119
 -->
