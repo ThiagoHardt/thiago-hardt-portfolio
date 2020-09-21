@@ -188,14 +188,12 @@ If you want to fork the repository to your own GitHub account you can by clickin
 ### Cloning
 
  1. If you want to clone the repository into a local file you can by:
-    
-   2. Clicking on the green button “Code” and copying the url shown.
-    
-   3. Open GitBash
-  4. Change directory to the desired location where you want to clone the
+ 2. Clicking on the green button “Code” and copying the url shown.
+ 3. Open GitBash
+ 4. Change directory to the desired location where you want to clone the
     files to.
- 2. Type “git clone” and paste the copied URL
- 3.  6. Press enter and you should have your local file cloned and ready.
+ 5. Type “git clone” and paste the copied URL
+ 6. Press enter and you should have your local file cloned and ready.
 
 ## Credits
 
@@ -213,7 +211,7 @@ If you want to fork the repository to your own GitHub account you can by clickin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzQzNTU1LC0xMjc3NDYyNDkzLDE3Nj
+eyJoaXN0b3J5IjpbNDU4NzUxMDYxLC0xMjc3NDYyNDkzLDE3Nj
 IyNjUyNDcsMjYzNjU4MTQ5LC05ODE2NTgyNjQsLTYxODY0MjIy
 OSwxNDM3NjgxODIxLDE4OTY2ODQxMjQsMTE4OTQzMzMzMywtMT
 I5Nzc3OTEyOSwxNjY1NDQ4NjQxLDExNDgwNjIzMTYsLTkyNjg1
