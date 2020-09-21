@@ -94,12 +94,13 @@ Throughout the project, the following technologies were used.
 
 ### Testing User Stories 
 
- **As a visitor**
- - As a Visitor, I want to easily understand the main purpose of the site and learn more about the developer.
- -  As a Visitor, I want to be able to easily navigate throughout the site to find content. 
- - As a visitor, I want to find previous projects that the developer has been part of. 
- - As a visitor, I want to download the developer’s CV. 
- - As a visitor, I want to contact the developer.
+ **As a Visitor, I want to easily understand the main purpose of the site and learn more about the developer.**
+ - List item
+
+**As a Visitor, I want to be able to easily navigate throughout the site to find content.**
+ **As a visitor, I want to find previous projects that the developer has been part of.**
+**As a visitor, I want to download the developer’s CV.**
+**As a visitor, I want to contact the developer.**
 
 **Navbar:**
 
@@ -205,7 +206,7 @@ If you want to fork the repository to your own GitHub account you can by clickin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTk0NTgwOSwtOTgxNjU4MjY0LC02MT
+eyJoaXN0b3J5IjpbMTUwNDk2Nzg1NSwtOTgxNjU4MjY0LC02MT
 g2NDIyMjksMTQzNzY4MTgyMSwxODk2Njg0MTI0LDExODk0MzMz
 MzMsLTEyOTc3NzkxMjksMTY2NTQ0ODY0MSwxMTQ4MDYyMzE2LC
 05MjY4NTcxMjksLTE0OTc5ODk0NDIsLTE2MTkzNDg5MzAsMjA5
