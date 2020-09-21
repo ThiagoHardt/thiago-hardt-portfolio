@@ -153,8 +153,18 @@ Throughout the project, the following technologies were used.
 The website is hosted and deployed by [Github Pages](https://pages.github.com/).
 Everything is deployed from the master branch and updates automatically whenever the branch is updated.
 
- 1. Log in GitHub and find the desired repo.
- 2. Above your repository name you should see a bar with the option settings on the right hand side
+1.  Log in GitHub and find the desired repo;
+    
+2. Above your repository name you should see a bar with the option settings on the right-hand side;
+    
+3.  Scroll all the way down until you find “GitHub Pages” section;
+    
+4.  Under “Source” select Branch Master;
+    
+5.  After the message the page should be published.
+
+### Forking
+If you want to fork the repository to your own GitHub account you can by clicking on the
 
 ## Credits
 
@@ -172,11 +182,11 @@ Everything is deployed from the master branch and updates automatically whenever
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjY4NDEyNCwxMTg5NDMzMzMzLC0xMj
-k3Nzc5MTI5LDE2NjU0NDg2NDEsMTE0ODA2MjMxNiwtOTI2ODU3
-MTI5LC0xNDk3OTg5NDQyLC0xNjE5MzQ4OTMwLDIwOTA5NjI2NT
-gsLTE1OTc4NTM0NDMsMTY1NDk5MDc1NCwxMjIzNTk2NTE1LC00
-ODc5NDUzNjUsMTEzMjAwNTU4OSwtMTM4MjM5NTUzNywtODk2MT
-Q2NTEsLTIwNDE1NjM2MTcsLTk1MjAxMjE4LDY4ODg3MTk4Niwt
-MjAzNTY4NzY3MV19
+eyJoaXN0b3J5IjpbNDU1NzAxODk5LDE4OTY2ODQxMjQsMTE4OT
+QzMzMzMywtMTI5Nzc3OTEyOSwxNjY1NDQ4NjQxLDExNDgwNjIz
+MTYsLTkyNjg1NzEyOSwtMTQ5Nzk4OTQ0MiwtMTYxOTM0ODkzMC
+wyMDkwOTYyNjU4LC0xNTk3ODUzNDQzLDE2NTQ5OTA3NTQsMTIy
+MzU5NjUxNSwtNDg3OTQ1MzY1LDExMzIwMDU1ODksLTEzODIzOT
+U1MzcsLTg5NjE0NjUxLC0yMDQxNTYzNjE3LC05NTIwMTIxOCw2
+ODg4NzE5ODZdfQ==
 -->
