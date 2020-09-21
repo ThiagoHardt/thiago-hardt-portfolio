@@ -105,6 +105,7 @@ Throughout the project, the following technologies were used.
 - The site has a navbar that sticks to the top of the page, making the navigation easy and intuitive.
 
 - In mobile version, the navbar contracts into a collapsible button to avoid cluttering the screen.
+- The navigation is easy and objective with clear headings on top of every section.
  **As a visitor, I want to find previous projects that the developer has been part of.**
 **As a visitor, I want to download the developer’s CV.**
 **As a visitor, I want to contact the developer.**
@@ -203,11 +204,11 @@ If you want to fork the repository to your own GitHub account you can by clickin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDAzMTI4NywyNjM2NTgxNDksLTk4MT
-Y1ODI2NCwtNjE4NjQyMjI5LDE0Mzc2ODE4MjEsMTg5NjY4NDEy
-NCwxMTg5NDMzMzMzLC0xMjk3Nzc5MTI5LDE2NjU0NDg2NDEsMT
-E0ODA2MjMxNiwtOTI2ODU3MTI5LC0xNDk3OTg5NDQyLC0xNjE5
-MzQ4OTMwLDIwOTA5NjI2NTgsLTE1OTc4NTM0NDMsMTY1NDk5MD
-c1NCwxMjIzNTk2NTE1LC00ODc5NDUzNjUsMTEzMjAwNTU4OSwt
-MTM4MjM5NTUzN119
+eyJoaXN0b3J5IjpbMTM5MjI2ODY4LDI2MzY1ODE0OSwtOTgxNj
+U4MjY0LC02MTg2NDIyMjksMTQzNzY4MTgyMSwxODk2Njg0MTI0
+LDExODk0MzMzMzMsLTEyOTc3NzkxMjksMTY2NTQ0ODY0MSwxMT
+Q4MDYyMzE2LC05MjY4NTcxMjksLTE0OTc5ODk0NDIsLTE2MTkz
+NDg5MzAsMjA5MDk2MjY1OCwtMTU5Nzg1MzQ0MywxNjU0OTkwNz
+U0LDEyMjM1OTY1MTUsLTQ4Nzk0NTM2NSwxMTMyMDA1NTg5LC0x
+MzgyMzk1NTM3XX0=
 -->
