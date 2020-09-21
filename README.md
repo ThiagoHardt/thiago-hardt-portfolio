@@ -177,13 +177,9 @@ The website is hosted and deployed by [Github Pages](https://pages.github.com/).
 Everything is deployed from the master branch and updates automatically whenever the branch is updated.
 
 1.  Log in GitHub and find the desired repo;
-    
 2. Above your repository name you should see a bar with the option settings on the right-hand side;
-    
 3.  Scroll all the way down until you find “GitHub Pages” section;
-    
 4.  Under “Source” select Branch Master;
-    
 5.  After the message the page should be published.
 
 ### Forking
@@ -196,13 +192,10 @@ If you want to fork the repository to your own GitHub account you can by clickin
    2. Clicking on the green button “Code” and copying the url shown.
     
    3. Open GitBash
-    
-    4. Change directory to the desired location where you want to clone the
+  4. Change directory to the desired location where you want to clone the
     files to.
-    
-    5. Type “git clone” and paste the copied URL
-    
-    6. Press enter and you should have your local file cloned and ready.
+ 2. Type “git clone” and paste the copied URL
+ 3.  6. Press enter and you should have your local file cloned and ready.
 
 ## Credits
 
@@ -220,11 +213,11 @@ If you want to fork the repository to your own GitHub account you can by clickin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzc0NjI0OTMsMTc2MjI2NTI0NywyNj
-M2NTgxNDksLTk4MTY1ODI2NCwtNjE4NjQyMjI5LDE0Mzc2ODE4
-MjEsMTg5NjY4NDEyNCwxMTg5NDMzMzMzLC0xMjk3Nzc5MTI5LD
-E2NjU0NDg2NDEsMTE0ODA2MjMxNiwtOTI2ODU3MTI5LC0xNDk3
-OTg5NDQyLC0xNjE5MzQ4OTMwLDIwOTA5NjI2NTgsLTE1OTc4NT
-M0NDMsMTY1NDk5MDc1NCwxMjIzNTk2NTE1LC00ODc5NDUzNjUs
-MTEzMjAwNTU4OV19
+eyJoaXN0b3J5IjpbMTUzMzQzNTU1LC0xMjc3NDYyNDkzLDE3Nj
+IyNjUyNDcsMjYzNjU4MTQ5LC05ODE2NTgyNjQsLTYxODY0MjIy
+OSwxNDM3NjgxODIxLDE4OTY2ODQxMjQsMTE4OTQzMzMzMywtMT
+I5Nzc3OTEyOSwxNjY1NDQ4NjQxLDExNDgwNjIzMTYsLTkyNjg1
+NzEyOSwtMTQ5Nzk4OTQ0MiwtMTYxOTM0ODkzMCwyMDkwOTYyNj
+U4LC0xNTk3ODUzNDQzLDE2NTQ5OTA3NTQsMTIyMzU5NjUxNSwt
+NDg3OTQ1MzY1XX0=
 -->
