@@ -95,9 +95,9 @@ Throughout the project, the following technologies were used.
 ### Testing User Stories 
 
  **As a Visitor, I want to easily understand the main purpose of the site and learn more about the developer.**
-- Upon entering the site I have a clear message of what the page is about.
+- Upon entering the site I have a clear idea of what the page is about.
 
-- I can see a clear with a descriptive text and a hero image.
+- I can see a clear descriptive text and a hero image.
 
 - I have two options presented by call to action buttons. One taking to the “About” section and one to download a CV.
 
@@ -200,7 +200,7 @@ If you want to fork the repository to your own GitHub account you can by clickin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQ4NDU5NTMsMjYzNjU4MTQ5LC05OD
+eyJoaXN0b3J5IjpbLTE5ODgzNzE5NTAsMjYzNjU4MTQ5LC05OD
 E2NTgyNjQsLTYxODY0MjIyOSwxNDM3NjgxODIxLDE4OTY2ODQx
 MjQsMTE4OTQzMzMzMywtMTI5Nzc3OTEyOSwxNjY1NDQ4NjQxLD
 ExNDgwNjIzMTYsLTkyNjg1NzEyOSwtMTQ5Nzk4OTQ0MiwtMTYx
