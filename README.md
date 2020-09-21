@@ -95,25 +95,15 @@ Throughout the project, the following technologies were used.
 ### Testing User Stories 
 
  **As a Visitor, I want to easily understand the main purpose of the site and learn more about the developer.**
- - List item
+ - 
 
 **As a Visitor, I want to be able to easily navigate throughout the site to find content.**
  **As a visitor, I want to find previous projects that the developer has been part of.**
 **As a visitor, I want to download the developer’s CV.**
 **As a visitor, I want to contact the developer.**
 
-**Navbar:**
 
-   :white_check_mark:  Links take to the right section.<br>
-   :white_check_mark:  Links highlight when active.<br>
-   :white_check_mark:  Navbar resizes when in smaller screens.<br>
-   :white_check_mark: The Dropdown menu closes after clicking on a link.<br>
-    
-**Hero/Home:**
 
-   :white_check_mark:  "View my work" button take takes you to the projects section.<br>
-    :white_check_mark:  "Check my CV" button open a PDF file in a new tab.<br>
-    :white_check_mark:  Content adapts to smaller screen devices.<br>
     
  **About:**
  
@@ -206,11 +196,11 @@ If you want to fork the repository to your own GitHub account you can by clickin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDk2Nzg1NSwtOTgxNjU4MjY0LC02MT
-g2NDIyMjksMTQzNzY4MTgyMSwxODk2Njg0MTI0LDExODk0MzMz
-MzMsLTEyOTc3NzkxMjksMTY2NTQ0ODY0MSwxMTQ4MDYyMzE2LC
-05MjY4NTcxMjksLTE0OTc5ODk0NDIsLTE2MTkzNDg5MzAsMjA5
-MDk2MjY1OCwtMTU5Nzg1MzQ0MywxNjU0OTkwNzU0LDEyMjM1OT
-Y1MTUsLTQ4Nzk0NTM2NSwxMTMyMDA1NTg5LC0xMzgyMzk1NTM3
-LC04OTYxNDY1MV19
+eyJoaXN0b3J5IjpbMjYzNjU4MTQ5LC05ODE2NTgyNjQsLTYxOD
+Y0MjIyOSwxNDM3NjgxODIxLDE4OTY2ODQxMjQsMTE4OTQzMzMz
+MywtMTI5Nzc3OTEyOSwxNjY1NDQ4NjQxLDExNDgwNjIzMTYsLT
+kyNjg1NzEyOSwtMTQ5Nzk4OTQ0MiwtMTYxOTM0ODkzMCwyMDkw
+OTYyNjU4LC0xNTk3ODUzNDQzLDE2NTQ5OTA3NTQsMTIyMzU5Nj
+UxNSwtNDg3OTQ1MzY1LDExMzIwMDU1ODksLTEzODIzOTU1Mzcs
+LTg5NjE0NjUxXX0=
 -->
