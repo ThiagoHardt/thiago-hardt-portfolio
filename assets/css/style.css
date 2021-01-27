@@ -229,6 +229,10 @@ p {
   transition: all 0.3s ease-out;
 }
 
+.btn-tech {
+  cursor: context-menu !important;
+}
+
 /* -------------------------------------- Contact -------------------------------------- */
 
 .container-contact {
