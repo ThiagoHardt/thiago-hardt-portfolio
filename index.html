@@ -118,7 +118,7 @@
               </p>
               <div class="d-flex justify-content-end ml-0">
                 <a
-                  class="btn btn-outline-primary btn-lg"
+                  class="btn btn-outline-primary"
                   href="assets/docs/Thiago_Hardt_Resume.pdf"
                   target="_blank"
                 >
@@ -331,9 +331,10 @@
         <hr class="linebreak mb-5" />
         <div class="row justify-content-center">
           <div class="col">
-            <div class="container container-contact--form mb-5">
-              <form class="form-contact">
+            <div class="container container-contact--form mb-3">
+              <form class="form-contact" onsubmit="return sendMail(this);">
                 <div class="form-group c-light">
+                  <input type="hidden" name="contact_number" />
                   <label for="name">Your name</label>
                   <input
                     type="text"
@@ -368,13 +369,44 @@
                   type="submit"
                   value="SEND"
                 />
+                <div
+                  class="alert alert-secondary alert-dismissible fade"
+                  role="alert"
+                >
+                  <button
+                    type="button"
+                    class="close"
+                    data-dismiss="alert"
+                    aria-label="Close"
+                  >
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
               </form>
+            </div>
+            <div class="row mb-2">
+              <div class="col text-center">
+                <a href="https://github.com/ThiagoHardt" target="_blank">
+                  <i class="fab fa-github c-light m-2 icon-footer"></i
+                ></a>
+                <a
+                  href="https://www.linkedin.com/in/thiago-hardt/"
+                  target="_blank"
+                  ><i class="fab fa-linkedin-in c-light m-2 icon-footer"></i
+                ></a>
+                <a href="https://www.facebook.com/thiago.hardt/" target="_blank"
+                  ><i class="fab fa-facebook c-light m-2 icon-footer"></i
+                ></a>
+                <a href="https://www.instagram.com/thiagohardt/" target="_blank"
+                  ><i class="fab fa-instagram c-light m-2 icon-footer"></i
+                ></a>
+              </div>
             </div>
           </div>
         </div>
         <div class="row container-footer bg-dark">
           <div class="col">
-            <div class="text-center text-copyright c-light">
+            <div class="text-center text-copyright c-light small">
               © 2020 Copyright:<a href="#" target="_blank"> Thiago Hardt</a> |
               Photos by:
               <a
@@ -401,6 +433,15 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script src="https://kit.fontawesome.com/ad3578afcd.js"></script>
     <script src="https://unpkg.com/scrollreveal"></script>
+    <script
+      type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"
+    ></script>
+    <script type="text/javascript">
+      (function () {
+        emailjs.init("user_kaTQrDtIkyN5NiqVJQuzX");
+      })();
+    </script>
     <script src="./assets/js/script.js"></script>
   </body>
 </html>

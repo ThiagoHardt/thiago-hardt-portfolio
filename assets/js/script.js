@@ -35,3 +35,34 @@ $(document).on("click", function () {
 });
 
 //* End Closes Navbar Toggle *//
+
+function sendMail(contactForm) {
+  let alert = document.querySelector(".alert");
+  emailjs
+    .send("service_36zv07k", "template_1ce679m", {
+      name: contactForm.name.value,
+      emailInput: contactForm.emailInput.value,
+      messageForm: contactForm.messageForm.value,
+    })
+    .then(
+      function (response) {
+        alert.textContent =
+          "Email sent successfully. I'll send you a reply as soon as possible.";
+        // Clear error after 3 seconds
+        setTimeout(clearError, 3000);
+        alert.classList.add("show");
+      },
+      function (error) {
+        alert.textContent = "Opps! Something went wrong. Please try again.";
+        // Clear error after 3 seconds
+        setTimeout(clearError, 5000);
+        alert.classList.add("show");
+      }
+    );
+  return false; // To block from loading a new page
+}
+
+// Clear error
+function clearError() {
+  document.querySelector(".alert").remove();
+}
